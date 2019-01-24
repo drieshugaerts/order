@@ -1,0 +1,140 @@
+﻿V.P. Area,System,Status,ITEA RFS #,Short Description,Date Received,Target Date,Low Estimate,High Estimate
+Business Services,Ariba,Not Started,14357,Remove MERS number,10/14/03,6/30/04,40,80
+Business Services,Ariba,Not Started,14821,Work with zone to create monthly list of csv files,1/5/04,3/31/04,20,30
+Business Services,Ariba,Started,14349,Investigate and implement Ariba standard reports,10/14/03,9/30/04,80,120
+Business Services,Ariba,Started,14352,PCR reroute back to the approver,10/14/03,12/31/04,40,80
+Business Services,Ariba,Started,14819,Try to produce report of orders over the $100 cap,1/5/04,3/31/04,50,150
+Business Services,Ariba,Started,14820,Store only last 6 digits of SS# in user.csv file,1/5/04,6/30/04,50,100
+Business Services,ASER,Started,14626,"HR - Med Contrib Field Expan in FI, Ag, ASER 14626",11/13/03,1/31/04,100,150
+Business Services,BUDG,Started,13985,Annual Budget System Mods for 04-05 Budget (13985),7/30/03,,100,500
+Business Services,CAAC,Pending,11008,SPS - Create new F&A Base for SPS Accounts 11008,11/16/00,6/30/01,5,10
+Business Services,CARS,Not Started,14731,CARS - Reflect in FMIS chg acct from CARS - 14731,12/15/03,7/1/04,100,300
+Business Services,CARS,Pending,12870,CARS - Modify FMIS feeds payments to write-offs  12870,3/28/02,5/31/02,20,60
+Business Services,CARS,Pending,13108,CARS - Credit balance on type W accounts 13108,6/20/02,,30,60
+Business Services,CARS,Pending,14546,CARS - W-O NFEE not posting bad debt to FMIS 14546,10/30/03,,20,40
+Business Services,CARS,Started,14732,CARS - Incl Reg Campus 1-2140 on Mo Recon - 14732,12/15/03,3/1/04,20,40
+Business Services,COEUS,Not Started,14071,COEUS - Impl IRB module - Phase I & Phase II 14071,9/10/03,,800,1600
+Business Services,FMIS,Not Started,15006,FMIS - Add Obj 49102 to SPS Front End Edit  15006,1/2/04,1/30/04,8,20
+Business Services,FMIS,Pending,14094,FMIS - Fix Schedule I object mapping 14094,9/15/03,,20,40
+Business Services,ODS Replication,Started,14949,Replicate 11 new tables for Paciolan interface,5/1/03,12/31/03,160,240
+Business Services,ODS Reporting,Started,14913,Pacesetter - Move withdrawn proposals to result report,7/22/03,9/1/03,100,160
+Business Services,PAFX,Started,13710,Employer Medical Field Expansion (13710),3/10/03,,900,1200
+Business Services,PAFX,Started,13783,FSA Duplicate Claims Problem (13783),4/14/03,,8,40
+Business Services,PAFX,Started,13887,Spousal Opt-out without Medical Credit (13887),6/16/03,,4,8
+Business Services,PAYR,Not Started,14724,Need to Handle 2 PayPeriod 80s in FY 04-05 (14724),12/12/03,6/30/05,800,1200
+Business Services,PAYR,Placeholder,15002,Modify Regional Grad Health Insurance in Paryoll Charge,1/23/04,,30,50
+Business Services,PAYR,Started,12277,COBOLII Conversions (12277),9/6/01,,90,100
+Business Services,PAYR,Started,13958,Payroll Year End 2003 (13958),7/17/03,,100,500
+Business Services,PAYR,Started,14242,Excess Insurance W-2 Modification (14242),9/26/03,3/31/04,200,400
+Business Services,PAYR,Started,14467,SS/OASDI Wage Base for 2004 (14467),10/29/03,12/30/03,4,8
+Business Services,PAYR/PAFX,Pending,10999,Modify Liberty Mutual Workers Comp Data (10999),9/5/00,,40,80
+Business Services,PAYR/PAFX,Placeholder,14974,Health Assessment Benefit (14974),1/16/04,,1,999
+Business Services,PAYR/PAFX,Placeholder,14975,Health Savings Account Benefit (14975),1/16/04,,1,999
+Business Services,PAYR/PAFX,Placeholder,14976,Direct Charge Leave Accruals (14976),1/16/04,,1,999
+Business Services,PAYR/PAFX,Started,14373,Voluntary Benefit Bill & Remit Vendor File (14373),10/15/03,12/1/03,200,300
+Business Services,PESN,Not Started,14702,Replace Student/Personnel Interface (14702),12/3/03,11/26/03,1,1
+Business Services,PESN,Started,13977,Missing Form 4 Biweekly Updates (13977),7/29/03,8/12/03,40,120
+Business Services,PESN,Started,13978,Academic Rank Date Fix (13978),7/29/03,8/13/03,40,120
+Business Services,PESN/PAYR,Placeholder,14972,Research Faculty Position Code (14972),1/16/04,,1,999
+Business Services,PESN/PAYR,Placeholder,14973,New Grad Student Classification (14973),1/16/04,,1,999
+Business Services,PROP,Pending,12958,PROP - Action History File problms - Form data missing 12958,1/1/02,4/30/02,40,200
+Business Services,PUPO,Pending,14092,PUPO - Bill 1811 - Part 2  14092,9/15/03,,60,80
+Business Services,PUPO,Pending,14093,PUPO - Bill 1811 - Part 3 14093,9/15/03,,40,80
+Business Services,SLAC,Not Started,14095,SLAC - Sep Disab/Death Cancel for PU Loans 14095,8/26/03,7/1/04,40,120
+Business Services,SLAC,Not Started,14141,SLAC - Perkins Promissory Note 14141,9/16/03,7/1/04,40,120
+Business Services,SLAC,Not Started,14664,"SLAC - NOTIF in bal file w/ ""B"" on 0 bal  14664",11/21/03,9/30/04,50,100
+Business Services,SLAC,Not Started,14665,SLAC - Est new interest rate for PU loans  14665,11/21/03,7/1/04,120,240
+Business Services,SLAC,Not Started,14714,SLAC - Remove Defer 35 & 47 from Loan List  14714,12/8/03,8/8/04,40,120
+Business Services,SLAC,Pending,12709,SLAC - Calumet  to reactivate FTP 05 Trns 12709,1/14/02,,4,16
+Business Services,YREND,Placeholder,14971,FMIS - Annual Yr End Mods  14971,1/16/04,7/1/04,200,300
+ITAP,PUID,Not Started,14685,Improve PUID Matching / Scoring process,11/25/03,3/31/04,200,500
+ITAP,PUID,Not Started,14726,PUCC Feed Flag Issues,12/15/03,,80,120
+ITAP,PUID,Not Started,14727,Send Expunge when last active relationship removed,12/15/03,,40,200
+ITAP,PUID,Not Started,14729,Timing of student status,12/15/03,,40,200
+ITAP,PUID,Not Started,14730,Data not updating from Source files into PUID,12/15/03,,40,200
+ITAP,PUID,Started,14686,Additional PUID Assignment,11/25/03,2/27/04,80,400
+ITAP,PUID,Started,14687,SI-Purge Clean-up,12/1/03,1/12/04,80,120
+ITaP,WAI,Not Started,14862,Move Financial Aid data to the Data Warehouse,1/9/04,9/1/04,500,1000
+ITaP,WAI,Not Started,14867,Move Regional Campus Application Data to the DW,1/9/04,9/1/04,250,600
+ITaP,WAI,Placeholder,14699,Extend PUID system to resolve identity problems before they are propagated to legcy systems and the Data Warehouse.,12/4/03,,100,499
+ITaP,WAI,Ready for Class Review,14697,"DSS Student, Financial, and employee (including the Workforce file) data all have departmnet names/codes associated with them independently.  A method needs to be developed to match departments across the different data types.",12/4/03,7/1/04,101,500
+ITaP,WAI,Started,13625,Remove the current test scores from Student Table,9/23/03,1/31/04,2,5
+ITaP,WAI,Started,14169,Clean up records in student DSS with 2 query ids,9/17/03,1/31/04,200,350
+ITaP,WAI,Started,14174,Move Admissions Application data to the D W.,9/17/03,1/31/04,650,950
+ITaP,WAI,Started,14599,Complete the Student DSS Profile Project Phase II,11/10/03,7/1/04,650,900
+ITEA,PACII,Started,13689,PACII - Remove Vacation Tracking System.,2/28/03,,25,50
+ITEA,PACII,Started,14106,PACII - Archive and shut down.,9/15/03,,50,100
+Student Services,Bursar,Not Started,10742,Print Archived Advice Forms (10742),10/4/00,1/1/05,100,499
+Student Services,Bursar,Not Started,13499,Commonline v 5.0 Upgrade (13499),12/5/02,6/1/05,150,300
+Student Services,Bursar,Not Started,13501,Purge Advice History,12/5/02,1/1/05,50,100
+Student Services,Bursar,Started,13786,TRA New Requirements  (13786),4/17/03,3/1/04,120,500
+Student Services,DFA,Not Started,12992,Earn Paid for Pell and SWT (12992),4/26/02,6/1/04,40,120
+Student Services,DFA,Not Started,13503,Delete Alpha Check Audit Report (13503),12/6/02,3/1/04,15,30
+Student Services,DFA,Not Started,13768,DOE common record (13768),4/10/03,7/30/04,300,1000
+Student Services,DFA,Not Started,14323,Annual SSACI Reconciliation (14323),10/7/03,9/30/04,80,200
+Student Services,DFA,Not Started,14463,FISAP (14463),10/28/03,9/15/04,15,40
+Student Services,DFA,Not Started,14478,Update PLUSENRL for summer 2004 (14478),10/31/03,4/15/04,1,10
+Student Services,DFA,Not Started,14873,PFAE Data Capture for Noel Levitz (14873),1/9/04,,50,100
+Student Services,DFA,Ready for Class Review,14981,DBD Update,1/20/04,2/16/04,1,5
+Student Services,DFA,Started,12611,Mod the download to include alt loans (12611),1/2/02,1/31/04,20,80
+Student Services,DFA,Started,14341,2002-2003 Purge   (14341),10/14/03,1/30/04,1,100
+Student Services,DFA,Started,14489,Modify CDVB program (14489),10/31/03,2/1/04,50,100
+Student Services,DFA,Started,14704,Mod aid auth to always look for AUTH doc (14704),12/5/03,3/15/04,50,150
+Student Services,DFA,Started,14767,Carry Forward (14767),12/23/03,3/1/04,50,150
+Student Services,REGI,Pending,14816,Annual ICHE Support (14816),12/31/03,,40,80
+Student Services,REGI,Started,14790,IUPUI Interface (14790),12/30/03,10/1/04,25,100
+Student Services,SIAD,Not Started,13508,"Modify SAT fields, SISO and reports (13508)",12/6/02,2/1/05,200,500
+Student Services,SIAD,Not Started,14001,Annual Web App Support (14001),8/5/03,8/15/04,100,500
+Student Services,SIAD,Started,14003,Mainframe Support July 03 - June 04 (14003),8/5/03,6/30/04,10,50
+Student Services,SIS,Not Started,14206,SAT/PSAT Major Code Change,9/23/03,,25,50
+Student Services,SIS,Not Started,14238,SAT I External Load,9/26/03,,10,25
+Student Services,SIS,Not Started,14407,Natl Merit and IRTSAP Mods (annual),10/22/03,,8,40
+Student Services,SIS,Not Started,14409,JETS Engr Ext Data Load  14208,10/22/03,,5,15
+Student Services,SIS,Not Started,14411,Geomarket Update (EPS) (annual),10/22/03,,8,24
+Student Services,SIS,Not Started,14413,High School Load Mods (annual),10/22/03,,8,24
+Student Services,SIS,Not Started,14415,ACT Load Mods (annual),10/22/03,,8,24
+Student Services,SIS,Not Started,14417,SAT Load Mods (annual),10/22/03,,8,24
+Student Services,SIS,Not Started,14419,Jr. Survey Data Load (annual),10/22/03,,8,24
+Student Services,SIS,Pending,10934,Twenty-First Century Scholar Load Mods (annual),11/2/00,,8,24
+Student Services,SIS,Pending,10939,PSAT Load Mods (annual)  10939,11/2/00,,8,24
+Student Services,SIS,Pending,12662,Plan EOS Data Load Mods (annual)  12662,1/4/02,,8,40
+Student Services,SIS,Pending,12663,Ventures Scholars Load Mods (annual)  12663,1/4/02,,8,40
+Student Services,SIS,Ready for Class Review,14933,Replicate all Registrar-relevant SIS tables to SIQ.‎,1/14/04,,75,100
+Student Services,SIS,Started,13923,SAT/ACT Modifications  13923,7/2/03,3/1/05,100,499
+Student Services,SIS,Started,14421,ISIRS Mods (annual)  14421,10/22/03,2/29/04,40,100
+Student Services,SIS,Started,14705,Cleanup bogus PUID's,12/5/03,1/24/04,10,25
+University Development,,Awaiting Implementation,120,Replicate 11 new tables for Paciolan interface,5/1/03,,1,1
+University Development,,Awaiting Implementation,208,JPC download link-Alert,,8/15/03,1,1
+University Development,,Started,218,Assist with Athletics interface,,,1,1
+University Development,Advance C/S,Acceptance Testing,127,Set up codes for IU Records at IPFW,3/3/03,,101,101
+University Development,Advance C/S,Awaiting Implementation,248,Remove PC Joint Formal Salutation rows (Type'PC') from ADVANCE.SALUTATION,11/4/03,,1,1
+University Development,Advance C/S,Awaiting Implementation,250,Work with BSR to fix gift club maintenance issue in client.‎,11/4/03,,101,101
+University Development,Advance C/S,Not Started,15008,Advance C/S upgrade,1/26/04,9/1/04,480,640
+University Development,Advance C/S,Pending,106,Advance C/S upgrade,,,1,1
+University Development,Advance C/S,Started,88,PF/Accounting Rewrite,4/30/03,10/10/03,501,501
+University Development,Advance C/S,Started,90,Paciolan Athletics Interface,5/1/03,5/31/03,101,101
+University Development,Advance C/S,Started,249,"Document how names are built in various applications; strive to use name wizard as re-usable ‎object in all applications that generate names of communication with donors.  Applications ‎identified are:  Name wiz itself, Appeal Wiz, Label Wiz, Directory Do",11/4/03,,501,501
+University Development,Advance C/S,Started,14914,Assist with Athletics interface,1/13/04,,500,1000
+University Development,Advance C/S,Started,14915,Set up codes for IU Records at IPFW,3/3/03,4/1/03,160,200
+University Development,Advance C/S,Started,14919,JPC Giftclub (with Paciolan Athletics Interface),5/9/03,2/21/04,320,480
+University Development,Advance C/S,Started,14947,Gift club inactivation,4/23/03,2/24/04,320,640
+University Development,Advance C/S,Started,14948,Weekly process to inactivate JPC memberships  (with Paciolan Athletics Interface),8/8/03,12/15/03,160,240
+University Development,Advance C/S,Started,14950,AKA/nickname clean-up,11/4/03,1/1/04,160,240
+University Development,Advance C/S,Started,15009,Paciolan Athletics Interface,1/26/03,,640,800
+University Development,Advance C/S,Started,15010,PF/Accounting Rewrite,4/1/03,7/31/03,640,800
+University Development,Advance C/S,Started,15011,JPC download link-Alert,5/9/03,10/1/03,320,480
+University Development,Advance C/S,Started,15012,Remove PC Joint Formal Salutation rows (Type'PC') from ADVANCE.SALUTATION,10/1/03,1/1/04,160,320
+University Development,Advance C/S,Started,15013,Document how names are built in various applications,10/1/03,1/1/04,160,320
+University Development,Advance C/S,Started,15014,Work with BSR to fix gift club maintenance issue in client.‎,10/1/03,1/1/04,160,320
+University Development,Gift Clubs,Awaiting Implementation,217,Weekly process to inactivate JPC memberships  (with Paciolan Athletics Interface),8/8/03,,1,1
+University Development,Gift Clubs,Started,153,JPC Giftclub (with Paciolan Athletics Interface),5/9/03,,1,1
+University Development,Gift Clubs,Started,156,Gift club inactivation,4/23/03,,501,501
+University Development,Reports,Acceptance Testing,215,Pacesetter - Move withdrawn proposals to result report,7/22/03,,1,1
+University Development,SmartCall,Started,247,SmartCall 9.2 Upgrade‎,10/29/03,,101,101
+University Development,Smartcall,Started,15015,SmartCall 9.2 Upgrade‎,10/29/03,12/31/03,80,160
+University Development,United Way Production,Acceptance Testing,176,Create a Match between SSN and PUID for Payroll deductions,4/21/03,,1,1
+University Development,United Way Vendor Implementati,Awaiting Implementation,154,"
+Replace the United Way mainframe system",10/1/02,6/1/03,101,101
+University Residences,RHCA,Started,13704,RHCA - Card Access Redgn Interface - add DOC 13704,3/1/03,7/31/04,300,1000
+University Residences,RMS,Not Started,14481,RMS - SI Import mod 2‎ - RDL Override 14481,10/30/03,1/1/04,25,50
+University Residences,RMS,Not Started,14482,RMS - SI Import mod- Change in PUID number 14482,10/31/03,1/1/04,25,50

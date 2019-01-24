@@ -234,7 +234,7 @@ class individual_scores:
 
 
 h = individual_scores()
-h.load_results('data.pkl')
+h.load_results('data_1.pkl')
 #h.compare_results_running_average(None, 'rand', 'lrtb', 'tblr', 'rlbt', 'btrl', 'diag_cw', 'radial_cw')
 h.calculate_averages()
 h.calculate_improvements()

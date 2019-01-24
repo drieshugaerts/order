@@ -1,0 +1,150 @@
+﻿Ref #,Labor Group,Labor Category,Contractor Site (CONUS) Rates,Government Site (CONUS) Rates,Overseas Rates
+1,Administrative Services,Administrative Support (Level I),$50.87,$43.25,$43.25
+2,Administrative Services,Documentation Specialist - Technical Writer (Level I),$39.12,$33.28,$33.28
+3,Administrative Services,Documentation Specialist - Technical Writer (Level II),$50.87,$43.25,$43.25
+4,Administrative Services,Documentation Specialist - Technical Writer (Level III),$69.66,$59.22,$59.22
+5,Administrative Services,Graphics Specialist (Level I),$35.01,$29.76,$29.76
+6,Administrative Services,Graphics Specialist (Level II),$62.94,$53.53,$53.53
+7,Administrative Services,Graphics Specialist (Level III),$79.28,$67.41,$67.41
+8,Administrative Services,Electronic Input Operator (Level I),$34.14,$29.04,$29.04
+9,Administrative Services,Electronic Input Operator (Level II),$40.33,$34.31,$34.31
+10,Administrative Services,Electronic Input Operator (Level III),$57.69,$49.06,$49.06
+11,Business Services,Business Case Analysis Specialist (Level I),$51.27,$43.61,$43.61
+12,Business Services,Business Case Analysis Specialist (Level II),$59.77,$50.84,$50.84
+13,Business Services,Business Case Analysis Specialist (Level III),$141.70,$120.52,$120.52
+14,Business Services,Principal Business Process Reengineering Specialist (Level II),$117.95,$100.29,$100.29
+15,Business Services,Principal Business Process Reengineering Specialist (Level III),$141.53,$120.38,$120.38
+16,Business Services,Principal Business Process Reengineering Specialist (Level IV),$168.53,$168.53,$168.53
+17,Business Services,Strategic Planner (Level II),$60.55,$51.50,$51.50
+18,Business Services,Strategic Planner (Level III),$152.53,$129.72,$129.72
+19,Business Services,Strategic Planner (Level IV),$195.41,$195.41,$195.41
+20,Business Services,Enterprise Resource Planning (ERP) Analyst/Modeler (III),$165.31,$165.31,$165.31
+21,Business Services,Enterprise Resource Planning (ERP) Analyst/Modeler (IV),$310.53,$310.53,$310.53
+22,Business Services,Enterprise Resource Planning Specialist (Level IV),$310.53,$310.53,$310.53
+23,Client Relationship Management,Information Services Specialist (Level IV),$147.01,$147.01,$147.01
+24,Client Relationship Management,Project Manager (Level I),$98.57,$83.83,$83.83
+25,Client Relationship Management,Project Manager (Level II),$114.62,$97.48,$97.48
+26,Client Relationship Management,Project Manager (Level III),$130.87,$111.29,$111.29
+27,Client Relationship Management,Project Manager (Level IV),$195.87,$195.87,$195.87
+28,Client Relationship Management,Task Order Manager (Level I),$76.71,$65.24,$65.24
+29,Client Relationship Management,Task Order Manager (Level II),$92.09,$78.31,$78.31
+30,Client Relationship Management,Task Order Manager (Level III),$102.04,$86.77,$86.77
+31,Client Relationship Management,Task Order Manager (Level IV),$152.40,$152.40,$152.40
+32,Data/Configuration Management,Data/Configuration Management Specialist (Level I),$51.18,$43.51,$43.51
+33,Data/Configuration Management,Data/Configuration Management Specialist (Level II),$67.69,$57.56,$57.56
+34,Data/Configuration Management,Data/Configuration Management Specialist (Level III),$117.95,$100.29,$100.29
+35,Education and Training,Curriculum Developer (Level II),$78.33,$66.63,$66.63
+36,Education and Training,Curriculum Developer (Level III),$104.50,$88.87,$88.87
+37,Education and Training,Training Facilitator (Level I),$49.25,$41.87,$41.87
+38,Education and Training,Training Facilitator (Level II),$99.26,$84.41,$84.41
+39,Education and Training,Training Facilitator (Level III),$122.71,$104.36,$104.36
+40,Information Assurance,Disaster Recovery Specialist (Level II),$70.14,$59.64,$59.64
+41,Information Assurance,Disaster Recovery Specialist (Level III),$121.14,$103.02,$103.02
+42,Information Assurance,Information Assurance Devlopment Engineer (Level II),$73.41,$62.42,$62.42
+43,Information Assurance,Information Assurance Devlopment Engineer (Level III),$152.57,$152.57,$152.57
+44,Information Assurance,Information Assurance Network Specialist (Level I),$56.20,$47.80,$47.80
+45,Information Assurance,Information Assurance Network Specialist (Level II),$79.28,$67.41,$67.41
+46,Information Assurance,Information Assurance Network Specialist (Level III),$133.90,$113.87,$113.87
+47,Information Assurance,Information Security Business Analyst (Level II),$67.66,$57.55,$57.55
+48,Information Assurance,Information Security Business Analyst (Level III),$194.91,$194.91,$194.91
+49,Information Assurance,Operations Systems Security Specialist (Level I),$56.35,$47.91,$47.91
+50,Information Assurance,Operations Systems Security Specialist (Level II),$129.21,$109.88,$109.88
+51,Information Assurance,Operations Systems Security Specialist (Level III),$162.17,$137.91,$137.91
+52,Information Assurance,Threat Specialist (Level I),$129.21,$109.88,$109.88
+53,Information Assurance,Threat Specialist (Level II),$150.93,$128.38,$128.38
+54,Information Assurance,Threat Specialist (Level III),$205.84,$205.84,$205.84
+55,Information Assurance,Business Continuity Planner (Level II),$78.43,$66.71,$66.71
+56,Information Assurance,Business Continuity Planner (Level III),$147.13,$125.13,$125.13
+57,Operations/Network Support,Client/Server Network Architect (Level II),$66.88,$56.86,$56.86
+58,Operations/Network Support,Client/Server Network Architect (Level III),$117.70,$100.07,$100.07
+59,Operations/Network Support,Communication Facilities Engineer (Level II),$74.35,$63.24,$63.24
+60,Operations/Network Support,Communication Facilities Engineer (Level III),$105.87,$90.04,$90.04
+61,Operations/Network Support,Communication Transmission Engineer (Level II),$74.72,$63.54,$63.54
+62,Operations/Network Support,Communication Transmission Engineer (Level III),$141.66,$120.48,$120.48
+63,Operations/Network Support,Computer Operator (Level I),$35.01,$29.76,$29.76
+64,Operations/Network Support,Computer Operator (Level II),$48.17,$40.96,$40.96
+65,Operations/Network Support,Computer Operator (Level III),$66.20,$56.30,$56.30
+66,Operations/Network Support,Network Planning Analyst (Level I),$62.78,$53.38,$53.38
+67,Operations/Network Support,Network Planning Analyst (Level II),$81.05,$68.92,$68.92
+68,Operations/Network Support,Network Planning Analyst (Level III),$162.17,$137.91,$137.91
+69,Operations/Network Support,Network Systems Administrator (Level I),$65.20,$55.45,$55.45
+70,Operations/Network Support,Network Systems Administrator (Level II),$77.55,$65.95,$65.95
+71,Operations/Network Support,Network Systems Administrator (Level III),$145.65,$123.87,$123.87
+72,Operations/Network Support,Network/Hardware Support Technician (Level I),$54.19,$46.08,$46.08
+73,Operations/Network Support,Network/Hardware Support Technician (Level II),$71.59,$60.87,$60.87
+74,Operations/Network Support,Network/Hardware Support Technician (Level III),$117.95,$100.29,$100.29
+75,Operations/Network Support,Telecommunications/Communications Integration Engineer (Level I),$51.62,$43.90,$43.90
+76,Operations/Network Support,Telecommunications/Communications Integration Engineer (Level II),$71.59,$60.87,$60.87
+77,Operations/Network Support,Telecommunications/Communications Integration Engineer (Level III),$135.68,$115.39,$115.39
+78,Operations/Network Support,Cable Installer (Level I),$47.12,$40.08,$40.08
+79,Operations/Network Support,Cable Installer (Level II),$55.49,$47.19,$47.19
+80,Operations/Network Support,Cable Installer (Level III),$72.06,$61.27,$61.27
+81,Operations/Network Support,Information Center/Help Desk Support (Level I),$46.17,$39.26,$39.26
+82,Operations/Network Support,Information Center/Help Desk Support (Level II),$73.05,$62.11,$62.11
+83,Operations/Network Support,Information Center/Help Desk Support (Level III),$88.74,$75.47,$75.47
+84,Quality Assurance,Quality Assurance Specialist (Level I),$47.32,$40.24,$40.24
+85,Quality Assurance,Quality Assurance Specialist (Level II),$66.20,$56.30,$56.30
+86,Quality Assurance,Quality Assurance Specialist (Level III),$152.23,$129.45,$129.45
+87,Scientific/Business/Engineer,Scientist/Engineer (Level III),$146.59,$124.66,$124.66
+88,Scientific/Business/Engineer,Scientist/Engineer (Level IV),$195.41,$195.41,$195.41
+89,Scientific/Business/Engineer,Subject Matter Expert (Level III),$192.81,$192.81,$192.81
+90,Scientific/Business/Engineer,Subject Matter Expert (Level IV),$374.92,$374.92,$374.92
+91,Scientific/Business/Engineer,Logistics Specialist (Level I),$47.62,$40.49,$40.49
+92,Scientific/Business/Engineer,Logistics Specialist (Level II),$64.86,$55.16,$55.16
+93,Scientific/Business/Engineer,Logistics Specialist (Level III),$114.67,$97.51,$97.51
+94,Scientific/Business/Engineer,Modeling/Simulation Specialist (Level I),$47.76,$40.61,$40.61
+95,Scientific/Business/Engineer,Modeling/Simulation Specialist (Level II),$64.71,$55.04,$55.04
+96,Scientific/Business/Engineer,Modeling/Simulation Specialist (Level III),$141.66,$120.48,$120.48
+97,Technical,Applications Programmer (Level I),$53.75,$45.71,$45.71
+98,Technical,Applications Programmer (Level II),$63.73,$54.20,$54.20
+99,Technical,Applications Programmer (Level III),$81.23,$69.08,$69.08
+100,Technical,Applications Programmer (Level IV),$141.53,$120.38,$120.38
+101,Technical,Applications Systems Analyst (Level I),$51.62,$43.90,$43.90
+102,Technical,Applications Systems Analyst (Level II),$64.71,$55.04,$55.04
+103,Technical,Applications Systems Analyst (Level III),$85.73,$72.91,$72.91
+104,Technical,Applications Systems Analyst (Level IV),$114.67,$97.51,$97.51
+105,Technical,Data Architect (Level I),$89.82,$76.38,$76.38
+106,Technical,Data Architect (Level II),$131.23,$111.60,$111.60
+107,Technical,Data Architect (Level III),$152.65,$129.83,$129.83
+108,Technical,Data Warehouse Analyst (Level I),$93.56,$79.56,$79.56
+109,Technical,Data Warehouse Analyst (Level II),$109.83,$93.40,$93.40
+110,Technical,Data Warehouse Analyst (Level III),$127.62,$108.53,$108.53
+111,Technical,Data Warehouse Analyst (Level IV),$157.63,$134.04,$134.04
+112,Technical,Database Manager/Administrator (Level II),$96.16,$81.77,$81.77
+113,Technical,Database Manager/Administrator (Level III),$108.22,$92.01,$92.01
+114,Technical,Database Manager/Administrator (Level IV),$147.59,$125.51,$125.51
+115,Technical,Database Analyst/Programmer (Level I),$53.75,$45.71,$45.71
+116,Technical,Database Analyst/Programmer (Level II),$75.04,$63.79,$63.79
+117,Technical,Database Analyst/Programmer (Level III),$90.98,$77.38,$77.38
+118,Technical,Database Analyst/Programmer (Level IV),$111.47,$94.80,$94.80
+119,Technical,Electronic Data Interchange (EDI) Specialist (Level II),$62.26,$52.96,$52.96
+120,Technical,Electronic Data Interchange (EDI) Specialist (Level III),$107.36,$91.30,$91.30
+121,Technical,PC Maintenance Technician (Level I),$42.44,$36.09,$36.09
+122,Technical,PC Maintenance Technician (Level II),$49.04,$41.69,$41.69
+123,Technical,PC Maintenance Technician (Level III),$81.23,$69.08,$69.08
+124,Technical,PC Systems Specialist (Level II),$55.49,$47.19,$47.19
+125,Technical,PC Systems Specialist (Level III),$101.30,$86.15,$86.15
+126,Technical,Software Systems Engineer (Level I),$55.36,$47.09,$47.09
+127,Technical,Software Systems Engineer (Level II),$87.97,$74.80,$74.80
+128,Technical,Software Systems Engineer (Level III),$108.22,$92.01,$92.01
+129,Technical,Software Systems Engineer (Level IV),$140.54,$119.52,$119.52
+130,Technical,Storage Manager (Level I),$49.91,$42.43,$42.43
+131,Technical,Storage Manager (Level II),$61.29,$52.11,$52.11
+132,Technical,Storage Manager (Level III),$77.47,$65.87,$65.87
+133,Technical,Systems Programmer/Administrator (Level I),$53.75,$45.71,$45.71
+134,Technical,Systems Programmer/Administrator (Level II),$67.69,$57.56,$57.56
+135,Technical,Systems Programmer/Administrator (Level III),$77.47,$65.87,$65.87
+136,Technical,Systems Programmer/Administrator (Level IV),$145.57,$123.80,$123.80
+137,Technical,Technical Advisor (Level III),$267.79,$267.79,$267.79
+138,Test/Hardware Engineering,Test Engineer (Level I),$88.07,$74.90,$74.90
+139,Test/Hardware Engineering,Test Engineer (Level II),$108.78,$92.49,$92.49
+140,Test/Hardware Engineering,Test Engineer (Level III),$129.84,$110.41,$110.41
+141,Test/Hardware Engineering,Hardware Engineer (Level I),$107.83,$91.70,$91.70
+142,Test/Hardware Engineering,Hardware Engineer (Level II),$136.62,$116.17,$116.17
+143,Test/Hardware Engineering,Hardware Engineer (Level III),$149.69,$127.31,$127.31
+144,Web Devleopment,Web Content Analyst (Level I),$52.47,$44.62,$44.62
+145,Web Devleopment,Web Content Analyst (Level II),$64.71,$55.04,$55.04
+146,Web Devleopment,Web Content Analyst (Level III),$95.29,$81.03,$81.03
+147,Web Devleopment,Web Designer (Level I),$87.25,$74.18,$74.18
+148,Web Devleopment,Web Designer (Level II),$119.53,$101.65,$101.65
+149,Web Devleopment,Web Designer (Level III),$154.63,$131.50,$131.50

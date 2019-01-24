@@ -1,0 +1,52 @@
+﻿V.P. Area,System ,Status,ITEA RFS #,Short Description,Date Received,Target Date,Low Estimate,High Estimate
+Business Services,Ariba,Not Started,14358,Pcard percent variance tolerances,10/14/03,3/31/04,40,80
+Business Services,Ariba,Not Started,14476,"Status of received orders not ""processed""",10/31/03,,20,100
+Business Services,Ariba,Not Started,14851,‎Investigate alternatives to use of SysAdmin role,1/7/04,12/31/04,80,100
+Business Services,Ariba,Started,14351,User load issue,10/14/03,9/30/04,40,80
+Business Services,Ariba,Started,14427,Check Ariba logs daily for a 6 month period,10/22/03,12/22/04,950,950
+Business Services,Ariba,Started,14486,"ASN orders are sometimes showing ""failed"" status",10/31/03,3/31/04,40,80
+Business Services,Ariba,Started,14630,Need to add more detail to the PCard testing plan.,11/14/03,,3,10
+Business Services,Ariba,Started,14852,Verify accessibility of csv files on UNIX box,1/7/04,12/31/04,20,30
+Business Services,ASER,Pending,14087,ASER - Mtch Error Rpt not ‎recog 098 instruc 14087,9/14/03,8/1/04,40,100
+Business Services,CARS,Started,11855,CARS - Bottom of bill not adding up  11855,5/23/01,,40,120
+Business Services,COEUS,Started,14860,COEUS - Avg # days in UCG report problem 14860,1/9/04,,30,90
+Business Services,FMIS,Started,14945,FMIS - Problem w/ Canadian prov. code 14945,1/5/04,1/20/04,4,8
+Business Services,FMIS,Started,14965,FMIS - MSA Software Review 14965,1/16/04,,50,100
+Business Services,FMIS,Started,14987,FMIS - Investig bank table used for EC 35  14987,1/21/04,1/23/04,4,8
+Business Services,PAFX,Started,14903,"FLEX ""Wednesday morning"" last-year process (14903)",1/9/04,1/22/04,2,8
+Business Services,PAFX,Started,14977,Gale/Julie noticed text on CARS billing records not same as in plan file,1/16/04,,1,10
+Business Services,PAIS,Pending,14859,PAIS Reappointment Issues (14859),1/9/04,2/27/04,10,40
+Business Services,PAVE,Pending,14129,PAVE - Risk Mgt Information System/Software 14129,9/16/03,,100,200
+Business Services,PAYR,Not Started,14895,Justification report excess ins message (14895),1/13/04,3/31/04,20,100
+Business Services,PAYR,Pending,14140,Test CICS Bank Description Issue (14140),9/16/03,,10,20
+Business Services,PAYR,Started,14054,Payroll Charge File Change at YTD Rollback (14054),9/5/03,,8,40
+Business Services,PESN,Not Started,14641,"""T"" in Level Field in PEDB Current Staff (14641)",11/17/03,2/27/04,4,8
+Business Services,PESN,Not Started,14642,Missing Effective Date on Terminations (14642),11/17/03,3/31/04,2,4
+Business Services,PESN,Started,13998,PEBLOCK related Clean-Up (13998),8/4/03,3/31/04,4,16
+Business Services,PESN,Started,14817,NRA Student Adresses on IN New Hire File (14817),12/31/03,2/27/04,2,4
+Business Services,RFSP,Pending,14691,SPS - Consult Interim Routing Discvry Park 14691,12/2/03,,30,60
+Business Services,RFSP,Started,14864,SPS - Wrong e-mail verbiage for Attrib 14864,1/9/04,,10,100
+Business Services,SLAC,Not Started,14327,SLAC - Erroneous Late Chrgs on Pd-off Loans 14327,10/10/03,7/1/04,40,120
+Business Services,SLAC,Pending,14185,SLAC - E-Prom Note Functionality Investig 14185,9/17/03,,30,50
+Business Services,SLAC,Started,14097,SLAC - Fix errors on Encumb Discrepancy Rpts 14097,9/12/03,7/1/04,40,120
+ITAP,PUID,Not Started,14728,People in source file with no PUID,12/15/03,,40,200
+ITAP,PUID,Started,14688,Include Alumni relationships in PUID,12/1/03,2/1/04,15,40
+ITaP,WAI,Not Started,14600,Modifications required to load budget data.,11/10/03,2/1/04,1,10
+Student Services,Bursar,Not Started,14633,Enable Lab Course Special Fees,11/14/03,7/1/04,100,500
+Student Services,Bursar,Pending,11377,Add mailers choice sorting to Housing invoices.,2/9/01,,40,80
+Student Services,Bursar,Pending,14377,Fold up Designated Fees into General Fees,10/16/03,7/1/04,25,50
+Student Services,Bursar,Started,14009,Mainframe Support  July 03 - June 04 (14009),8/8/03,6/30/04,100,1000
+Student Services,CN,Started,12308,Support Replacement of PACERS,4/30/01,,25,150
+Student Services,DFA,Started,14464,Mainframe Support  July 03-June 04 (14464),10/28/03,6/30/04,1,800
+Student Services,REGI,Pending,7287,Year 2000-date of birth.  Admissions office and Regional campuses currently use birthdate of 01/01/00 or maybe some other month-day/00 to mean unknown birthday.  (see SIREFA20 for example),4/16/98,1/1/03,1,40
+Student Services,REGI,Pending,8321,Ethnicity - There are new standards for reporting race/ethnicity data for all individuals on all federal surveys.  The new standards require that ethnicity (Hispanic/Latino versus non-Hispanic/Latino) be reported independently from race,3/11/99,,1,500
+Student Services,REGI,Pending,13727,WF index problem research,3/24/03,5/7/03,1,80
+Student Services,REGI,Started,13138,Mainframe Support  July 03-June 04 (13138),6/26/02,6/30/03,1000,2000
+Student Services,REGI,Started,14280,ICHE SIS Country Codes  (14280),10/2/03,,1,100
+Student Services,REGI,Started,14299,Bug in POS  (14299),10/2/03,2/15/04,1,50
+Student Services,REGI,Started,14304,ICHE Follow-up  (14304),10/3/03,4/1/04,101,500
+Student Services,SIAD,Pending,14979,Changes in bulk mail,1/20/04,,25,50
+University Development,Advance C/S,Pending,203,Label Update,6/23/03,,,
+University Residences,RHCA,Not Started,11795,RHCA - Reduce Duplicate '999' #s  11795,5/4/01,7/1/04,50,75
+University Residences,RHCA,Started,14980,RHCA - Questionable Entry on Error Report 14980,1/20/04,,1,5
+University Residences,RHCA,Started,15001,RHCA - Support Designated Fee Chg 15001,1/23/04,,10,100

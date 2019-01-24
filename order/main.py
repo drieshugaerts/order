@@ -468,7 +468,7 @@ if __name__ == '__main__':
     except KeyboardInterrupt:
         pass
 
-    output = open('test.pkl', 'wb')
+    output = open('data.pkl', 'wb')
     pickle.dump(result_log, output)
     output.close()
 

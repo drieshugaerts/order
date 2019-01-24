@@ -1,0 +1,604 @@
+﻿GOID,ORF,Gene,ORFDesc,Known Terms,Predicted Term,Type,Nt,p80,Pinit,Pmrf,Deg,LDeg,TDeg,Etdeg,Imp
+3723,YAL007C,ERP2,p24 protein involved in membrane trafficking,f:?; p:ER to Golgi transport; c:COPII-coated vesicle,RNA binding,f,230,0.7,0.076708,0.93605,10,5,2,4.7716,N
+5198,YAL009W,SPO7,,f:?; p:nuclear organization and biogenesis; p:meiosis; p:sporulation (sensu Saccharomyces); c:integral membrane protein; c:nuclear envelope-endoplasmic reticulum network,structural molecule,f,224,0.9,0.96207,0.995,9,8,4,4.9919,N
+123,YAL034C,FUN19,,p:?; f:?; c:?,histone acetyltransferase complex,c,41,0.5,0.76675,0.76675,5,5,2,2,Y
+3702,YAL034C,FUN19,,p:?; f:?; c:?,RNA polymerase II transcription factor,f,96,0.4,0.58549,0.58549,5,5,2,2,Y
+5667,YAL034C,FUN19,,p:?; f:?; c:?,transcription factor complex,c,91,0.4,0.98416,0.98416,5,5,3,3,Y
+5669,YAL034C,FUN19,,p:?; f:?; c:?,TFIID complex,c,15,0.5,0.8354,0.8354,5,5,2,2,N
+6352,YAL034C,FUN19,,p:?; f:?; c:?,transcription initiation,p,48,0.4,0.69328,0.69328,5,5,2,2,Y
+6367,YAL034C,FUN19,,p:?; f:?; c:?,transcription initiation from Pol II promoter,p,38,0.5,0.6469,0.6469,5,5,2,2,N
+16251,YAL034C,FUN19,,p:?; f:?; c:?,general RNA polymerase II transcription factor,f,60,0.4,0.53851,0.53851,5,5,2,2,N
+4576,YAL064W,YAL064W,,p:?; f:?; c:?,oligosaccharyl transferase,f,7,0.1,0.41248,0.40778,2,1,1,1,Y
+4579,YAL064W,YAL064W,,p:?; f:?; c:?,dolichyl-diphospho-oligosaccharide-protein glycosyltransferase,f,7,0.1,0.41248,0.40778,2,1,1,1,N
+3723,YBL004W,UTP20,U3 snoRNP protein,p:?; f:?; c:?,RNA binding,f,230,0.7,0.27071,1,20,13,5,12,Y
+3735,YBL004W,UTP20,U3 snoRNP protein,p:?; f:?; c:?,structural constituent of ribosome,f,128,0.6,0.89724,0.68399,20,13,4,4,N
+16070,YBL004W,UTP20,U3 snoRNP protein,p:?; f:?; c:?,RNA metabolism,p,256,0.9,0.1782,0.92198,20,18,5,7,N
+30515,YBL004W,UTP20,U3 snoRNP protein,p:?; f:?; c:?,snoRNA binding,f,28,0.5,0.022589,1,20,13,2,7.0931,N
+30529,YBL004W,UTP20,U3 snoRNP protein,p:?; f:?; c:?,ribonucleoprotein complex,c,165,0.9,0.25487,0.97662,20,17,5,7.0003,N
+3688,YBL071C,YBL071C,,p:?; f:?; c:?,DNA replication origin binding,f,6,0.1,0.6525,0.6525,1,1,1,1,N
+5664,YBL071C,YBL071C,,p:?; f:?; c:?,origin recognition complex,c,6,0.1,0.6703,0.6703,1,1,1,1,N
+6267,YBL071C,YBL071C,,p:?; f:?; c:?,pre-replicative complex formation and maintenance,p,13,0.4,0.51373,0.51373,1,1,1,1,N
+6270,YBL071C,YBL071C,,p:?; f:?; c:?,DNA replication initiation,p,22,0.3,0.39611,0.39611,1,1,1,1,N
+30529,YBL074C,AAR2,,f:?; p:mRNA splicing; c:?,ribonucleoprotein complex,c,165,0.9,0.96814,0.96814,3,3,3,3,N
+4576,YBL082C,RHK1,Dol-P-Man dependent alpha(1-3) mannosyltransferase (putative),f:?; c:endoplasmic reticulum; p:protein amino acid glycosylation,oligosaccharyl transferase,f,7,0.1,0.40778,0.40778,2,2,1,1,Y
+4579,YBL082C,RHK1,Dol-P-Man dependent alpha(1-3) mannosyltransferase (putative),f:?; c:endoplasmic reticulum; p:protein amino acid glycosylation,dolichyl-diphospho-oligosaccharide-protein glycosyltransferase,f,7,0.1,0.40778,0.40778,2,2,1,1,N
+5478,YBL102W,SFT2,,c:Golgi membrane; f:?; p:Golgi to endosome transport,intracellular transporter,f,25,0.6,0.87359,0.99929,6,3,2,3.0263,Y
+5484,YBL102W,SFT2,,c:Golgi membrane; f:?; p:Golgi to endosome transport,SNAP receptor,f,22,0.9,0.87694,0.99803,6,3,2,2.8884,N
+3774,YBL106C,SRO77,"yeast homolog of the Drosophila tumor suppressor, lethal giant larvae",f:?; c:?; p:non-selective vesicle exocytosis,motor,f,17,0.8,0.84184,0.84184,4,4,2,2,N
+3723,YBR025C,YBR025C,,p:?; f:?; c:cytoplasm,RNA binding,f,230,0.7,0.53887,0.90088,8,7,3,3.9779,Y
+30515,YBR025C,YBR025C,,p:?; f:?; c:cytoplasm,snoRNA binding,f,28,0.5,0.028207,0.52559,8,7,1,2,N
+5643,YBR027C,YBR027C,,p:?; f:?; c:?,nuclear pore,c,42,0.7,0.74084,0.74084,4,4,2,2,N
+3723,YBR065C,ECM2,,f:?; p:cell wall organization and biogenesis; c:?,RNA binding,f,230,0.7,0.064991,0.9968,6,2,1,4.9992,N
+16563,YBR065C,ECM2,,f:?; p:cell wall organization and biogenesis; c:?,transcriptional activator,f,26,0.6,0.0040394,0.99989,6,2,0,4,N
+30529,YBR065C,ECM2,,f:?; p:cell wall organization and biogenesis; c:?,ribonucleoprotein complex,c,165,0.9,0.99914,0.99899,6,5,5,5,N
+3735,YBR094W,YBR094W,,p:?; f:?; c:?,structural constituent of ribosome,f,128,0.6,0.87363,0.87363,5,5,2,2,N
+15935,YBR094W,YBR094W,,p:?; f:?; c:?,small ribosomal subunit,c,56,0.5,0.90675,0.99807,5,4,2,3,N
+5667,YBR095C,RXT2,,f:?; p:invasive growth; p:mating (sensu Saccharomyces); c:?,transcription factor complex,c,91,0.4,0.8618,0.8618,3,3,2,2,N
+16192,YBR108W,YBR108W,,p:?; f:?; c:?,vesicle-mediated transport,p,191,0.9,0.81303,0.90158,3,2,2,2.265,N
+3902,YBR150C,TBS1,,p:?; f:?; c:?,DNA-directed RNA polymerase III,f,16,0.2,0.26539,0.26539,1,1,1,1,N
+3723,YBR152W,SPP381,"U4/U6/U5 snRNP-associated protein, contains PEST proteolysis motif",f:?; c:spliceosome complex; p:mRNA splicing,RNA binding,f,230,0.7,1,1,18,17,17,17.9999,N
+3723,YBR172C,SMY2,,f:?; p:cytoskeleton organization and biogenesis; c:?,RNA binding,f,230,0.7,0.7594,0.7594,2,2,2,2,N
+16563,YBR188C,NTC20,splicing factor,f:?; c:spliceosome complex; p:mRNA splicing,transcriptional activator,f,26,0.6,0.0053802,0.88895,4,2,0,2,N
+5643,YBR216C,YBR216C,,p:?; f:?; c:?,nuclear pore,c,42,0.7,0.80997,0.80997,3,3,2,2,N
+8233,YBR217W,APG12,,f:?; c:membrane fraction; p:protein-vacuolar targeting; p:autophagy,peptidase,f,81,0.5,0.94802,0.99795,54,43,10,11.304,N
+3723,YBR247C,ENP1,57 kDa protein with an apparent MW of 70 kDa by SDS-PAGE (putative),f:?; c:nucleus; p:cell growth and/or maintenance,RNA binding,f,230,0.7,0.99918,1,32,19,11,22.702,Y
+30515,YBR247C,ENP1,57 kDa protein with an apparent MW of 70 kDa by SDS-PAGE (putative),f:?; c:nucleus; p:cell growth and/or maintenance,snoRNA binding,f,28,0.5,1,1,32,19,10,22.7815,N
+3723,YBR267W,YBR267W,,p:?; f:?; c:?,RNA binding,f,230,0.7,0.2094,0.88461,3,1,1,2.5602,N
+4298,YBR272C,HSM3,MutS family (putative),f:?; p:mismatch repair; c:?,threonine endopeptidase,f,30,0.2,1,1,18,13,8,10.0472,Y
+4299,YBR272C,HSM3,MutS family (putative),f:?; p:mismatch repair; c:?,proteasome endopeptidase,f,30,0.2,1,1,18,13,8,10.0472,N
+5524,YBR272C,HSM3,MutS family (putative),f:?; p:mismatch repair; c:?,ATP binding,f,140,0.9,0.56144,0.93195,18,13,4,6.0755,Y
+5838,YBR272C,HSM3,MutS family (putative),f:?; p:mismatch repair; c:?,19S proteasome regulatory particle,c,21,0.7,1,1,18,15,9,10.0384,N
+8233,YBR272C,HSM3,MutS family (putative),f:?; p:mismatch repair; c:?,peptidase,f,81,0.5,1,1,18,13,8,10.106,Y
+16887,YBR272C,HSM3,MutS family (putative),f:?; p:mismatch repair; c:?,ATPase,f,135,0.9,0.57017,0.93963,18,13,4,6.081,N
+30554,YBR272C,HSM3,MutS family (putative),f:?; p:mismatch repair; c:?,adenyl nucleotide binding,f,140,0.9,0.56144,0.93195,18,13,4,6.0755,Y
+9056,YBR280C,YBR280C,,p:?; f:?; c:?,catabolism,p,211,0.9,0.91001,0.93278,4,3,3,3.1946,Y
+30163,YBR280C,YBR280C,,p:?; f:?; c:?,protein catabolism,p,112,0.6,0.673,0.70568,4,3,2,2.1008,N
+30515,YBR281C,YBR281C,,p:?; f:?; c:?,snoRNA binding,f,28,0.5,0.77254,0.97428,5,3,2,2.6754,N
+6997,YCL010C,SGF29,Probable 29kKDa Subunit of SAGA histone acetyltransferase complex,p:?; c:SAGA complex; f:?,nuclear organization and biogenesis,p,187,0.9,0.9326,0.93005,5,4,4,4.0332,N
+30528,YCL010C,SGF29,Probable 29kKDa Subunit of SAGA histone acetyltransferase complex,p:?; c:SAGA complex; f:?,transcription regulator,f,245,0.6,0.94594,0.95543,5,4,3,3.1786,N
+3735,YCL014W,BUD3,,c:contractile ring (sensu Saccharomyces); p:bud site selection; f:?; p:axial budding,structural constituent of ribosome,f,128,0.6,0.7552,0.70824,7,5,2,2.0478,N
+6313,YCL019W,YCL019W,,p:?; f:?; c:?,DNA transposition,p,13,0.9,0.96159,0.98519,4,3,2,2.1999,Y
+6319,YCL019W,YCL019W,,p:?; f:?; c:?,Ty element transposition,p,12,0.5,0.99806,0.99991,4,3,2,2.5105,N
+6313,YCL020W,YCL020W,,p:?; f:?; c:?,DNA transposition,p,13,0.9,0.96823,0.96823,3,3,2,2,Y
+6319,YCL020W,YCL020W,,p:?; f:?; c:?,Ty element transposition,p,12,0.5,0.99891,0.99891,3,3,2,2,N
+3735,YCL031C,RRP7,,p:ribosomal small subunit assembly and maintenance; f:?; p:35S primary transcript processing; c:?,structural constituent of ribosome,f,128,0.6,0.93909,0.92664,4,3,2,2,N
+15935,YCL031C,RRP7,,p:ribosomal small subunit assembly and maintenance; f:?; p:35S primary transcript processing; c:?,small ribosomal subunit,c,56,0.5,0.93662,0.93136,4,3,2,2,N
+3723,YCL059C,KRR1,,f:?; c:nucleolus; p:ribosome biogenesis,RNA binding,f,230,0.7,1,1,31,19,15,26.5118,Y
+30515,YCL059C,KRR1,,f:?; c:nucleolus; p:ribosome biogenesis,snoRNA binding,f,28,0.5,1,1,31,19,14,25.8627,N
+6270,YCR022C,YCR022C,,p:?; f:?; c:?,DNA replication initiation,p,22,0.3,0.39611,0.39611,1,1,1,1,N
+171,YCR047C,BUD23,,p:bud site selection; f:?; c:?,ribonuclease MRP,f,9,0.1,0.51161,0.50525,2,1,1,1.0094,N
+172,YCR047C,BUD23,,p:bud site selection; f:?; c:?,ribonuclease mitochondrial RNA processing complex,c,9,0.1,0.52854,0.52238,2,1,1,1.0106,N
+6270,YCR050C,YCR050C,,p:?; f:?; c:?,DNA replication initiation,p,22,0.3,0.39611,0.39611,1,1,1,1,N
+30529,YCR053W,THR4,threonine synthase,f:threonine synthase; p:threonine metabolism; c:?,ribonucleoprotein complex,c,165,0.9,0.90071,0.90071,5,5,3,3,N
+3735,YCR071C,IMG2,,p:?; f:?; c:?,structural constituent of ribosome,f,128,0.6,0.97683,0.97683,2,2,2,2,N
+5762,YCR071C,IMG2,,p:?; f:?; c:?,mitochondrial large ribosomal subunit,c,35,0.8,0.99339,0.99339,2,2,2,2,N
+3723,YCR072C,YCR072C,,p:?; f:?; c:?,RNA binding,f,230,0.7,0.0022242,0.99814,9,2,0,5.9953,N
+5524,YDL002C,NHP10,HMG1-box containing protein,p:?; f:?; c:?,ATP binding,f,140,0.9,0.70897,0.98414,15,7,4,6.9066,Y
+6997,YDL002C,NHP10,HMG1-box containing protein,p:?; f:?; c:?,nuclear organization and biogenesis,p,187,0.9,0.99524,0.9999,15,9,7,9.7237,N
+16887,YDL002C,NHP10,HMG1-box containing protein,p:?; f:?; c:?,ATPase,f,135,0.9,0.71875,0.98698,15,7,4,6.9298,N
+30554,YDL002C,NHP10,HMG1-box containing protein,p:?; f:?; c:?,adenyl nucleotide binding,f,140,0.9,0.70897,0.98414,15,7,4,6.9066,Y
+3723,YDL060W,TSR1,,f:?; c:nucleolus; p:ribosome biogenesis and assembly,RNA binding,f,230,0.7,0.0056894,0.99998,16,7,2,9.7544,Y
+5667,YDL076C,RXT3,,p:?; f:?; c:?,transcription factor complex,c,91,0.4,0.98889,0.99988,11,8,4,5.4256,N
+6348,YDL076C,RXT3,,p:?; f:?; c:?,chromatin silencing at telomere,p,25,0.9,0.98728,0.99888,11,9,4,4.9465,N
+6997,YDL076C,RXT3,,p:?; f:?; c:?,nuclear organization and biogenesis,p,187,0.9,0.93844,0.99568,11,9,5,6.7566,Y
+30528,YDL076C,RXT3,,p:?; f:?; c:?,transcription regulator,f,245,0.6,0.93792,0.98757,11,8,4,4.9591,N
+6628,YDL091C,YDL091C,,p:?; f:?; c:?,mitochondrial translocation,p,20,0.4,0.53829,0.53829,1,1,1,1,N
+30515,YDL166C,FAP7,,f:?; c:nucleus; p:response to oxidative stress,snoRNA binding,f,28,0.5,0.14585,0.86495,3,1,1,2.0063,N
+6885,YDL193W,YDL193W,,p:?; f:?; c:endoplasmic reticulum; c:lipid particle,regulation of pH,p,21,0.2,0.56742,0.56742,8,8,2,2,N
+30641,YDL193W,YDL193W,,p:?; f:?; c:endoplasmic reticulum; c:lipid particle,hydrogen ion homeostasis,p,21,0.2,0.56742,0.56742,8,8,2,2,Y
+5198,YDL207W,GLE1,"nuclear pore complex subunit, nuclear-export-signal (NES)-containing protein",f:?; c:nuclear pore; p:poly(A)+ mRNA-nucleus export,structural molecule,f,224,0.9,0.99826,0.99901,7,6,5,5.3383,N
+3723,YDL209C,CWC2,,f:?; c:spliceosome complex; p:mRNA splicing,RNA binding,f,230,0.7,0.36257,0.97719,6,3,2,4.1417,N
+16563,YDL209C,CWC2,,f:?; c:spliceosome complex; p:mRNA splicing,transcriptional activator,f,26,0.6,0.13496,0.9978,6,3,1,3.1925,N
+3723,YDL213C,YDL213C,,p:?; f:?; c:?,RNA binding,f,230,0.7,0.99856,1,57,32,16,33.973,Y
+16070,YDL213C,YDL213C,,p:?; f:?; c:?,RNA metabolism,p,256,0.9,0.98118,1,57,39,15,24.6355,N
+30515,YDL213C,YDL213C,,p:?; f:?; c:?,snoRNA binding,f,28,0.5,0.00020752,1,57,32,4,13.7717,N
+30529,YDL213C,YDL213C,,p:?; f:?; c:?,ribonucleoprotein complex,c,165,0.9,0.0031948,0.99977,57,43,11,17.2102,N
+314,YDR036C,YDR036C,,f:?; p:endocytosis; c:?,organellar small ribosomal subunit,c,24,0.3,1,1,18,18,16,16,Y
+3735,YDR036C,YDR036C,,f:?; p:endocytosis; c:?,structural constituent of ribosome,f,128,0.6,1,1,18,17,16,16,N
+5198,YDR036C,YDR036C,,f:?; p:endocytosis; c:?,structural molecule,f,224,0.9,1,1,18,17,16,16,Y
+5763,YDR036C,YDR036C,,f:?; p:endocytosis; c:?,mitochondrial small ribosomal subunit,c,24,0.3,1,1,18,18,16,16,N
+15935,YDR036C,YDR036C,,f:?; p:endocytosis; c:?,small ribosomal subunit,c,56,0.5,1,1,18,18,16,16,Y
+6508,YDR049W,YDR049W,,p:?; f:?; c:?,proteolysis and peptidolysis,p,101,0.5,0.88535,0.88535,2,2,2,2,Y
+19941,YDR049W,YDR049W,,p:?; f:?; c:?,protein-ligand dependent protein catabolism,p,82,0.6,0.89252,0.89252,2,2,2,2,N
+30163,YDR049W,YDR049W,,p:?; f:?; c:?,protein catabolism,p,112,0.6,0.83469,0.83469,2,2,2,2,Y
+3723,YDR060W,MAK21,,p:ribosomal large subunit assembly and maintenance; f:?; c:?,RNA binding,f,230,0.7,0.99997,1,30,17,12,24.0236,Y
+30515,YDR060W,MAK21,,p:ribosomal large subunit assembly and maintenance; f:?; c:?,snoRNA binding,f,28,0.5,0.035476,0.99999,30,17,3,7.4916,N
+8080,YDR070C,YDR070C,,p:?; f:?; c:?,N-acetyltransferase,f,8,0.3,0.31295,0.31295,2,2,1,1,N
+16410,YDR070C,YDR070C,,p:?; f:?; c:?,N-acyltransferase,f,9,0.3,0.31967,0.31967,2,2,1,1,Y
+16311,YDR071C,YDR071C,,p:?; f:?; c:?,dephosphorylation,p,18,0.1,0.53213,0.52864,7,5,2,2.0315,N
+16788,YDR071C,YDR071C,,p:?; f:?; c:?,"hydrolase, acting on ester bonds",f,157,0.7,0.78089,0.85002,7,6,3,3.254,N
+3743,YDR091C,RLI1,ATP-binding cassette (ABC) superfamily nontransporter group (putative),p:?; f:?; c:?,translation initiation factor,f,27,0.8,0.90107,0.91431,7,5,3,3.0577,N
+8135,YDR091C,RLI1,ATP-binding cassette (ABC) superfamily nontransporter group (putative),p:?; f:?; c:?,"translation factor, nucleic acid binding",f,43,0.7,0.88007,0.89594,7,5,3,3.0707,Y
+45182,YDR091C,RLI1,ATP-binding cassette (ABC) superfamily nontransporter group (putative),p:?; f:?; c:?,translation regulator,f,48,0.7,0.87608,0.89242,7,5,3,3.0747,Y
+5478,YDR100W,YDR100W,,p:?; f:?; c:?,intracellular transporter,f,25,0.6,0.86766,1,6,4,2,4,Y
+5484,YDR100W,YDR100W,,p:?; f:?; c:?,SNAP receptor,f,22,0.9,0.87222,0.99999,6,4,2,4,N
+6886,YDR100W,YDR100W,,p:?; f:?; c:?,intracellular protein transport,p,253,0.8,0.4752,0.97985,6,4,2,3.8948,N
+16192,YDR100W,YDR100W,,p:?; f:?; c:?,vesicle-mediated transport,p,191,0.9,0.52652,0.995,6,4,2,3.997,N
+3723,YDR101C,ARX1,,p:?; f:?; c:?,RNA binding,f,230,0.7,0.0026573,0.99997,13,5,1,8.8207,N
+151,YDR139C,RUB1,ubiquitin-like protein,c:?; f:protein tagging; p:RUB1-dependent protein catabolism,ubiquitin ligase complex,c,21,0.4,0.9994,1,4,3,3,3.9994,Y
+152,YDR139C,RUB1,ubiquitin-like protein,c:?; f:protein tagging; p:RUB1-dependent protein catabolism,nuclear ubiquitin ligase complex,c,19,0.7,0.99928,1,4,3,3,3.9992,N
+5198,YDR162C,NBP2,,p:?; f:?; c:?,structural molecule,f,224,0.9,0.052646,0.99957,28,18,4,9.5533,N
+8233,YDR179C,CSN9,COP9 signalosome (CSN) subunit,p:protein deneddylation; f:?; c:signalosome complex,peptidase,f,81,0.5,0.63508,0.95917,6,3,2,2.7815,N
+6886,YDR229W,YDR229W,,p:?; f:?; c:?,intracellular protein transport,p,253,0.8,0.8522,0.8893,7,5,3,3.3099,N
+4129,YDR254W,CHL4,,f:?; c:kinetochore; p:chromosome segregation,cytochrome c oxidase,f,7,0.1,0.23949,0.23418,4,2,1,1.0052,N
+15002,YDR254W,CHL4,,f:?; c:kinetochore; p:chromosome segregation,heme-copper terminal oxidase,f,7,0.1,0.23949,0.23418,4,2,1,1.0052,Y
+16676,YDR254W,CHL4,,f:?; c:kinetochore; p:chromosome segregation,"oxidoreductase, acting on heme group of donors, oxygen as acceptor",f,7,0.1,0.23949,0.23418,4,2,1,1.0052,Y
+3723,YDR269C,YDR269C,,p:?; f:?; c:?,RNA binding,f,230,0.7,0.7594,0.7594,2,2,2,2,N
+3700,YDR277C,MTH1,Msn3p homolog (61,f:?; p:signal transduction; c:?; p:glucose transport,transcription factor,f,213,0.7,0.84791,0.82982,8,5,3,3.1779,Y
+16563,YDR277C,MTH1,Msn3p homolog (61,f:?; p:signal transduction; c:?; p:glucose transport,transcriptional activator,f,26,0.6,0.81248,0.99649,8,5,2,3.1662,N
+30528,YDR277C,MTH1,Msn3p homolog (61,f:?; p:signal transduction; c:?; p:glucose transport,transcription regulator,f,245,0.6,0.85666,0.78665,8,5,3,3.098,Y
+3723,YDR299W,BFR2,,f:?; p:ER to Golgi transport; c:?,RNA binding,f,230,0.7,0.063088,0.96764,10,6,2,5,Y
+30120,YDR299W,BFR2,,f:?; p:ER to Golgi transport; c:?,vesicle coat,c,19,0.9,0.96219,0.96193,10,8,3,3.0107,N
+30515,YDR299W,BFR2,,f:?; p:ER to Golgi transport; c:?,snoRNA binding,f,28,0.5,0.016145,0.99889,10,6,1,4.0063,N
+314,YDR333C,YDR333C,,p:?; f:?; c:?,organellar small ribosomal subunit,c,24,0.3,0.61238,0.61238,1,1,1,1,Y
+5763,YDR333C,YDR333C,,p:?; f:?; c:?,mitochondrial small ribosomal subunit,c,24,0.3,0.61238,0.61238,1,1,1,1,N
+8324,YDR339C,YDR339C,,p:?; f:?; c:?,cation transporter,f,50,0.6,0.60945,0.60945,2,2,2,2,N
+15399,YDR339C,YDR339C,,p:?; f:?; c:?,primary active transporter,f,62,0.6,0.61428,0.61428,2,2,2,2,N
+123,YDR359C,VID21,,p:?; f:?; c:?,histone acetyltransferase complex,c,41,0.5,0.87932,0.87932,4,4,2,2,N
+5667,YDR359C,VID21,,p:?; f:?; c:?,transcription factor complex,c,91,0.4,0.77849,0.77849,4,4,2,2,Y
+3735,YDR361C,BCP1,,p:?; f:?; c:?,structural constituent of ribosome,f,128,0.6,0.95847,0.95847,3,3,2,2,N
+3723,YDR365C,YDR365C,,p:?; f:?; c:?,RNA binding,f,230,0.7,0.44047,0.99407,18,13,5,7.7731,N
+8180,YDR400W,URH1,uridine nucleosidase (uridine ribohydrolase); EC 3.2.2.3,"c:?; p:pyrimidine salvage; f:hydrolase, acting on glycosyl bonds",signalosome complex,c,5,0.1,0.37036,0.36757,2,1,1,1.0409,N
+16563,YDR412W,YDR412W,,p:?; f:?; c:cytoplasm,transcriptional activator,f,26,0.6,0.055446,0.71794,12,6,1,2.1045,N
+3723,YDR416W,SYF1,,f:?; c:spliceosome complex; p:mRNA splicing; p:cell cycle,RNA binding,f,230,0.7,0.0032766,0.97659,13,4,1,5.904,N
+16563,YDR416W,SYF1,,f:?; c:spliceosome complex; p:mRNA splicing; p:cell cycle,transcriptional activator,f,26,0.6,0.05198,1,13,4,1,6.3368,N
+5484,YDR425W,SNX41,,p:?; f:?; c:?,SNAP receptor,f,22,0.9,0.0002163,0.99956,7,3,0,3.3024,N
+6886,YDR425W,SNX41,,p:?; f:?; c:?,intracellular protein transport,p,253,0.8,0.078789,0.91756,7,3,1,3.3652,N
+16192,YDR425W,SNX41,,p:?; f:?; c:?,vesicle-mediated transport,p,191,0.9,0.48506,0.99779,7,3,2,4.4757,N
+6090,YDR430C,CYM1,Metalloprotease,p:?; f:?; c:?,pyruvate metabolism,p,9,0.3,0.99999,0.99999,6,6,5,5,N
+45254,YDR430C,CYM1,Metalloprotease,p:?; f:?; c:?,pyruvate dehydrogenase complex,c,4,0.1,0.99996,0.99996,6,6,4,4,N
+3723,YDR496C,PUF6,,p:?; f:?; c:?,RNA binding,f,230,0.7,0.072328,0.99965,18,13,4,9,N
+16070,YDR496C,PUF6,,p:?; f:?; c:?,RNA metabolism,p,256,0.9,0.8448,0.99662,18,16,6,7.9975,N
+3723,YDR505C,PSP1,,p:?; f:?; c:?,RNA binding,f,230,0.7,0.7594,0.7594,2,2,2,2,N
+6886,YEL005C,VAB2,,p:?; f:protein binding; c:?,intracellular protein transport,p,253,0.8,0.52267,0.95311,6,3,2,3.5205,N
+15935,YEL015W,YEL015W,,p:?; f:?; c:?,small ribosomal subunit,c,56,0.5,0.27113,0.99794,13,11,2,3.7978,N
+3723,YER002W,NOP16,ribosome biogenesis,f:?; c:nucleus; c:nucleolus; p:ribosomal large subunit biogenesis,RNA binding,f,230,0.7,0.021742,0.99007,4,0,0,4,N
+3723,YER006W,NUG1,Nuclear GTPase involved in Ribosome biogenesis,p:?; f:?; c:nucleus; c:nucleolus,RNA binding,f,230,0.7,0.00014773,1,33,16,4,19.4933,N
+16070,YER006W,NUG1,Nuclear GTPase involved in Ribosome biogenesis,p:?; f:?; c:nucleus; c:nucleolus,RNA metabolism,p,256,0.9,0.077994,0.99761,33,23,7,11.7284,N
+6280,YER041W,YEN1,,p:?; f:single-stranded DNA specific endodeoxyribonuclease; c:nucleus,mutagenesis,p,5,0.1,0.2155,0.21379,3,2,1,1.0001,N
+6284,YER041W,YEN1,,p:?; f:single-stranded DNA specific endodeoxyribonuclease; c:nucleus,base-excision repair,p,5,0.1,0.19322,0.19165,3,2,1,1.0001,N
+5977,YER054C,GIP2,,p:?; c:protein phosphatase type 1 complex; f:protein phosphatase regulator,glycogen metabolism,p,19,0.7,0.99363,0.99363,6,6,4,4,N
+6073,YER054C,GIP2,,p:?; c:protein phosphatase type 1 complex; f:protein phosphatase regulator,glucan metabolism,p,28,0.8,0.99009,0.99009,6,6,4,4,Y
+6112,YER054C,GIP2,,p:?; c:protein phosphatase type 1 complex; f:protein phosphatase regulator,energy reserve metabolism,p,23,0.7,0.99781,0.99781,6,6,4,4,Y
+3723,YER126C,NSA2,ribosome biogenesis,f:?; c:nucleus; p:ribosomal large subunit biogenesis,RNA binding,f,230,0.7,0.0028126,1,19,5,2,15.0257,N
+338,YER137C,YER137C,,p:?; f:?; c:?,protein deneddylation,p,5,0.1,0.47279,0.47279,1,1,1,1,N
+8180,YER137C,YER137C,,p:?; f:?; c:?,signalosome complex,c,5,0.1,0.54897,0.54897,1,1,1,1,N
+4749,YER163C,YER163C,,p:?; f:?; c:?,ribose-phosphate pyrophosphokinase,f,5,0.4,0.43158,0.43158,1,1,1,1,N
+16778,YER163C,YER163C,,p:?; f:?; c:?,diphosphotransferase,f,6,0.4,0.4437,0.4437,1,1,1,1,Y
+3689,YER173W,RAD24,cell cycle exonuclease (putative),p:DNA damage checkpoint; f:?; c:nucleus; p:nucleotide-excision repair; p:meiotic recombination,DNA clamp loader,f,6,0.8,0.9998,0.99995,14,11,4,4.2906,N
+3887,YER173W,RAD24,cell cycle exonuclease (putative),p:DNA damage checkpoint; f:?; c:nucleus; p:nucleotide-excision repair; p:meiotic recombination,DNA-directed DNA polymerase,f,20,0.3,0.33923,0.3266,14,11,2,2.0105,N
+4298,YFL007W,BLM3,involved in protecting the cell against bleomycin damage,p:?; f:?; c:membrane,threonine endopeptidase,f,30,0.2,0.7932,0.79139,4,3,2,2.0096,Y
+4299,YFL007W,BLM3,involved in protecting the cell against bleomycin damage,p:?; f:?; c:membrane,proteasome endopeptidase,f,30,0.2,0.7932,0.79139,4,3,2,2.0096,N
+6508,YFL007W,BLM3,involved in protecting the cell against bleomycin damage,p:?; f:?; c:membrane,proteolysis and peptidolysis,p,101,0.5,0.70847,0.70847,4,4,2,2,Y
+8233,YFL007W,BLM3,involved in protecting the cell against bleomycin damage,p:?; f:?; c:membrane,peptidase,f,81,0.5,0.80564,0.81185,4,3,2,2.0411,Y
+19941,YFL007W,BLM3,involved in protecting the cell against bleomycin damage,p:?; f:?; c:membrane,protein-ligand dependent protein catabolism,p,82,0.6,0.7086,0.7086,4,4,2,2,N
+30163,YFL007W,BLM3,involved in protecting the cell against bleomycin damage,p:?; f:?; c:membrane,protein catabolism,p,112,0.6,0.6488,0.6488,4,4,2,2,Y
+5857,YFR016C,YFR016C,,p:?; f:?; c:?,actin cortical patch (sensu Saccharomyces),c,31,0.9,0.96803,0.96803,5,5,3,3,N
+16192,YFR016C,YFR016C,,p:?; f:?; c:?,vesicle-mediated transport,p,191,0.9,0.95447,0.95447,5,5,3,3,N
+16788,YFR021W,AUT10,,f:?; c:cytosol; p:protein-vacuolar targeting; p:vacuolar protein processing/maturation; p:autophagy; p:sporulation (sensu Saccharomyces),"hydrolase, acting on ester bonds",f,157,0.7,0.73652,0.77648,8,7,3,3.1799,N
+5524,YFR037C,RSC8,,f:?; c:nucleus; c:nucleosome remodeling complex; p:chromatin modeling,ATP binding,f,140,0.9,0.62953,0.98094,16,11,4,6.8664,Y
+16887,YFR037C,RSC8,,f:?; c:nucleus; c:nucleosome remodeling complex; p:chromatin modeling,ATPase,f,135,0.9,0.6399,0.98415,16,11,4,6.888,N
+30554,YFR037C,RSC8,,f:?; c:nucleus; c:nucleosome remodeling complex; p:chromatin modeling,adenyl nucleotide binding,f,140,0.9,0.62953,0.98094,16,11,4,6.8664,Y
+4298,YFR052W,RPN12,32-34 kDa protein,f:?; c:nucleus; c:cytoplasm; c:19S proteasome regulatory particle; p:ubiquitin-dependent protein catabolism,threonine endopeptidase,f,30,0.2,1,1,28,24,17,19.1965,Y
+4299,YFR052W,RPN12,32-34 kDa protein,f:?; c:nucleus; c:cytoplasm; c:19S proteasome regulatory particle; p:ubiquitin-dependent protein catabolism,proteasome endopeptidase,f,30,0.2,1,1,28,24,17,19.1965,N
+5524,YFR052W,RPN12,32-34 kDa protein,f:?; c:nucleus; c:cytoplasm; c:19S proteasome regulatory particle; p:ubiquitin-dependent protein catabolism,ATP binding,f,140,0.9,0.80104,0.94938,28,24,6,7.3885,Y
+8233,YFR052W,RPN12,32-34 kDa protein,f:?; c:nucleus; c:cytoplasm; c:19S proteasome regulatory particle; p:ubiquitin-dependent protein catabolism,peptidase,f,81,0.5,1,1,28,24,17,19.3235,Y
+16887,YFR052W,RPN12,32-34 kDa protein,f:?; c:nucleus; c:cytoplasm; c:19S proteasome regulatory particle; p:ubiquitin-dependent protein catabolism,ATPase,f,135,0.9,0.8119,0.95573,28,24,6,7.3989,N
+30554,YFR052W,RPN12,32-34 kDa protein,f:?; c:nucleus; c:cytoplasm; c:19S proteasome regulatory particle; p:ubiquitin-dependent protein catabolism,adenyl nucleotide binding,f,140,0.9,0.80104,0.94938,28,24,6,7.3885,Y
+6270,YFR057W,YFR057W,,p:?; f:?; c:?,DNA replication initiation,p,22,0.3,0.39611,0.39611,1,1,1,1,N
+4298,YGL004C,YGL004C,,p:?; f:?; c:?,threonine endopeptidase,f,30,0.2,1,1,18,15,14,16.9844,Y
+4299,YGL004C,YGL004C,,p:?; f:?; c:?,proteasome endopeptidase,f,30,0.2,1,1,18,15,14,16.9844,N
+5524,YGL004C,YGL004C,,p:?; f:?; c:?,ATP binding,f,140,0.9,0.93911,0.98569,18,15,6,7.302,Y
+5838,YGL004C,YGL004C,,p:?; f:?; c:?,19S proteasome regulatory particle,c,21,0.7,1,1,18,17,16,17,N
+6508,YGL004C,YGL004C,,p:?; f:?; c:?,proteolysis and peptidolysis,p,101,0.5,1,1,18,18,16,16,Y
+8233,YGL004C,YGL004C,,p:?; f:?; c:?,peptidase,f,81,0.5,1,1,18,15,14,16.9748,Y
+9056,YGL004C,YGL004C,,p:?; f:?; c:?,catabolism,p,211,0.9,1,1,18,18,16,16,Y
+9057,YGL004C,YGL004C,,p:?; f:?; c:?,macromolecule catabolism,p,144,0.8,1,1,18,18,16,16,Y
+16887,YGL004C,YGL004C,,p:?; f:?; c:?,ATPase,f,135,0.9,0.94542,0.98804,18,15,6,7.3112,N
+19941,YGL004C,YGL004C,,p:?; f:?; c:?,protein-ligand dependent protein catabolism,p,82,0.6,1,1,18,18,14,14,N
+30163,YGL004C,YGL004C,,p:?; f:?; c:?,protein catabolism,p,112,0.6,1,1,18,18,16,16,Y
+30554,YGL004C,YGL004C,,p:?; f:?; c:?,adenyl nucleotide binding,f,140,0.9,0.93911,0.98569,18,15,6,7.302,Y
+30528,YGL066W,SGF73,Probable 73KkDa Subunit of SAGA histone acetyltransferase complex,p:?; c:SAGA complex; f:?,transcription regulator,f,245,0.6,0.80477,0.77323,3,2,2,2.0203,N
+4298,YGL074C,YGL074C,,p:?; f:?; c:?,threonine endopeptidase,f,30,0.2,0.30048,0.30048,1,1,1,1,Y
+4299,YGL074C,YGL074C,,p:?; f:?; c:?,proteasome endopeptidase,f,30,0.2,0.30048,0.30048,1,1,1,1,N
+3723,YGL111W,NSA1,ribosome biogenesis,f:?; c:?; p:ribosomal large subunit biogenesis,RNA binding,f,230,0.7,0.0056186,0.99941,11,5,1,6.9999,N
+3700,YGL127C,SOH1,,f:?; p:DNA repair; p:transcription from Pol II promoter; c:?,transcription factor,f,213,0.7,0.3317,1,68,38,11,19.7698,N
+3723,YGL128C,CWC23,,p:?; f:?; c:?,RNA binding,f,230,0.7,0.54675,0.90802,4,3,2,3,N
+16563,YGL128C,CWC23,,p:?; f:?; c:?,transcriptional activator,f,26,0.6,0.17224,0.88895,4,3,1,2,N
+30529,YGL128C,CWC23,,p:?; f:?; c:?,ribonucleoprotein complex,c,165,0.9,0.94319,0.94319,4,4,3,3,N
+6997,YGL133W,ITC1,,p:?; f:?; c:nucleus,nuclear organization and biogenesis,p,187,0.9,0.68788,0.98024,6,4,3,4.9969,N
+5478,YGL145W,TIP20,transport protein that interacts with Sec20p; required for protein transport from the endoplasmic reticulum to the golgi apparatus,f:?; c:endoplasmic reticulum; p:retrograde (Golgi to ER) transport,intracellular transporter,f,25,0.6,0.99857,0.99845,7,4,3,3.0147,Y
+5484,YGL145W,TIP20,transport protein that interacts with Sec20p; required for protein transport from the endoplasmic reticulum to the golgi apparatus,f:?; c:endoplasmic reticulum; p:retrograde (Golgi to ER) transport,SNAP receptor,f,22,0.9,0.99827,0.99828,7,4,3,3.028,N
+3700,YGL151W,NUT1,,f:?; c:nucleus; p:regulation of transcription from Pol II promoter,transcription factor,f,213,0.7,0.99982,0.99982,7,7,6,6,Y
+3702,YGL151W,NUT1,,f:?; c:nucleus; p:regulation of transcription from Pol II promoter,RNA polymerase II transcription factor,f,96,0.4,0.99999,0.99999,7,7,6,6,Y
+16251,YGL151W,NUT1,,f:?; c:nucleus; p:regulation of transcription from Pol II promoter,general RNA polymerase II transcription factor,f,60,0.4,1,1,7,7,6,6,N
+30528,YGL151W,NUT1,,f:?; c:nucleus; p:regulation of transcription from Pol II promoter,transcription regulator,f,245,0.6,0.99988,0.99988,7,7,6,6,Y
+5478,YGL161C,YGL161C,,p:?; f:?; c:?,intracellular transporter,f,25,0.6,0.3301,1,10,3,2,8.5049,Y
+5484,YGL161C,YGL161C,,p:?; f:?; c:?,SNAP receptor,f,22,0.9,0.4805,1,10,3,2,8.7523,N
+6886,YGL161C,YGL161C,,p:?; f:?; c:?,intracellular protein transport,p,253,0.8,0.76486,0.99999,10,4,3,7.9022,N
+16192,YGL161C,YGL161C,,p:?; f:?; c:?,vesicle-mediated transport,p,191,0.9,0.9865,1,10,4,4,9.154,N
+5198,YGL170C,SPO74,,f:?; p:sporulation (sensu Saccharomyces); c:?,structural molecule,f,224,0.9,0.93239,0.95832,5,4,3,3.3126,N
+5643,YGL170C,SPO74,,f:?; p:sporulation (sensu Saccharomyces); c:?,nuclear pore,c,42,0.7,0.98274,0.98274,5,5,3,3,N
+6628,YGL177W,YGL177W,,p:?; f:?; c:?,mitochondrial translocation,p,20,0.4,0.53829,0.53829,1,1,1,1,N
+6886,YGL198W,YGL198W,,p:?; f:?; c:?,intracellular protein transport,p,253,0.8,0.026558,0.95715,10,5,1,4.3234,N
+16192,YGL198W,YGL198W,,p:?; f:?; c:?,vesicle-mediated transport,p,191,0.9,0.19413,0.99947,10,5,2,5.5508,N
+3700,YGR017W,YGR017W,,p:?; f:?; c:?,transcription factor,f,213,0.7,0.76592,0.81638,3,2,2,2.2039,N
+30528,YGR017W,YGR017W,,p:?; f:?; c:?,transcription regulator,f,245,0.6,0.80477,0.85787,3,2,2,2.2409,Y
+30515,YGR081C,YGR081C,,p:?; f:?; c:?,snoRNA binding,f,28,0.5,0.0030287,0.8157,4,2,0,2,N
+3723,YGR090W,UTP22,,p:?; f:?; c:?,RNA binding,f,230,0.7,0.99987,1,50,33,16,31.1801,Y
+16070,YGR090W,UTP22,,p:?; f:?; c:?,RNA metabolism,p,256,0.9,1,1,50,37,21,28.1143,N
+30515,YGR090W,UTP22,,p:?; f:?; c:?,snoRNA binding,f,28,0.5,1,1,50,33,12,26.711,N
+30529,YGR090W,UTP22,,p:?; f:?; c:?,ribonucleoprotein complex,c,165,0.9,0.96942,1,50,38,13,20.1048,N
+3723,YGR103W,NOP7,,f:?; c:nucleus; c:nucleolus; p:ribosomal large subunit biogenesis,RNA binding,f,230,0.7,0.093997,1,48,24,10,31.7157,N
+221,YGR117C,YGR117C,,p:?; f:?; c:?,hydrogen-transporting ATPase V1 domain,c,9,0.1,0.13164,0.1305,3,2,1,1.0013,N
+175,YGR134W,CAF130,,f:?; p:regulation of transcription from Pol II promoter; c:CCR4-NOT complex,3'-5' exoribonuclease,f,18,0.5,0.99928,0.99928,5,5,3,3,N
+3723,YGR134W,CAF130,,f:?; p:regulation of transcription from Pol II promoter; c:CCR4-NOT complex,RNA binding,f,230,0.7,0.84601,0.84601,5,5,3,3,Y
+4518,YGR134W,CAF130,,f:?; p:regulation of transcription from Pol II promoter; c:CCR4-NOT complex,nuclease,f,68,0.5,0.9774,0.9774,5,5,3,3,Y
+4527,YGR134W,CAF130,,f:?; p:regulation of transcription from Pol II promoter; c:CCR4-NOT complex,exonuclease,f,34,0.4,0.99706,0.99706,5,5,3,3,Y
+4540,YGR134W,CAF130,,f:?; p:regulation of transcription from Pol II promoter; c:CCR4-NOT complex,ribonuclease,f,44,0.3,0.9955,0.9955,5,5,3,3,Y
+8408,YGR134W,CAF130,,f:?; p:regulation of transcription from Pol II promoter; c:CCR4-NOT complex,3'-5' exonuclease,f,25,0.5,0.99903,0.99903,5,5,3,3,Y
+16788,YGR134W,CAF130,,f:?; p:regulation of transcription from Pol II promoter; c:CCR4-NOT complex,"hydrolase, acting on ester bonds",f,157,0.7,0.83773,0.83773,5,5,3,3,Y
+16896,YGR134W,CAF130,,f:?; p:regulation of transcription from Pol II promoter; c:CCR4-NOT complex,"exoribonuclease, producing 5'-phosphomonoesters",f,23,0.5,0.99876,0.99876,5,5,3,3,Y
+3723,YGR145W,ENP2,,p:?; f:?; c:?,RNA binding,f,230,0.7,0.012371,0.99985,10,3,1,7.3258,Y
+30515,YGR145W,ENP2,,p:?; f:?; c:?,snoRNA binding,f,28,0.5,0.018206,1,10,3,1,7.2382,N
+30529,YGR145W,ENP2,,p:?; f:?; c:?,ribonucleoprotein complex,c,165,0.9,0.005001,0.99324,10,5,1,5.1928,N
+314,YGR150C,YGR150C,,p:?; f:?; c:?,organellar small ribosomal subunit,c,24,0.3,0.40635,0.39327,2,1,1,1,Y
+5763,YGR150C,YGR150C,,p:?; f:?; c:?,mitochondrial small ribosomal subunit,c,24,0.3,0.40635,0.39327,2,1,1,1,N
+3723,YGR156W,PTI1,,p:?; f:?; c:?,RNA binding,f,230,0.7,0.99993,1,12,10,8,9.908,Y
+6378,YGR156W,PTI1,,p:?; f:?; c:?,mRNA polyadenylation,p,16,0.8,1,1,12,11,8,8.9078,N
+16070,YGR156W,PTI1,,p:?; f:?; c:?,RNA metabolism,p,256,0.9,1,1,12,11,10,10.8881,Y
+30363,YGR156W,PTI1,,p:?; f:?; c:?,pre-mRNA cleavage factor,f,13,0.4,1,1,12,10,7,8.9996,Y
+30364,YGR156W,PTI1,,p:?; f:?; c:?,cleavage/polyadenylation specificity factor,f,13,0.4,1,1,12,10,7,8.9996,N
+74,YGR161C,YGR161C,,p:?; f:?; c:?,regulation of cell cycle,p,99,0.8,0.85937,0.85937,3,3,3,3,N
+16788,YGR161C,YGR161C,,p:?; f:?; c:?,"hydrolase, acting on ester bonds",f,157,0.7,0.89352,0.89352,3,3,3,3,N
+5484,YGR172C,YIP1,,f:?; c:Golgi apparatus; c:membrane; p:vesicle-mediated transport,SNAP receptor,f,22,0.9,0.00024806,1,16,8,1,7.0113,N
+4298,YGR232W,NAS6,26S proteasome interacting protein,f:?; c:19S proteasome regulatory particle; p:proteolysis and peptidolysis,threonine endopeptidase,f,30,0.2,0.47614,0.98451,6,5,2,3,Y
+4299,YGR232W,NAS6,26S proteasome interacting protein,f:?; c:19S proteasome regulatory particle; p:proteolysis and peptidolysis,proteasome endopeptidase,f,30,0.2,0.47614,0.98451,6,5,2,3,N
+8233,YGR232W,NAS6,26S proteasome interacting protein,f:?; c:19S proteasome regulatory particle; p:proteolysis and peptidolysis,peptidase,f,81,0.5,0.58257,0.9752,6,5,2,3,Y
+3723,YGR245C,SDA1,,f:?; c:nucleus; p:start control point of mitotic cell cycle; p:actin cytoskeleton organization and biogenesis,RNA binding,f,230,0.7,0.00059207,1,17,5,1,12.0041,N
+314,YGR251W,YGR251W,,p:?; f:?; c:?,organellar small ribosomal subunit,c,24,0.3,0.61238,0.61238,1,1,1,1,Y
+5763,YGR251W,YGR251W,,p:?; f:?; c:?,mitochondrial small ribosomal subunit,c,24,0.3,0.61238,0.61238,1,1,1,1,N
+3723,YGR278W,CWC22,,p:?; f:?; c:?,RNA binding,f,230,0.7,0.091919,0.95789,5,2,1,3.6144,N
+8380,YGR278W,CWC22,,p:?; f:?; c:?,RNA splicing,p,86,0.9,0.48353,0.94763,5,4,2,3,N
+16563,YGR278W,CWC22,,p:?; f:?; c:?,transcriptional activator,f,26,0.6,0.15764,0.99817,5,2,1,3.1927,N
+30529,YGR278W,CWC22,,p:?; f:?; c:?,ribonucleoprotein complex,c,165,0.9,0.47131,0.92402,5,3,2,3.1107,N
+3723,YGR290W,YGR290W,,p:?; f:?; c:?,RNA binding,f,230,0.7,0.7594,0.7594,2,2,2,2,N
+5667,YHL006C,SHU1,,p:?; f:?; c:?,transcription factor complex,c,91,0.4,0.5019,0.47092,7,3,2,2.1332,N
+3899,YHL021C,YHL021C,,p:?; f:?; c:?,DNA-directed RNA polymerase,f,31,0.5,0.76088,0.88642,5,3,2,2.1117,N
+16779,YHL021C,YHL021C,,p:?; f:?; c:?,nucleotidyltransferase,f,63,0.6,0.72309,0.75687,5,3,2,2.1259,Y
+4298,YHL030W,ECM29,,f:?; p:cell wall organization and biogenesis; c:?,threonine endopeptidase,f,30,0.2,0.99999,1,19,17,7,8,Y
+4299,YHL030W,ECM29,,f:?; p:cell wall organization and biogenesis; c:?,proteasome endopeptidase,f,30,0.2,0.99999,1,19,17,7,8,N
+5838,YHL030W,ECM29,,f:?; p:cell wall organization and biogenesis; c:?,19S proteasome regulatory particle,c,21,0.7,1,1,19,17,8,8,N
+8233,YHL030W,ECM29,,f:?; p:cell wall organization and biogenesis; c:?,peptidase,f,81,0.5,1,1,19,17,8,9,Y
+3700,YHL044W,YHL044W,,p:?; f:?; c:?,transcription factor,f,213,0.7,0.71918,0.76043,4,2,2,2.261,Y
+3702,YHL044W,YHL044W,,p:?; f:?; c:?,RNA polymerase II transcription factor,f,96,0.4,0.76324,0.89004,4,2,2,2.2562,Y
+16251,YHL044W,YHL044W,,p:?; f:?; c:?,general RNA polymerase II transcription factor,f,60,0.4,0.72058,0.77468,4,2,2,2.1666,N
+30528,YHL044W,YHL044W,,p:?; f:?; c:?,transcription regulator,f,245,0.6,0.75739,0.84976,4,2,2,2.3235,Y
+3702,YHL045W,YHL045W,,p:?; f:?; c:?,RNA polymerase II transcription factor,f,96,0.4,0.71603,0.71603,4,4,2,2,Y
+16251,YHL045W,YHL045W,,p:?; f:?; c:?,general RNA polymerase II transcription factor,f,60,0.4,0.68595,0.68595,4,4,2,2,N
+30528,YHL045W,YHL045W,,p:?; f:?; c:?,transcription regulator,f,245,0.6,0.65879,0.65879,4,4,2,2,Y
+5198,YHR004C,NEM1,,f:?; p:nuclear organization and biogenesis; p:sporulation (sensu Saccharomyces); c:integral membrane protein; c:nuclear envelope-endoplasmic reticulum network,structural molecule,f,224,0.9,0.94406,0.99188,5,3,3,4.0449,N
+3936,YHR060W,VMA22,,f:?; c:endoplasmic reticulum membrane; p:glycogen metabolism; p:protein complex assembly; p:vacuolar acidification,hydrogen-transporting two-sector ATPase,f,25,0.5,0.77926,0.79947,12,9,3,3.4177,N
+15399,YHR060W,VMA22,,f:?; c:endoplasmic reticulum membrane; p:glycogen metabolism; p:protein complex assembly; p:vacuolar acidification,primary active transporter,f,62,0.6,0.78974,0.97399,12,9,3,4.1017,Y
+15405,YHR060W,VMA22,,f:?; c:endoplasmic reticulum membrane; p:glycogen metabolism; p:protein complex assembly; p:vacuolar acidification,P-P-bond-hydrolysis-driven transporter,f,48,0.5,0.76689,0.79158,12,9,3,3.4914,Y
+15442,YHR060W,VMA22,,f:?; c:endoplasmic reticulum membrane; p:glycogen metabolism; p:protein complex assembly; p:vacuolar acidification,hydrogen-/sodium-translocating ATPase,f,25,0.5,0.77926,0.79947,12,9,3,3.4177,Y
+16820,YHR060W,VMA22,,f:?; c:endoplasmic reticulum membrane; p:glycogen metabolism; p:protein complex assembly; p:vacuolar acidification,"hydrolase, acting on acid anhydrides, catalyzing transmembrane movement of substances",f,43,0.5,0.76831,0.79226,12,9,3,3.4768,Y
+3723,YHR066W,SSF1,Ssf2p homolog,p:ribosomal large subunit assembly and maintenance; f:?; c:nucleolus; p:mating (sensu Saccharomyces),RNA binding,f,230,0.7,0.77294,1,32,14,8,24.6302,N
+6487,YHR080C,YHR080C,,p:?; f:?; c:?,N-linked glycosylation,p,27,0.4,0.49827,0.49827,1,1,1,1,N
+175,YHR081W,LRP1,,p:?; f:?; c:?,3'-5' exoribonuclease,f,18,0.5,0.97105,0.96992,3,2,2,2,N
+176,YHR081W,LRP1,,p:?; f:?; c:?,nuclear exosome (RNase complex),c,11,0.3,0.99112,0.99086,3,2,2,2,N
+177,YHR081W,LRP1,,p:?; f:?; c:?,cytoplasmic exosome (RNase complex),c,10,0.6,0.98847,0.98818,3,2,2,2,N
+178,YHR081W,LRP1,,p:?; f:?; c:?,exosome (RNase complex),c,12,0.3,0.99221,0.99196,3,2,2,2,Y
+4518,YHR081W,LRP1,,p:?; f:?; c:?,nuclease,f,68,0.5,0.82206,0.8096,3,2,2,2.0001,Y
+4527,YHR081W,LRP1,,p:?; f:?; c:?,exonuclease,f,34,0.4,0.93797,0.93444,3,2,2,2,Y
+4540,YHR081W,LRP1,,p:?; f:?; c:?,ribonuclease,f,44,0.3,0.92471,0.91965,3,2,2,2,Y
+8408,YHR081W,LRP1,,p:?; f:?; c:?,3'-5' exonuclease,f,25,0.5,0.96793,0.96631,3,2,2,2,Y
+16896,YHR081W,LRP1,,p:?; f:?; c:?,"exoribonuclease, producing 5'-phosphomonoesters",f,23,0.5,0.96049,0.95872,3,2,2,2,Y
+3723,YHR088W,RPF1,,p:ribosomal large subunit assembly and maintenance; f:?; c:nucleolus,RNA binding,f,230,0.7,0.031736,0.9999,8,2,1,6.9994,N
+5478,YHR105W,YHR105W,,p:?; f:?; c:?,intracellular transporter,f,25,0.6,0.00018017,0.99969,6,1,0,3.1833,Y
+5484,YHR105W,YHR105W,,p:?; f:?; c:?,SNAP receptor,f,22,0.9,0.00039264,0.99954,6,1,0,3.1819,N
+6886,YHR105W,YHR105W,,p:?; f:?; c:?,intracellular protein transport,p,253,0.8,0.52267,0.98779,6,3,2,4.1225,N
+16192,YHR105W,YHR105W,,p:?; f:?; c:?,vesicle-mediated transport,p,191,0.9,0.56939,0.99702,6,3,2,4.1828,N
+42145,YHR195W,NVJ1,,p:?; f:protein binding; c:nuclear membrane,homotypic vacuole fusion (non-autophagic),p,7,0.2,0.30972,0.30972,2,2,1,1,N
+3723,YHR197W,IPI2,,p:?; f:?; c:?,RNA binding,f,230,0.7,0.00047992,0.99999,17,6,1,10.2849,N
+6772,YHR207C,SET5,,p:?; f:?; c:?,thiamin metabolism,p,15,0.2,0.26927,0.26927,3,3,1,1,Y
+9228,YHR207C,SET5,,p:?; f:?; c:?,thiamin biosynthesis,p,15,0.2,0.26927,0.26927,3,3,1,1,N
+4298,YIL009C-A,EST3,20.5 kDa 181aa protein,f:?; c:nucleus; c:telomerase holoenzyme complex; p:telomerase-dependent telomere maintenance,threonine endopeptidase,f,30,0.2,0.30048,0.30048,1,1,1,1,Y
+4299,YIL009C-A,EST3,20.5 kDa 181aa protein,f:?; c:nucleus; c:telomerase holoenzyme complex; p:telomerase-dependent telomere maintenance,proteasome endopeptidase,f,30,0.2,0.30048,0.30048,1,1,1,1,N
+4540,YIL037C,PRM2,,f:?; p:mating (sensu Saccharomyces); c:integral membrane protein,ribonuclease,f,44,0.3,0.37212,0.37212,1,1,1,1,N
+4298,YIL075C,RPN2,,f:?; c:nucleus; c:cytoplasm; c:19S proteasome regulatory particle; p:ubiquitin-dependent protein catabolism,threonine endopeptidase,f,30,0.2,0.18035,0.93895,2,1,1,1.9999,Y
+4299,YIL075C,RPN2,,f:?; c:nucleus; c:cytoplasm; c:19S proteasome regulatory particle; p:ubiquitin-dependent protein catabolism,proteasome endopeptidase,f,30,0.2,0.18035,0.93895,2,1,1,1.9999,N
+8233,YIL075C,RPN2,,f:?; c:nucleus; c:cytoplasm; c:19S proteasome regulatory particle; p:ubiquitin-dependent protein catabolism,peptidase,f,81,0.5,0.28119,0.91674,2,1,1,1.9996,Y
+16772,YIL106W,MOB1,,f:?; c:bud neck; p:mitosis,"transferase, transferring phosphorus-containing groups",f,219,0.9,0.963,0.97642,11,9,6,6.5455,N
+3723,YIL137C,YIL137C,,p:?; f:?; c:?,RNA binding,f,230,0.7,0.27835,0.7594,2,1,1,2,N
+3700,YIL141W,YIL141W,,p:?; f:?; c:?,transcription factor,f,213,0.7,0.7286,0.7286,3,3,2,2,Y
+3701,YIL141W,YIL141W,,p:?; f:?; c:?,RNA polymerase I transcription factor,f,8,0.1,0.14316,0.14316,3,3,1,1,N
+30528,YIL141W,YIL141W,,p:?; f:?; c:?,transcription regulator,f,245,0.6,0.76425,0.76425,3,3,2,2,Y
+16279,YJL010C,YJL010C,,p:?; f:?; c:?,protein-lysine N-methyltransferase,f,9,0.3,0.40571,0.40571,1,1,1,1,N
+5717,YJL026W,RNR2,"ribonucleotide reductase subunit, ribonucleotide reductase, small (R2) subunit",f:ribonucleoside-diphosphate reductase; p:DNA replication; c:?,chromatin,c,22,0.4,0.71394,0.71065,16,15,3,3.0116,N
+30008,YJL044C,GYP6,GTPase activating protein (GAP)  for Ypt6,f:GTPase activator; p:intracellular protein transport; c:?,TRAPP,c,10,0.3,0.96764,0.99422,4,3,2,2.2387,N
+5643,YJL057C,IKS1,serine/threonine kinase (putative),p:?; f:?; c:?,nuclear pore,c,42,0.7,0.80997,0.80997,3,3,2,2,N
+3723,YJL069C,UTP18,"U3 snoRNP protein, U3 snoRNA associated protein",p:?; f:?; c:?,RNA binding,f,230,0.7,1,1,29,22,15,20.2401,Y
+16070,YJL069C,UTP18,"U3 snoRNP protein, U3 snoRNA associated protein",p:?; f:?; c:?,RNA metabolism,p,256,0.9,1,1,29,21,15,19.6546,N
+30515,YJL069C,UTP18,"U3 snoRNP protein, U3 snoRNA associated protein",p:?; f:?; c:?,snoRNA binding,f,28,0.5,1,1,29,22,13,18.2383,N
+30529,YJL069C,UTP18,"U3 snoRNP protein, U3 snoRNA associated protein",p:?; f:?; c:?,ribonucleoprotein complex,c,165,0.9,1,1,29,22,15,19.3027,N
+3723,YJL080C,SCP160,,"f:?; c:endoplasmic reticulum membrane; c:polysome; p:chromosome segregation; p:mRNA localization, intracellular; c:nuclear envelope-endoplasmic reticulum network",RNA binding,f,230,0.7,0.4452,0.86072,9,7,3,4.0646,N
+143,YJL095W,BCK1,MEKK,p:establishment of cell polarity (sensu Saccharomyces); f:MAP kinase kinase; p:protein amino acid phosphorylation; p:protein kinase cascade; p:nutritional response pathway; c:?,actin cap (sensu Saccharomyces),c,26,0.9,0.24036,0.99176,12,8,2,3.7656,N
+3723,YJL107C,YJL107C,,p:?; f:?; c:?,RNA binding,f,230,0.7,0.68429,0.75427,3,2,2,2.2414,N
+3723,YJL124C,LSM1,,"p:mRNA catabolism, deadenylation-dependent; p:deadenylation-dependent decapping; f:?; c:?",RNA binding,f,230,0.7,0.99997,0.99997,14,14,9,9,N
+30529,YJL124C,LSM1,,"p:mRNA catabolism, deadenylation-dependent; p:deadenylation-dependent decapping; f:?; c:?",ribonucleoprotein complex,c,165,0.9,0.99946,0.99995,14,13,7,7.9835,N
+151,YJL149W,YJL149W,,p:?; f:?; c:?,ubiquitin ligase complex,c,21,0.4,0.97918,0.97918,2,2,2,2,Y
+152,YJL149W,YJL149W,,p:?; f:?; c:?,nuclear ubiquitin ligase complex,c,19,0.7,0.9751,0.9751,2,2,2,2,N
+6508,YJL149W,YJL149W,,p:?; f:?; c:?,proteolysis and peptidolysis,p,101,0.5,0.88535,0.88535,2,2,2,2,Y
+19941,YJL149W,YJL149W,,p:?; f:?; c:?,protein-ligand dependent protein catabolism,p,82,0.6,0.89252,0.89252,2,2,2,2,N
+30163,YJL149W,YJL149W,,p:?; f:?; c:?,protein catabolism,p,112,0.6,0.83469,0.83469,2,2,2,2,Y
+16192,YJL151C,SNA3,,p:?; f:?; c:membrane,vesicle-mediated transport,p,191,0.9,0.98317,0.98317,3,3,3,3,N
+338,YJL160C,YJL160C,,p:?; f:?; c:?,protein deneddylation,p,5,0.1,0.32891,0.32891,2,2,1,1,N
+8180,YJL160C,YJL160C,,p:?; f:?; c:?,signalosome complex,c,5,0.1,0.37036,0.36757,2,1,1,1.0409,N
+338,YJR015W,YJR015W,,p:?; f:?; c:?,protein deneddylation,p,5,0.1,0.21127,0.21127,3,3,1,1,N
+8180,YJR015W,YJR015W,,p:?; f:?; c:?,signalosome complex,c,5,0.1,0.21671,0.21671,3,3,1,1,N
+5742,YJR038C,YJR038C,,p:?; f:?; c:?,mitochondrial outer membrane translocase complex,c,8,0.3,0.41302,0.40774,2,1,1,1,N
+3723,YJR050W,ISY1,,f:?; c:spliceosome complex; p:mRNA splicing,RNA binding,f,230,0.7,0.15389,0.92954,4,1,1,3.1255,N
+16563,YJR050W,ISY1,,f:?; c:spliceosome complex; p:mRNA splicing,transcriptional activator,f,26,0.6,0.0055867,0.9434,4,1,0,2.1484,N
+221,YJR062C,NTA1,52 kDa amidase specific for N-terminal asparagine and glutamine,p:protein modification; c:?; f:protein N-terminal asparagine amidohydrolase; p:protein catabolism,hydrogen-transporting ATPase V1 domain,c,9,0.1,0.81826,0.81725,7,6,2,2.0008,N
+6886,YJR082C,EAF6,Subunit of the NuA4 complex,p:?; f:?; c:?,intracellular protein transport,p,253,0.8,0.65014,0.92241,16,11,4,5.1586,N
+3723,YJR084W,CSN12,COP9 signalosome (CSN) subunit,p:?; f:?; c:?,RNA binding,f,230,0.7,0.7594,0.7594,2,2,2,2,N
+3701,YJR087W,YJR087W,,p:?; f:?; c:?,RNA polymerase I transcription factor,f,8,0.1,0.17044,0.17044,2,2,1,1,N
+171,YJR115W,YJR115W,,p:?; f:?; c:?,ribonuclease MRP,f,9,0.1,0.72979,0.72979,1,1,1,1,N
+172,YJR115W,YJR115W,,p:?; f:?; c:?,ribonuclease mitochondrial RNA processing complex,c,9,0.1,0.74523,0.74523,1,1,1,1,N
+4526,YJR115W,YJR115W,,p:?; f:?; c:?,ribonuclease P,f,9,0.5,0.6531,0.6531,1,1,1,1,N
+4540,YJR115W,YJR115W,,p:?; f:?; c:?,ribonuclease,f,44,0.3,0.37212,0.37212,1,1,1,1,Y
+5655,YJR115W,YJR115W,,p:?; f:?; c:?,ribonuclease P complex,c,8,0.6,0.71149,0.71149,1,1,1,1,N
+16891,YJR115W,YJR115W,,p:?; f:?; c:?,"endoribonuclease, producing 5'-phosphomonoesters",f,14,0.5,0.57404,0.57404,1,1,1,1,Y
+3723,YKL009W,MRT4,,f:?; c:?; p:ribosomal large subunit biogenesis,RNA binding,f,230,0.7,0.0022242,0.9985,9,2,0,6.0893,N
+3723,YKL014C,YKL014C,,p:?; f:?; c:?,RNA binding,f,230,0.7,0.84764,0.99967,10,7,4,6.9988,N
+16070,YKL014C,YKL014C,,p:?; f:?; c:?,RNA metabolism,p,256,0.9,0.97052,0.9959,10,9,5,6,N
+3723,YKL021C,MAK11,,f:?; c:membrane fraction; p:virus-host interaction; p:ribosomal large subunit biogenesis,RNA binding,f,230,0.7,0.0099259,0.84601,5,2,0,3,N
+6270,YKL039W,PTM1,membrane protein (putative),p:?; f:?; c:?,DNA replication initiation,p,22,0.3,0.39611,0.39611,1,1,1,1,N
+3723,YKL059C,MPE1,,f:?; c:mRNA cleavage and polyadenylation specificity factor complex; p:mRNA polyadenylation; p:mRNA cleavage,RNA binding,f,230,0.7,1,1,15,14,10,11,Y
+30363,YKL059C,MPE1,,f:?; c:mRNA cleavage and polyadenylation specificity factor complex; p:mRNA polyadenylation; p:mRNA cleavage,pre-mRNA cleavage factor,f,13,0.4,1,1,15,14,10,11,Y
+30364,YKL059C,MPE1,,f:?; c:mRNA cleavage and polyadenylation specificity factor complex; p:mRNA polyadenylation; p:mRNA cleavage,cleavage/polyadenylation specificity factor,f,13,0.4,1,1,15,14,10,11,N
+5198,YKL061W,YKL061W,,p:?; f:?; c:?,structural molecule,f,224,0.9,0.82808,0.97433,8,6,3,4.082,N
+5643,YKL061W,YKL061W,,p:?; f:?; c:?,nuclear pore,c,42,0.7,0.95027,0.99121,8,6,3,3.587,N
+6886,YKL061W,YKL061W,,p:?; f:?; c:?,intracellular protein transport,p,253,0.8,0.97349,0.99824,8,6,4,5.3571,N
+3723,YKL095W,YJU2,,p:?; f:?; c:?,RNA binding,f,230,0.7,0.3006,1,28,20,7,14.9017,N
+8380,YKL095W,YJU2,,p:?; f:?; c:?,RNA splicing,p,86,0.9,0.99999,1,28,25,10,11.506,N
+16070,YKL095W,YJU2,,p:?; f:?; c:?,RNA metabolism,p,256,0.9,0.9955,0.99966,28,25,10,11.4441,Y
+16563,YKL095W,YJU2,,p:?; f:?; c:?,transcriptional activator,f,26,0.6,0.0034381,1,28,20,1,8.0179,N
+30529,YKL095W,YJU2,,p:?; f:?; c:?,ribonucleoprotein complex,c,165,0.9,1,1,28,24,12,13.6664,N
+3700,YKL137W,YKL137W,,p:?; f:?; c:?,transcription factor,f,213,0.7,0.23752,0.7286,3,2,1,2,Y
+3701,YKL137W,YKL137W,,p:?; f:?; c:?,RNA polymerase I transcription factor,f,8,0.1,0.14494,0.14316,3,2,1,1,N
+30515,YKL143W,LTV1,,f:?; p:response to stress; c:?,snoRNA binding,f,28,0.5,0.00055993,0.9689,9,6,0,3,N
+3723,YKL172W,EBP2,nucleolar protein,f:?; c:nucleolus; p:rRNA processing,RNA binding,f,230,0.7,0.037245,0.99427,7,3,1,5,N
+3735,YKL191W,DPH2,,f:?; c:?; p:peptidyl-diphthamide biosynthesis from peptidyl-histidine,structural constituent of ribosome,f,128,0.6,0.50028,0.61038,2,1,1,1.2501,N
+3899,YKL213C,DOA1,,f:?; p:ubiquitin-dependent protein catabolism; c:?,DNA-directed RNA polymerase,f,31,0.5,0.99323,0.99413,6,4,3,3.0556,N
+16779,YKL213C,DOA1,,f:?; p:ubiquitin-dependent protein catabolism; c:?,nucleotidyltransferase,f,63,0.6,0.98184,0.98566,6,4,3,3.1116,Y
+3902,YKL218C,SRY1,"pyridoxal-5'phosphate-dependent enzyme, similar to mouse glial serine racemase",p:?; f:?; c:?,DNA-directed RNA polymerase III,f,16,0.2,0.26539,0.26539,1,1,1,1,N
+4540,YKL222C,YKL222C,,p:?; f:?; c:?,ribonuclease,f,44,0.3,0.37212,0.37212,1,1,1,1,N
+3723,YKR060W,YKR060W,,p:?; f:?; c:?,RNA binding,f,230,0.7,0.11103,0.98352,5,1,1,4.0317,Y
+30515,YKR060W,YKR060W,,p:?; f:?; c:?,snoRNA binding,f,28,0.5,0.084821,0.99983,5,1,1,4.0539,N
+30529,YKR060W,YKR060W,,p:?; f:?; c:?,ribonucleoprotein complex,c,165,0.9,0.059349,0.90071,5,3,1,3,N
+5478,YKR068C,BET3,transport protein particle (TRAPP) component,f:?; p:ER to Golgi transport; c:TRAPP,intracellular transporter,f,25,0.6,0.95173,1,20,10,4,13.0068,Y
+5484,YKR068C,BET3,transport protein particle (TRAPP) component,f:?; p:ER to Golgi transport; c:TRAPP,SNAP receptor,f,22,0.9,0.3688,1,20,10,3,12.0146,N
+3723,YKR081C,RPF2,,p:ribosomal large subunit assembly and maintenance; f:?; c:nucleolus,RNA binding,f,230,0.7,0.00047366,1,45,22,7,29.3443,N
+3735,YLL027W,ISA1,,f:?; c:mitochondrial matrix; p:iron transport,structural constituent of ribosome,f,128,0.6,0.96572,0.95847,3,2,2,2,N
+3723,YLL036C,PRP19,RNA splicing factor,f:?; c:nucleus; c:spliceosome complex; c:cytoplasm; p:mRNA splicing,RNA binding,f,230,0.7,0.5086,1,10,4,3,8.9928,N
+16563,YLL036C,PRP19,RNA splicing factor,f:?; c:nucleus; c:spliceosome complex; c:cytoplasm; p:mRNA splicing,transcriptional activator,f,26,0.6,0.077875,1,10,4,1,6.9999,N
+22,YLL051C,FRE6,,p:?; f:ferric-chelate reductase; c:?,mitotic spindle elongation,p,16,0.2,0.27825,0.27825,2,2,1,1,N
+5680,YLL051C,FRE6,,p:?; f:ferric-chelate reductase; c:?,anaphase-promoting complex,c,13,0.1,0.27665,0.27665,2,2,1,1,N
+7091,YLL051C,FRE6,,p:?; f:ferric-chelate reductase; c:?,mitotic metaphase/anaphase transition,p,13,0.1,0.27994,0.27994,2,2,1,1,N
+8054,YLL051C,FRE6,,p:?; f:ferric-chelate reductase; c:?,cyclin catabolism,p,14,0.1,0.28367,0.28367,2,2,1,1,N
+3723,YLR009W,RLP24,part of a pre-60S complex,f:?; c:?; p:ribosomal large subunit biogenesis,RNA binding,f,230,0.7,0.07582,0.84601,5,3,1,3,N
+3723,YLR037C,DAN2,putative cell wall protein,p:?; f:?; c:cell wall (sensu Fungi),RNA binding,f,230,0.7,0.68429,0.90185,3,2,2,2.7155,N
+5819,YLR072W,YLR072W,,p:?; f:?; c:?,spindle,c,12,0.2,0.21424,0.21202,2,1,1,1.0046,N
+151,YLR097C,YLR097C,,p:?; f:?; c:?,ubiquitin ligase complex,c,21,0.4,0.65446,0.99544,6,5,2,2.9322,Y
+152,YLR097C,YLR097C,,p:?; f:?; c:?,nuclear ubiquitin ligase complex,c,19,0.7,0.64733,0.99468,6,5,2,2.922,N
+6508,YLR097C,YLR097C,,p:?; f:?; c:?,proteolysis and peptidolysis,p,101,0.5,0.4602,0.69865,6,5,2,2.4633,Y
+19941,YLR097C,YLR097C,,p:?; f:?; c:?,protein-ligand dependent protein catabolism,p,82,0.6,0.43871,0.66507,6,5,2,2.418,N
+30163,YLR097C,YLR097C,,p:?; f:?; c:?,protein catabolism,p,112,0.6,0.42955,0.61574,6,5,2,2.3701,Y
+3723,YLR117C,CLF1,pre-mRNA splicing factor,f:?; c:spliceosome complex; p:cell cycle; p:RNA splicing,RNA binding,f,230,0.7,0.95785,1,18,8,6,13.7545,N
+16563,YLR117C,CLF1,pre-mRNA splicing factor,f:?; c:spliceosome complex; p:cell cycle; p:RNA splicing,transcriptional activator,f,26,0.6,0.022423,1,18,8,1,9.8071,N
+5524,YLR176C,RFX1,,p:?; f:?; c:nucleus; c:cytoplasm,ATP binding,f,140,0.9,0.74884,0.98166,11,8,4,6.362,Y
+6997,YLR176C,RFX1,,p:?; f:?; c:nucleus; c:cytoplasm,nuclear organization and biogenesis,p,187,0.9,0.9864,0.99701,11,10,6,6.9802,N
+16887,YLR176C,RFX1,,p:?; f:?; c:nucleus; c:cytoplasm,ATPase,f,135,0.9,0.76153,0.98505,11,8,4,6.3934,N
+30554,YLR176C,RFX1,,p:?; f:?; c:nucleus; c:cytoplasm,adenyl nucleotide binding,f,140,0.9,0.74884,0.98166,11,8,4,6.362,Y
+3723,YLR183C,TOS4,,p:?; f:?; c:?,RNA binding,f,230,0.7,0.27835,0.71554,2,1,1,1.9019,N
+3723,YLR186W,EMG1,ribosome biogenesis,p:?; f:?; c:cytoplasm,RNA binding,f,230,0.7,0.014569,0.94834,9,4,1,4.5355,Y
+30515,YLR186W,EMG1,ribosome biogenesis,p:?; f:?; c:cytoplasm,snoRNA binding,f,28,0.5,0.023594,0.99967,9,4,1,4.2426,N
+5762,YLR189C,UGT51,UDP-glucose:sterol glucosyltransferase,c:?; p:sterol metabolism; f:sterol glucosyltransferase,mitochondrial large ribosomal subunit,c,35,0.8,0.99339,0.99339,2,2,2,2,N
+5045,YLR198C,YLR198C,,p:?; f:?; c:?,endoplasmic reticulum receptor,f,6,0.2,0.26871,0.26597,2,1,1,1.0001,N
+5774,YLR203C,MSS51,,f:?; p:mRNA processing; p:protein biosynthesis; c:?,vacuolar membrane,c,32,0.8,0.92029,0.92029,2,2,2,2,N
+5198,YLR208W,SEC13,"nuclear pore complex subunit, protein involved in release of transport vesicles from the ER",f:?; c:nuclear pore; c:cytoplasm; p:ER to Golgi transport; p:non-selective vesicle assembly; c:extrinsic plasma membrane protein; c:COPII vesicle coat,structural molecule,f,224,0.9,0.99964,0.99985,22,16,8,8.908,N
+3723,YLR221C,RSA3,,p:?; f:?; c:?,RNA binding,f,230,0.7,0.15389,0.78597,4,1,1,2.5724,N
+151,YLR224W,YLR224W,,p:?; f:?; c:?,ubiquitin ligase complex,c,21,0.4,0.97918,0.97918,2,2,2,2,N
+3902,YLR266C,PDR8,zinc finger transcription factor,p:?; f:?; c:?,DNA-directed RNA polymerase III,f,16,0.2,0.26539,0.26539,1,1,1,1,N
+3723,YLR269C,YLR269C,,p:?; f:?; c:?,RNA binding,f,230,0.7,0.94663,0.94663,3,3,3,3,N
+16070,YLR269C,YLR269C,,p:?; f:?; c:?,RNA metabolism,p,256,0.9,0.93032,0.93032,3,3,3,3,N
+3735,YLR287C,YLR287C,,p:?; f:?; c:?,structural constituent of ribosome,f,128,0.6,0.96572,0.95847,3,2,2,2,N
+6414,YLR287C,YLR287C,,p:?; f:?; c:?,translational elongation,p,15,0.3,0.91439,0.91295,3,2,2,2.0004,N
+151,YLR289W,GUF1,GTPase,p:?; f:GTPase; c:?,ubiquitin ligase complex,c,21,0.4,0.054672,0.93222,4,2,1,2.0722,Y
+152,YLR289W,GUF1,GTPase,p:?; f:GTPase; c:?,nuclear ubiquitin ligase complex,c,19,0.7,0.052951,0.92197,4,2,1,2.0639,N
+151,YLR306W,UBC12,ubiquitin-conjugating enzyme,p:polyubiquitination; f:ubiquitin conjugating enzyme; p:monoubiquitination; c:?; p:RUB1-protein conjugation,ubiquitin ligase complex,c,21,0.4,0.054672,0.99937,4,2,1,2.9948,Y
+152,YLR306W,UBC12,ubiquitin-conjugating enzyme,p:polyubiquitination; f:ubiquitin conjugating enzyme; p:monoubiquitination; c:?; p:RUB1-protein conjugation,nuclear ubiquitin ligase complex,c,19,0.7,0.052951,0.99924,4,2,1,2.9939,N
+7029,YLR343W,YLR343W,,p:?; f:?; c:?,ER organization and biogenesis,p,10,0.3,0.32508,0.32508,1,1,1,1,Y
+45047,YLR343W,YLR343W,,p:?; f:?; c:?,protein-ER targeting,p,9,0.3,0.33054,0.33054,1,1,1,1,N
+6893,YLR351C,NIT3,,p:?; f:nitrilase; c:?,Golgi to plasma membrane transport,p,19,0.4,0.45692,0.45692,1,1,1,1,N
+151,YLR352W,YLR352W,,p:?; f:?; c:?,ubiquitin ligase complex,c,21,0.4,0.81028,0.81109,5,4,2,2.0089,Y
+152,YLR352W,YLR352W,,p:?; f:?; c:?,nuclear ubiquitin ligase complex,c,19,0.7,0.79923,0.8009,5,4,2,2.0087,N
+6508,YLR352W,YLR352W,,p:?; f:?; c:?,proteolysis and peptidolysis,p,101,0.5,0.57685,0.57685,5,5,2,2,N
+3700,YLR358C,YLR358C,,p:?; f:?; c:?,transcription factor,f,213,0.7,0.7286,0.7286,3,3,2,2,N
+30528,YLR358C,YLR358C,,p:?; f:?; c:?,transcription regulator,f,245,0.6,0.76425,0.76425,3,3,2,2,Y
+3723,YLR409C,UTP21,U3 snoRNP protein,p:?; f:?; c:?,RNA binding,f,230,0.7,0.24045,0.99427,7,4,2,5,Y
+16070,YLR409C,UTP21,U3 snoRNP protein,p:?; f:?; c:?,RNA metabolism,p,256,0.9,0.21301,0.93651,7,5,2,4,N
+30515,YLR409C,UTP21,U3 snoRNP protein,p:?; f:?; c:?,snoRNA binding,f,28,0.5,0.042622,0.9996,7,4,1,4,N
+30529,YLR409C,UTP21,U3 snoRNP protein,p:?; f:?; c:?,ribonucleoprotein complex,c,165,0.9,0.78992,0.99815,7,5,3,5,N
+4298,YLR421C,RPN13,,f:?; c:19S proteasome regulatory particle; p:proteolysis and peptidolysis,threonine endopeptidase,f,30,0.2,0.80143,0.99993,4,2,2,3.9389,Y
+4299,YLR421C,RPN13,,f:?; c:19S proteasome regulatory particle; p:proteolysis and peptidolysis,proteasome endopeptidase,f,30,0.2,0.80143,0.99993,4,2,2,3.9389,N
+8233,YLR421C,RPN13,,f:?; c:19S proteasome regulatory particle; p:proteolysis and peptidolysis,peptidase,f,81,0.5,0.82234,0.99964,4,2,2,3.9167,Y
+3723,YLR424W,YLR424W,,p:?; f:?; c:?,RNA binding,f,230,0.7,0.72653,0.994,17,9,5,7.5149,N
+3723,YLR427W,YLR427W,,p:?; f:?; c:?,RNA binding,f,230,0.7,0.0013463,0.99784,26,18,4,10.2389,Y
+3735,YLR435W,TSR2,,p:?; f:?; c:?,structural constituent of ribosome,f,128,0.6,0.91149,0.99872,5,3,2,3.1948,N
+15935,YLR435W,TSR2,,p:?; f:?; c:?,small ribosomal subunit,c,56,0.5,0.91373,0.99713,5,3,2,2.89,N
+3700,YLR446W,YLR446W,,p:?; f:?; c:?,transcription factor,f,213,0.7,0.3928,0.93815,8,4,2,3.5964,N
+16070,YLR456W,YLR456W,,p:?; f:?; c:?,RNA metabolism,p,256,0.9,0.70578,0.94662,7,5,3,4.0153,N
+5478,YML077W,BET5,TRAPP 18kDa component,f:?; p:ER to Golgi transport; c:TRAPP,intracellular transporter,f,25,0.6,0.44774,1,17,7,3,12.0278,Y
+5484,YML077W,BET5,TRAPP 18kDa component,f:?; p:ER to Golgi transport; c:TRAPP,SNAP receptor,f,22,0.9,0.75453,1,17,7,3,12.0426,N
+151,YML088W,UFO1,F-box protein,f:ubiquitin-protein ligase; p:ubiquitin-dependent protein catabolism; p:response to DNA damage; c:?,ubiquitin ligase complex,c,21,0.4,0.95424,0.95424,3,3,2,2,Y
+152,YML088W,UFO1,F-box protein,f:ubiquitin-protein ligase; p:ubiquitin-dependent protein catabolism; p:response to DNA damage; c:?,nuclear ubiquitin ligase complex,c,19,0.7,0.94753,0.94753,3,3,2,2,N
+8249,YML105C,SEC65,,"f:?; c:signal recognition particle; p:SRP-dependent, co-translational membrane targeting, signal sequence recognition",protein signal sequence binding,f,7,0.1,0.27505,0.27505,3,3,1,1,N
+4129,YML125C,YML125C,,p:?; f:?; c:?,cytochrome c oxidase,f,7,0.1,0.44393,0.44393,2,2,1,1,N
+5751,YML125C,YML125C,,p:?; f:?; c:?,respiratory chain complex IV (sensu Eukarya),c,7,0.3,0.4273,0.4273,2,2,1,1,N
+15002,YML125C,YML125C,,p:?; f:?; c:?,heme-copper terminal oxidase,f,7,0.1,0.44393,0.44393,2,2,1,1,Y
+16676,YML125C,YML125C,,p:?; f:?; c:?,"oxidoreductase, acting on heme group of donors, oxygen as acceptor",f,7,0.1,0.44393,0.44393,2,2,1,1,Y
+145,YMR002W,YMR002W,,p:?; f:?; c:?,exocyst,c,8,0.2,0.36751,0.36751,2,2,1,1,N
+8233,YMR025W,CSI1,Interacts with the CSN complex,p:protein deneddylation; f:?; c:signalosome complex,peptidase,f,81,0.5,0.047186,0.59052,6,4,1,2.0982,N
+16070,YMR049C,ERB1,,p:?; f:?; c:?,RNA metabolism,p,256,0.9,0.0038328,0.95456,55,47,11,15.5483,N
+5774,YMR071C,YMR071C,,p:?; f:?; c:?,vacuolar membrane,c,32,0.8,0.92029,0.92029,2,2,2,2,N
+5667,YMR075W,RCO1,,p:?; f:?; c:?,transcription factor complex,c,91,0.4,0.8618,0.8618,3,3,2,2,N
+3689,YMR078C,CTF18,,f:?; c:DNA replication factor C complex; p:sister chromatid cohesion,DNA clamp loader,f,6,0.8,0.99752,0.99866,7,5,3,3.1339,N
+3887,YMR078C,CTF18,,f:?; c:DNA replication factor C complex; p:sister chromatid cohesion,DNA-directed DNA polymerase,f,20,0.3,0.81255,0.9207,7,5,2,2.1557,Y
+3893,YMR078C,CTF18,,f:?; c:DNA replication factor C complex; p:sister chromatid cohesion,epsilon DNA polymerase,f,5,0.4,0.87062,0.93953,7,5,2,2.1133,N
+3723,YMR116C,ASC1,G-beta like protein,p:?; f:?; c:cytoplasm,RNA binding,f,230,0.7,0.0044725,0.99898,20,12,3,9.0444,Y
+30515,YMR116C,ASC1,G-beta like protein,p:?; f:?; c:cytoplasm,snoRNA binding,f,28,0.5,0.00060512,0.99999,20,12,1,6.2828,N
+314,YMR158W,YMR158W,,p:?; f:?; c:?,organellar small ribosomal subunit,c,24,0.3,0.61238,0.61238,1,1,1,1,Y
+5763,YMR158W,YMR158W,,p:?; f:?; c:?,mitochondrial small ribosomal subunit,c,24,0.3,0.61238,0.61238,1,1,1,1,N
+3723,YMR213W,CEF1,protein complex component associated with the splicing factor Prp19p,f:?; c:spliceosome complex; p:mRNA splicing,RNA binding,f,230,0.7,0.99797,1,21,10,8,18.4497,N
+16563,YMR213W,CEF1,protein complex component associated with the splicing factor Prp19p,f:?; c:spliceosome complex; p:mRNA splicing,transcriptional activator,f,26,0.6,0.013618,1,21,10,1,10.8775,N
+4540,YMR266W,RSN1,,p:?; f:?; c:?,ribonuclease,f,44,0.3,0.37212,0.37212,1,1,1,1,N
+3723,YMR288W,HSH155,,p:?; f:?; c:snRNP U2,RNA binding,f,230,0.7,0.99324,0.9999,8,6,5,7,N
+8380,YMR288W,HSH155,,p:?; f:?; c:snRNP U2,RNA splicing,p,86,0.9,0.99937,0.99937,8,8,5,5,N
+16070,YMR288W,HSH155,,p:?; f:?; c:snRNP U2,RNA metabolism,p,256,0.9,0.98729,0.98729,8,8,5,5,Y
+16563,YMR288W,HSH155,,p:?; f:?; c:snRNP U2,transcriptional activator,f,26,0.6,0.094543,0.79893,8,6,1,2.0074,N
+16070,YMR290C,HAS1,RNA-dependent helicase (putative),p:?; f:RNA helicase; c:nuclear membrane; c:nucleolus,RNA metabolism,p,256,0.9,0.94157,0.99984,25,21,8,11.1134,N
+8565,YMR298W,YMR298W,,p:?; f:?; c:?,protein transporter,f,33,0.7,0.98198,0.98198,4,4,2,2,N
+6772,YMR322C,YMR322C,,p:?; f:?; c:?,thiamin metabolism,p,15,0.2,0.99995,0.99998,4,3,3,3.1276,Y
+8614,YMR322C,YMR322C,,p:?; f:?; c:?,pyridoxine metabolism,p,6,0.1,1,1,4,3,3,3.0329,N
+9228,YMR322C,YMR322C,,p:?; f:?; c:?,thiamin biosynthesis,p,15,0.2,0.99995,0.99998,4,3,3,3.1276,N
+42364,YMR322C,YMR322C,,p:?; f:?; c:?,water-soluble vitamin biosynthesis,p,25,0.4,0.99979,0.99991,4,3,3,3.1788,Y
+3735,YNL041C,COG6,,f:?; p:intra-Golgi transport; c:Golgi transport complex,structural constituent of ribosome,f,128,0.6,0.62804,0.65434,8,6,2,2.2062,N
+5198,YNL041C,COG6,,f:?; p:intra-Golgi transport; c:Golgi transport complex,structural molecule,f,224,0.9,0.97923,0.9934,8,6,4,4.6858,Y
+5478,YNL044W,YIP3,,f:?; p:ER to Golgi transport; c:COPII-coated vesicle,intracellular transporter,f,25,0.6,0.0020343,0.99201,10,6,1,3.1021,Y
+5484,YNL044W,YIP3,,f:?; p:ER to Golgi transport; c:COPII-coated vesicle,SNAP receptor,f,22,0.9,0.005749,0.99419,10,6,1,3.1164,N
+6886,YNL086W,YNL086W,,p:?; f:?; c:?,intracellular protein transport,p,253,0.8,0.7034,0.99305,9,7,3,4.9513,N
+123,YNL107W,YAF9,,f:?; p:chromatin silencing; c:?,histone acetyltransferase complex,c,41,0.5,0.9417,0.9417,3,3,2,2,N
+5667,YNL107W,YAF9,,f:?; p:chromatin silencing; c:?,transcription factor complex,c,91,0.4,0.8618,0.8618,3,3,2,2,Y
+3723,YNL110C,NOP15,ribosome biogenesis,f:?; c:nucleus; c:nucleolus; p:ribosomal large subunit biogenesis,RNA binding,f,230,0.7,0.010564,1,30,12,5,22.9945,N
+3723,YNL132W,KRE33,,p:?; f:?; c:?,RNA binding,f,230,0.7,0.00017218,0.99957,27,15,3,11.196,Y
+30515,YNL132W,KRE33,,p:?; f:?; c:?,snoRNA binding,f,28,0.5,0.0025035,1,27,15,2,10.6365,N
+30529,YNL132W,KRE33,,p:?; f:?; c:?,ribonucleoprotein complex,c,165,0.9,0.13761,0.99952,27,19,6,10.0746,N
+16070,YNL175C,NOP13,,p:?; f:RNA binding; c:nucleoplasm; c:nucleolus,RNA metabolism,p,256,0.9,0.86729,0.99752,18,15,6,8.1395,N
+3723,YNL182C,IPI3,,p:?; f:?; c:?,RNA binding,f,230,0.7,0.00038414,0.99532,12,5,0,6.3553,N
+16563,YNL201C,PSY2,,p:?; f:?; c:?,transcriptional activator,f,26,0.6,0.00066258,0.99907,17,8,0,3.9764,N
+3723,YNL207W,RIO2,,p:?; f:?; c:?,RNA binding,f,230,0.7,0.00011902,0.97792,14,7,0,6.183,Y
+30515,YNL207W,RIO2,,p:?; f:?; c:?,snoRNA binding,f,28,0.5,0.00011674,1,14,7,0,6.494,N
+30363,YNL222W,SSU72,,f:?; c:nucleus; p:transcription initiation from Pol II promoter,pre-mRNA cleavage factor,f,13,0.4,0.96004,0.96004,3,3,2,2,Y
+30364,YNL222W,SSU72,,f:?; c:nucleus; p:transcription initiation from Pol II promoter,cleavage/polyadenylation specificity factor,f,13,0.4,0.96004,0.96004,3,3,2,2,N
+5478,YNL263C,YIF1,,f:?; p:ER to Golgi transport; c:COPII-coated vesicle,intracellular transporter,f,25,0.6,0.034087,1,6,2,1,4.1023,Y
+5484,YNL263C,YIF1,,f:?; p:ER to Golgi transport; c:COPII-coated vesicle,SNAP receptor,f,22,0.9,0.050247,1,6,2,1,4.1232,N
+3743,YNL265C,IST1,,p:?; f:?; c:?,translation initiation factor,f,27,0.8,0.99995,0.99996,11,10,6,6.1341,N
+8135,YNL265C,IST1,,p:?; f:?; c:?,"translation factor, nucleic acid binding",f,43,0.7,0.99985,0.9999,11,10,6,6.1597,Y
+30529,YNL265C,IST1,,p:?; f:?; c:?,ribonucleoprotein complex,c,165,0.9,0.98527,0.9957,11,9,5,5.5927,N
+45182,YNL265C,IST1,,p:?; f:?; c:?,translation regulator,f,48,0.7,0.99982,0.99988,11,10,6,6.1671,Y
+30515,YNL287W,SEC21,"PEST sequence-containing protein, non-clathrin coat protein",f:?; p:ER to Golgi transport; p:retrograde (Golgi to ER) transport; c:COPI vesicle coat,snoRNA binding,f,28,0.5,0.00089423,0.50359,8,2,0,1.9768,N
+175,YNL288W,CAF40,,f:?; p:regulation of transcription from Pol II promoter; c:CCR4-NOT complex,3'-5' exoribonuclease,f,18,0.5,0.99835,0.99837,6,5,3,3.0092,N
+3702,YNL288W,CAF40,,f:?; p:regulation of transcription from Pol II promoter; c:CCR4-NOT complex,RNA polymerase II transcription factor,f,96,0.4,0.47218,0.44623,6,5,2,2.0057,N
+3723,YNL288W,CAF40,,f:?; p:regulation of transcription from Pol II promoter; c:CCR4-NOT complex,RNA binding,f,230,0.7,0.79047,0.89042,6,5,3,3.415,Y
+4518,YNL288W,CAF40,,f:?; p:regulation of transcription from Pol II promoter; c:CCR4-NOT complex,nuclease,f,68,0.5,0.96936,0.97224,6,5,3,3.0556,Y
+4527,YNL288W,CAF40,,f:?; p:regulation of transcription from Pol II promoter; c:CCR4-NOT complex,exonuclease,f,34,0.4,0.99489,0.9952,6,5,3,3.0275,Y
+4540,YNL288W,CAF40,,f:?; p:regulation of transcription from Pol II promoter; c:CCR4-NOT complex,ribonuclease,f,44,0.3,0.99274,0.99333,6,5,3,3.0375,Y
+8408,YNL288W,CAF40,,f:?; p:regulation of transcription from Pol II promoter; c:CCR4-NOT complex,3'-5' exonuclease,f,25,0.5,0.99796,0.99802,6,5,3,3.0148,Y
+16788,YNL288W,CAF40,,f:?; p:regulation of transcription from Pol II promoter; c:CCR4-NOT complex,"hydrolase, acting on ester bonds",f,157,0.7,0.81962,0.82579,6,5,3,3.083,Y
+16896,YNL288W,CAF40,,f:?; p:regulation of transcription from Pol II promoter; c:CCR4-NOT complex,"exoribonuclease, producing 5'-phosphomonoesters",f,23,0.5,0.99752,0.99761,6,5,3,3.0163,Y
+3723,YNL308C,KRI1,Krr1p binding protein,f:?; c:nucleolus; p:ribosome biogenesis,RNA binding,f,230,0.7,0.0017471,0.84788,13,7,1,5.0337,Y
+30515,YNL308C,KRI1,Krr1p binding protein,f:?; c:nucleolus; p:ribosome biogenesis,snoRNA binding,f,28,0.5,0.00015844,0.9965,13,7,0,4.0155,N
+6508,YNL311C,YNL311C,,p:?; f:?; c:?,proteolysis and peptidolysis,p,101,0.5,0.58587,0.53577,11,9,3,3.0042,N
+3723,YNR054C,YNR054C,,p:?; f:?; c:?,RNA binding,f,230,0.7,0.27835,0.75689,2,1,1,1.9941,N
+6319,YOL030W,GAS5,,p:?; f:?; c:cell wall (sensu Fungi),Ty element transposition,p,12,0.5,0.00066739,0.51051,3,1,0,1.0451,N
+4518,YOL044W,PEX15,44 kDa phosphorylated integral peroxisomal membrane protein,f:?; c:peroxisomal membrane; p:protein-peroxisome targeting; p:peroxisome organization and biogenesis,nuclease,f,68,0.5,0.80949,0.80949,3,3,2,2,N
+3723,YOL077C,BRX1,,p:ribosomal large subunit assembly and maintenance; f:?; c:nucleolus,RNA binding,f,230,0.7,0.0085283,0.99994,11,3,1,8.0005,N
+3743,YOL087C,YOL087C,,p:?; f:?; c:?,translation initiation factor,f,27,0.8,0.92862,0.92744,15,13,4,4.0124,N
+8135,YOL087C,YOL087C,,p:?; f:?; c:?,"translation factor, nucleic acid binding",f,43,0.7,0.90303,0.90017,15,13,4,4.0169,Y
+45182,YOL087C,YOL087C,,p:?; f:?; c:?,translation regulator,f,48,0.7,0.8969,0.89343,15,13,4,4.0181,Y
+15935,YOL149W,DCP1,,p:deadenylation-dependent decapping; f:mRNA binding; p:mRNA catabolism; c:?; f:hydrolase,small ribosomal subunit,c,56,0.5,0.9318,0.99998,24,21,4,6.167,N
+30529,YOL149W,DCP1,,p:deadenylation-dependent decapping; f:mRNA binding; p:mRNA catabolism; c:?; f:hydrolase,ribonucleoprotein complex,c,165,0.9,0.85886,0.98345,24,21,7,8.0465,N
+3700,YOR047C,STD1,MTH1 homolog,f:?; c:nucleus; c:plasma membrane; p:glucose metabolism; p:regulation of transcription from Pol II promoter; p:signal transduction; p:salinity response,transcription factor,f,213,0.7,0.59076,0.99741,31,19,6,9.3943,Y
+16563,YOR047C,STD1,MTH1 homolog,f:?; c:nucleus; c:plasma membrane; p:glucose metabolism; p:regulation of transcription from Pol II promoter; p:signal transduction; p:salinity response,transcriptional activator,f,26,0.6,0.99331,0.99999,31,19,4,5.9781,N
+3723,YOR056C,NOB1,Associated with the 26S proteasome,f:?; c:26S proteasome; p:ATP-dependent proteolysis,RNA binding,f,230,0.7,0.0084225,0.96699,6,1,0,3.9772,Y
+30515,YOR056C,NOB1,Associated with the 26S proteasome,f:?; c:26S proteasome; p:ATP-dependent proteolysis,snoRNA binding,f,28,0.5,0.0017146,0.99972,6,1,0,4.0035,N
+147,YOR111W,YOR111W,,p:?; f:?; c:?,actin cortical patch assembly,p,10,0.9,0.93316,0.93316,2,2,2,2,N
+3723,YOR145C,YOR145C,,p:?; f:?; c:cytoplasm,RNA binding,f,230,0.7,0.012218,0.98139,5,1,0,3.9779,Y
+30515,YOR145C,YOR145C,,p:?; f:?; c:cytoplasm,snoRNA binding,f,28,0.5,0.0023258,0.9998,5,1,0,4,N
+3723,YOR179C,YOR179C,,p:?; f:?; c:?,RNA binding,f,230,0.7,0.54675,0.90802,4,3,2,3,Y
+6378,YOR179C,YOR179C,,p:?; f:?; c:?,mRNA polyadenylation,p,16,0.8,0.050846,0.90782,4,3,1,2,N
+30363,YOR179C,YOR179C,,p:?; f:?; c:?,pre-mRNA cleavage factor,f,13,0.4,0.91935,0.99959,4,3,2,3,Y
+30364,YOR179C,YOR179C,,p:?; f:?; c:?,cleavage/polyadenylation specificity factor,f,13,0.4,0.91935,0.99959,4,3,2,3,N
+314,YOR205C,YOR205C,,p:?; f:?; c:?,organellar small ribosomal subunit,c,24,0.3,0.61238,0.61238,1,1,1,1,Y
+5763,YOR205C,YOR205C,,p:?; f:?; c:?,mitochondrial small ribosomal subunit,c,24,0.3,0.61238,0.61238,1,1,1,1,N
+3723,YOR206W,NOC2,,p:?; f:?; c:nucleus,RNA binding,f,230,0.7,0.031152,1,17,8,3,11.9978,Y
+16070,YOR206W,NOC2,,p:?; f:?; c:nucleus,RNA metabolism,p,256,0.9,0.02661,0.99825,17,11,3,8.1109,N
+3702,YOR220W,YOR220W,,p:?; f:?; c:?,RNA polymerase II transcription factor,f,96,0.4,0.44171,0.44171,6,6,2,2,N
+6352,YOR220W,YOR220W,,p:?; f:?; c:?,transcription initiation,p,48,0.4,0.61001,0.61001,6,6,2,2,Y
+6367,YOR220W,YOR220W,,p:?; f:?; c:?,transcription initiation from Pol II promoter,p,38,0.5,0.56735,0.56735,6,6,2,2,N
+143,YOR231W,MKK1,MAP kinase kinase (MEK),f:MAP kinase kinase; p:protein amino acid phosphorylation; p:signal transduction; c:?,actin cap (sensu Saccharomyces),c,26,0.9,0.62313,0.98757,6,4,2,3.1653,N
+314,YOR243C,PUS7,pseudouridylate U2 snRNA at position 35,p:?; f:?; c:?,organellar small ribosomal subunit,c,24,0.3,0.97881,0.97881,4,4,2,2,Y
+3735,YOR243C,PUS7,pseudouridylate U2 snRNA at position 35,p:?; f:?; c:?,structural constituent of ribosome,f,128,0.6,0.92664,0.92664,4,4,2,2,N
+5763,YOR243C,PUS7,pseudouridylate U2 snRNA at position 35,p:?; f:?; c:?,mitochondrial small ribosomal subunit,c,24,0.3,0.97881,0.97881,4,4,2,2,N
+15935,YOR243C,PUS7,pseudouridylate U2 snRNA at position 35,p:?; f:?; c:?,small ribosomal subunit,c,56,0.5,0.93136,0.93136,4,4,2,2,Y
+3723,YOR272W,YTM1,microtubule-associated protein,f:?; c:nucleus; c:nucleolus; p:chromosome organization and biogenesis (sensu Eukarya); p:ribosomal large subunit biogenesis,RNA binding,f,230,0.7,0.0003193,1,22,10,2,12.0318,N
+4576,YOR279C,RFM1,DNA-binding protein,p:?; f:?; c:nucleus,oligosaccharyl transferase,f,7,0.1,0.59401,0.59401,1,1,1,1,Y
+4579,YOR279C,RFM1,DNA-binding protein,p:?; f:?; c:nucleus,dolichyl-diphospho-oligosaccharide-protein glycosyltransferase,f,7,0.1,0.59401,0.59401,1,1,1,1,N
+6487,YOR279C,RFM1,DNA-binding protein,p:?; f:?; c:nucleus,N-linked glycosylation,p,27,0.4,0.49827,0.49827,1,1,1,1,N
+15935,YOR285W,YOR285W,,p:?; f:?; c:?,small ribosomal subunit,c,56,0.5,0.079201,0.79779,7,4,1,2.3371,N
+6284,YOR378W,YOR378W,,p:?; f:?; c:?,base-excision repair,p,5,0.1,0.26933,0.26864,2,1,1,1.0057,N
+151,YPL003W,ULA1,,c:?; f:RUB1 activating enzyme; p:RUB1-protein conjugation,ubiquitin ligase complex,c,21,0.4,0.011246,0.99477,6,4,1,2.9003,Y
+152,YPL003W,ULA1,,c:?; f:RUB1 activating enzyme; p:RUB1-protein conjugation,nuclear ubiquitin ligase complex,c,19,0.7,0.011748,0.99393,6,4,1,2.8903,N
+3723,YPL012W,RRP12,,f:?; c:ribosome; p:ribosome biogenesis; p:processing of 20S pre-rRNA,RNA binding,f,230,0.7,0.014751,1,14,6,2,9.9745,Y
+30515,YPL012W,RRP12,,f:?; c:ribosome; p:ribosome biogenesis; p:processing of 20S pre-rRNA,snoRNA binding,f,28,0.5,0.00012159,1,14,6,0,7.0885,N
+74,YPL014W,YPL014W,,p:?; f:?; c:?,regulation of cell cycle,p,99,0.8,0.85937,0.85937,3,3,3,3,N
+3700,YPL064C,CWC27,,p:?; f:?; c:?,transcription factor,f,213,0.7,0.32665,0.80697,2,1,1,2,N
+6350,YPL064C,CWC27,,p:?; f:?; c:?,transcription,p,93,0.8,0.84435,0.84435,2,2,2,2,N
+5478,YPL095C,YPL095C,,p:?; f:?; c:?,intracellular transporter,f,25,0.6,0.00034861,1,5,1,0,4,Y
+5484,YPL095C,YPL095C,,p:?; f:?; c:?,SNAP receptor,f,22,0.9,0.00065398,1,5,1,0,4,N
+6886,YPL095C,YPL095C,,p:?; f:?; c:?,intracellular protein transport,p,253,0.8,0.017023,0.89477,5,2,0,2.937,N
+16192,YPL095C,YPL095C,,p:?; f:?; c:?,vesicle-mediated transport,p,191,0.9,0.12141,0.99697,5,2,1,3.9945,N
+3723,YPL151C,PRP46,pre-mRNA splicing factor,f:?; c:spliceosome complex; p:mRNA splicing,RNA binding,f,230,0.7,0.20109,0.99924,16,11,4,8.1577,N
+16563,YPL151C,PRP46,pre-mRNA splicing factor,f:?; c:spliceosome complex; p:mRNA splicing,transcriptional activator,f,26,0.6,0.02658,0.99999,16,11,1,5.2023,N
+5934,YPL161C,BEM4,,p:establishment of cell polarity (sensu Saccharomyces); f:?; p:Rho protein signal transduction; c:?; p:actin cytoskeleton organization and biogenesis,bud tip,c,20,0.8,0.95107,0.97366,19,14,4,4.2858,N
+5940,YPL161C,BEM4,,p:establishment of cell polarity (sensu Saccharomyces); f:?; p:Rho protein signal transduction; c:?; p:actin cytoskeleton organization and biogenesis,septin ring,c,10,0.2,0.89041,0.98009,19,14,3,3.4264,N
+145,YPL179W,PPQ1,protein phosphatase Q,f:protein serine/threonine phosphatase; p:regulation of translation; p:protein amino acid dephosphorylation; c:?,exocyst,c,8,0.2,0.2104,0.2104,3,3,1,1,N
+5667,YPL181W,RXT1,,p:?; f:?; c:?,transcription factor complex,c,91,0.4,0.79813,0.99101,4,3,2,2.9999,N
+6348,YPL181W,RXT1,,p:?; f:?; c:?,chromatin silencing at telomere,p,25,0.9,0.4912,0.92837,4,3,2,2.9989,N
+30528,YPL181W,RXT1,,p:?; f:?; c:?,transcription regulator,f,245,0.6,0.17025,0.65182,4,3,1,1.9876,N
+4518,YPL194W,DDC1,,p:cell cycle checkpoint; f:?; c:meiotic chromosome,nuclease,f,68,0.5,0.4864,0.52509,7,6,2,2.0872,Y
+4527,YPL194W,DDC1,,p:cell cycle checkpoint; f:?; c:meiotic chromosome,exonuclease,f,34,0.4,0.56406,0.63314,7,6,2,2.1074,N
+4749,YPL196W,OXR1,,f:?; p:response to oxidative stress; c:?,ribose-phosphate pyrophosphokinase,f,5,0.4,0.43158,0.43158,1,1,1,1,N
+16778,YPL196W,OXR1,,f:?; p:response to oxidative stress; c:?,diphosphotransferase,f,6,0.4,0.4437,0.4437,1,1,1,1,Y
+3735,YPL208W,YPL208W,,p:?; f:?; c:?,structural constituent of ribosome,f,128,0.6,0.89404,0.95907,5,4,2,2.2651,N
+3723,YPL211W,NIP7,,p:ribosomal large subunit assembly and maintenance; f:?; c:nucleolus; c:cytosolic large ribosomal subunit (sensu Eukarya); p:rRNA processing,RNA binding,f,230,0.7,0.00058467,0.99951,12,3,0,7.3453,N
+3701,YPL224C,MMT2,,f:?; c:mitochondrion; p:iron homeostasis; c:integral membrane protein,RNA polymerase I transcription factor,f,8,0.1,0.2017,0.2017,1,1,1,1,N
+5198,YPL241C,CIN2,tubulin folding cofactor C,f:?; p:microtubule-based process; c:?,structural molecule,f,224,0.9,0.58484,0.91845,5,4,2,2.9996,N
+5478,YPL246C,YPL246C,,p:?; f:?; c:?,intracellular transporter,f,25,0.6,0.11141,0.96076,4,3,1,1.9997,Y
+5484,YPL246C,YPL246C,,p:?; f:?; c:?,SNAP receptor,f,22,0.9,0.12332,0.94976,4,3,1,1.9995,N
+6886,YPL246C,YPL246C,,p:?; f:?; c:?,intracellular protein transport,p,253,0.8,0.64545,0.93563,4,3,2,2.9878,N
+16192,YPL246C,YPL246C,,p:?; f:?; c:?,vesicle-mediated transport,p,191,0.9,0.97653,0.99819,4,3,3,3.997,N
+5198,YPL269W,KAR9,,p:nuclear migration (sensu Saccharomyces); f:?; c:shmoo tip; c:cell cortex; p:nuclear fusion during karyogamy,structural molecule,f,224,0.9,0.32978,0.9309,8,6,2,3.6296,N
+3723,YPR016C,TIF6,,f:?; c:nucleus; c:cytoplasm; p:processing of 27S pre-rRNA; p:ribosomal large subunit biogenesis,RNA binding,f,230,0.7,0.016615,1,45,27,9,26.8282,N
+16302,YPR040W,TIP41,,p:?; f:?; c:cytoplasm,phosphatase,f,75,0.9,0.99981,0.99981,10,10,8,8,N
+16311,YPR040W,TIP41,,p:?; f:?; c:cytoplasm,dephosphorylation,p,18,0.1,0.46007,0.46007,10,10,2,2,N
+16788,YPR040W,TIP41,,p:?; f:?; c:cytoplasm,"hydrolase, acting on ester bonds",f,157,0.7,0.99994,0.99994,10,10,8,8,Y
+16791,YPR040W,TIP41,,p:?; f:?; c:cytoplasm,phosphoric monoester hydrolase,f,70,0.9,0.9999,0.9999,10,10,8,8,N
+5819,YPR045C,YPR045C,,p:?; f:?; c:?,spindle,c,12,0.2,0.21424,0.21067,2,1,1,1,N
+30528,YPR048W,TAH18,,p:?; f:?; c:?,transcription regulator,f,245,0.6,0.71057,0.85593,4,3,2,2.4048,N
+151,YPR066W,UBA3,ubiquitin-like protein activating enzyme,f:ubiquitin activating enzyme; p:ubiquitin cycle; c:?; f:RUB1 activating enzyme; p:RUB1-protein conjugation,ubiquitin ligase complex,c,21,0.4,0.052609,0.90096,4,3,1,1.9948,Y
+152,YPR066W,UBA3,ubiquitin-like protein activating enzyme,f:ubiquitin activating enzyme; p:ubiquitin cycle; c:?; f:RUB1 activating enzyme; p:RUB1-protein conjugation,nuclear ubiquitin ligase complex,c,19,0.7,0.051165,0.89105,4,3,1,1.9939,N
+3902,YPR067W,ISA2,,f:?; c:mitochondrial intermembrane space; p:iron transport,DNA-directed RNA polymerase III,f,16,0.2,0.26539,0.26539,1,1,1,1,N
+3899,YPR093C,YPR093C,,p:?; f:?; c:?,DNA-directed RNA polymerase,f,31,0.5,0.99985,0.99984,7,5,4,4.0074,N
+6350,YPR093C,YPR093C,,p:?; f:?; c:?,transcription,p,93,0.8,0.99604,0.99552,7,5,4,4.0198,Y
+6351,YPR093C,YPR093C,,p:?; f:?; c:?,"transcription, DNA-dependent",p,73,0.9,0.99711,0.99678,7,5,4,4.0148,N
+16779,YPR093C,YPR093C,,p:?; f:?; c:?,nucleotidyltransferase,f,63,0.6,0.99911,0.99903,7,5,4,4.0258,Y
+3723,YPR101W,SNT309,protein complex component associated with the splicing factor Prp19p,f:?; c:spliceosome complex; p:mRNA splicing,RNA binding,f,230,0.7,0.078988,0.9968,6,1,1,5.0001,N
+16563,YPR101W,SNT309,protein complex component associated with the splicing factor Prp19p,f:?; c:spliceosome complex; p:mRNA splicing,transcriptional activator,f,26,0.6,0.0041947,1,6,1,0,4.9991,N
+3723,YPR144C,UTP19,U3 snoRNP protein,p:?; f:?; c:nucleus,RNA binding,f,230,0.7,0.091919,0.98229,5,2,1,4,Y
+30515,YPR144C,UTP19,U3 snoRNP protein,p:?; f:?; c:nucleus,snoRNA binding,f,28,0.5,0.081711,0.9998,5,2,1,4,N
+6772,YPR174C,YPR174C,,p:?; f:?; c:?,thiamin metabolism,p,15,0.2,0.27483,0.26937,3,2,1,1.0001,Y
+9228,YPR174C,YPR174C,,p:?; f:?; c:?,thiamin biosynthesis,p,15,0.2,0.27483,0.26937,3,2,1,1.0001,N

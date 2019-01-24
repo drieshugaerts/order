@@ -1,0 +1,103 @@
+﻿V.P. Area,System ,Status,ITEA RFS #,Short Description,Date Received,Target Date,Low Estimate,High Estimate
+Business Services,Ariba,Not Started,14475,Modify shell script for supplier load.,10/31/03,9/30/04,20,40
+Business Services,Ariba,Not Started,14671,Add an auxiliary part number filter to the system,11/21/03,,16,32
+Business Services,Ariba,Not Started,14672,Fix filter by purchasing card number,11/21/03,2/27/04,40,60
+Business Services,Ariba,Not Started,14716,Order does not appear in the approver's box,12/9/03,,40,80
+Business Services,Ariba,Started,14344,bad approvables causing user problems,11/26/03,,10,120
+Business Services,Ariba,Started,14345,Fix Punchout catalogs -  Kirby Risk example,10/14/03,,80,120
+Business Services,Ariba,Started,14346,Performance Issues,10/14/03,,100,200
+Business Services,Ariba,Started,14348,Migrating suppliers to the ASN,10/14/03,,40,80
+Business Services,Ariba,Started,14350,PC charge push to G/L,10/14/03,12/31/04,20,40
+Business Services,Ariba,Started,14353,Behavior of the reserve code on the user interface,10/14/03,9/30/04,40,80
+Business Services,Ariba,Started,14673,"Make country code required on  ""new ship to""",11/21/03,1/30/04,40,60
+Business Services,Ariba,Started,14884,Ariba Purges for 12 months,1/12/04,12/12/04,48,48
+Business Services,Ariba,Started,14885,Reset the aribasystem password every 30 days for 6 months.,1/12/04,6/12/04,1,1
+Business Services,Ariba,Started,14893,Find out which search filters are indexed in Ariba,1/9/04,,40,80
+Business Services,Ariba,Started,14894,Build a mini ODS for searches needed by PFSB/Lilly,1/9/04,2/27/04,75,100
+Business Services,CAAC,Not Started,2507,CAAC - Abend on CAACT923 rpt group bud scrn 2507,9/15/03,,10,50
+Business Services,CARS,Not Started,11639,CARS - Encumb files upd problems for type W  11639,4/3/01,8/1/04,40,160
+Business Services,CARS,Not Started,14853,"CARS- Acct# for SPS on Master, not on name 14853",1/8/04,,40,100
+Business Services,CARS,Started,14863,CARS - Printing Serv problems w/ AR ‎mail‎ 14863,1/9/04,3/1/04,10,100
+Business Services,E-Commerce,Not Started,14436,Time-zone problem for IPS applications,10/27/03,,60,100
+Business Services,E-Commerce,Not Started,14449,PGP Encryption Changes at Mellon,7/30/03,,60,80
+Business Services,E-Commerce,Started,14437,Change the server address used in external procedures as requested by IT,10/27/03,,8,16
+Business Services,FMIS,Started,14127,FMIS - Purdue Foundation Rewrite (FMIS) 14127,9/16/03,,30,60
+Business Services,FMIS,Started,15005,FMIS - Add Explosion Rules for Fund 920   15005,1/6/04,1/30/04,4,20
+Business Services,PAVE,Not Started,14998,PAVE - Problem with deleting fields in sys - 14998,1/23/04,,24,40
+Business Services,PROP,Started,13908,PROP - New field  not added in equip file 13908,6/27/03,6/27/03,40,80
+Business Services,SLAC,Started,14194,SLAC - Negative Transaction Edits 14194,9/19/03,4/1/04,40,160
+Engagement,PACERS,Ready for Class Review,14952,Provide support for the Home and Family conference,1/15/04,6/7/04,1,100
+Engagement,PACERS,Ready for Class Review,14953,Provide support for the 4-H Workshops,1/15/04,6/9/04,1,100
+Engagement,PACERS,Started,14589,TRA 97 Reporting for 2003,11/7/03,1/9/04,1,100
+Engagement,PACERS,Started,14590,Indiana Wine and Grape,11/7/03,7/1/04,1,100
+Engagement,PACERS,Started,14591,Science Fair 2004‎,11/7/03,3/5/04,100,500
+Engagement,PACERS,Started,14595,Sports Camps 2004‎,11/7/03,5/30/04,100,500
+Engagement,PACERS,Started,14596,Road School 2004‎,11/7/03,3/10/04,100,500
+Engagement,PACERS,Started,14652,Compressor Conference,11/18/03,3/30/04,1,100
+Engagement,PACERS,Started,14653,Pest Technology Course,11/18/03,1/23/04,1,100
+Engagement,PACERS,Started,14755,Exciting Science at Purdue,12/22/03,3/6/04,1,100
+Engagement,PACERS,Started,14756,Mortarboard Leadership Conference,12/22/03,1/31/04,1,100
+ITaP,WAI,Not Started,13624,Need to create JCL to skip over empty files so that jobs don't abend.,9/17/03,3/31/04,10,20
+ITaP,WAI,Not Started,14838,Load Grad test scores to DSS,1/6/04,6/30/04,20,40
+ITaP,WAI,Started,14598,Annual fall and beginning of spring DSS refreshes.,11/10/03,1/31/04,25,100
+ITaP,WAI,Started,14737,Correct Report Type field in Proposal Award Table,12/16/03,2/1/04,5,20
+ITaP,WAI,Started,14878,Fix the Student Course  Table,1/9/04,2/28/04,100,150
+Physical Facilities,PPWP,Not Started,14049,PPWP - Fiscal Year 2003-04  14049,8/29/03,8/1/04,20,50
+Physical Facilities,PUST,Started,13269,PUST - Decommission Old PUST/SIRS System 13269,8/28/02,,50,100
+Student Services,Bursar,Pending,14774,Monitor Year End Calendar for 2004 (14774),12/24/03,,10,25
+Student Services,Bursar,Pending,14778,Monitor annual TRA process (14778),12/24/03,,20,75
+Student Services,Bursar,Pending,14779,Fall Fee Modifications and Testing (14779),12/24/03,,40,120
+Student Services,Bursar,Pending,14780,Summer Fee Modifications and Testing (14780),12/24/03,,40,70
+Student Services,Bursar,Pending,14782,Study Abroad Summer Testing (14782),12/24/03,,20,40
+Student Services,Bursar,Pending,14785,Implement new housing rates (14785),12/24/03,,5,10
+Student Services,Bursar,Started,14775,Usage of the 4 line address routine (14775),12/24/03,3/1/04,50,100
+Student Services,DFA,Pending,14797,2003-2004 Purge (14797),12/30/03,,10,100
+Student Services,DFA,Pending,14803,SSACI Notification (14803),12/30/03,6/30/04,10,100
+Student Services,DFA,Pending,14804,Summer TOS Pell Reporting (14804),12/30/03,7/30/04,250,350
+Student Services,DFA,Pending,14805,ICHE Reporting (14805),12/30/03,9/30/04,50,100
+Student Services,DFA,Pending,14806,Fall TOS's  (14806),12/31/03,12/15/04,150,250
+Student Services,DFA,Pending,14807,ISIR for New Year (14807),12/31/03,1/7/05,10,25
+Student Services,DFA,Pending,14808,"CVO Payment, Update, Billing (14808)",12/31/03,,25,50
+Student Services,DFA,Pending,14811,Mass Pass Fall/Spring (14811),12/31/03,,10,25
+Student Services,DFA,Pending,14813,Mass Auth Fall (14813),12/31/03,,10,25
+Student Services,DFA,Pending,14814,Mass Auth Spring (14814),12/31/03,,5,25
+Student Services,DFA,Pending,14815,Spring Loan Start Up (14815),12/31/03,,20,30
+Student Services,DFA,Ready for Class Review,14810,Mass Pass Summer (14810),12/31/03,3/29/04,10,25
+Student Services,DFA,Ready for Class Review,14812,Mass Auth Summer (14812),12/31/03,4/19/04,10,25
+Student Services,DFA,Started,14490,Correct FAM print value for Pell grants as needed,10/31/03,4/1/04,100,500
+Student Services,DFA,Started,14491,ICHE Problem - Calumet FA data (14491),10/31/03,2/15/03,1,100
+Student Services,DFA,Started,14645,Fix bug in CDVU program (14645),11/17/03,2/1/04,50,75
+Student Services,DFA,Started,14795,Fed Regs 2004 (14795),12/30/03,3/1/04,250,500
+Student Services,DFA,Started,14796,INAS for New Year (14796),12/30/03,3/31/04,10,50
+Student Services,DFA,Started,14798,PARS Changes/Simulations (14798),12/30/03,3/31/04,10,100
+Student Services,DFA,Started,14799,ANL/MIL (14799),12/30/03,3/31/04,10,100
+Student Services,DFA,Started,14800,Summer Mod Loans (14800),12/30/03,3/31/04,10,40
+Student Services,DFA,Started,14801,Summer Mod Auth (14801),12/30/03,3/31/04,10,40
+Student Services,DFA,Started,14802,SSACI Application (14802),12/30/03,3/31/04,10,100
+Student Services,DFA,Started,14809,Summer/Fall Loan Disb Date (14809),12/31/03,3/30/04,10,25
+Student Services,REGI,Pending,14791,Grade Support - Spring & Summer (14791),12/30/03,,10,25
+Student Services,REGI,Pending,14792,Grade Support - Fall (14792),12/30/03,,10,25
+Student Services,REGI,Pending,14794,Load Support Summer and Fall (14794),12/30/03,,10,50
+Student Services,REGI,Started,14585,Modify Regional Audit program RERCSPLT,11/7/03,2/15/04,1,100
+Student Services,REGI,Started,14793,Load Support Spring (14793),12/30/03,1/30/04,10,25
+Student Services,SIAD,Pending,14769,Annual Sorority Rush Support (14769),12/24/03,12/1/04,10,30
+Student Services,SIAD,Pending,14770,Day on Campus Annual Support (14770),12/24/03,,50,100
+Student Services,SIAD,Pending,14771,Annual VMCAS Modifications (14771),12/24/03,,10,100
+Student Services,SIAD,Pending,14772,Annual PFAE Modifications (14772),12/24/03,,50,150
+University Development,,Not Started,104,Redevelop manage cache process (Analysis to be completed in January),,,,
+University Development,Advance C/S,Acceptance Testing,125,Load Miscellaneous data from Alumni Finder,3/3/03,,1,1
+University Development,Advance C/S,Awaiting Implementation,231,Adance C/S - Orbital batch detail getting user name stamp on update. Should be Telefund stamp for Orbital report.,9/2/03,,1,1
+University Development,Advance C/S,Pending,7,Purge old unix log files,11/26/02,,1,1
+University Development,Advance C/S,Pending,99,Resolve PVCS/Powerbuilder issue,,,,
+University Development,Advance C/S,Pending,107,Oracle upgrade to version 9i,,,,
+University Development,Advance C/S,Pending,196,Reset the PCC number in the Orbital ID generator to start again at PCC0000001.,6/17/03,,1,1
+University Development,ITEA Internal Applications,Pending,103,Supplemental account refresh,,,1,1
+University Development,ITEA Internal Applications,Pending,105,Error checking in Unix shell scripts,,,1,1
+University Development,ODS,Pending,72,Balance UDODSDEV,1/15/03,,,
+University Development,ODS,Started,236,Process ODS Refresh on Records with Multiple Maiden Name and Nickname Errors,9/16/03,,101,101
+University Development,SmartCall,Started,189,Adjustment to Telefund Reminder Process,6/9/03,,1,1
+University Residences,FSMIS-Food Service,Started,10659,FSMIS - CBORD - Remove FSMIS 10659,1/1/00,7/1/04,50,600
+University Residences,RHAC,Not Started,14868,RHAC - User Friendly mod - add entry 14868,1/9/04,7/1/04,10,100
+University Residences,RHAC,Pending,6020,RHAC - Eliminate CDE for Budget Projects 6020,4/22/97,9/30/04,1,5
+University Residences,RHCA,Started,12873,RHCA - Review CICS files to  eliminated 12873,3/28/02,7/1/04,10,15
+University Residences,RHCA,Started,14865,RHCA - Better tailor Activity Rpt for needs 14865,1/9/04,2/15/04,10,100

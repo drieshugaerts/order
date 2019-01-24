@@ -1,0 +1,620 @@
+﻿Id,WBS,WBS_Title,Responsible_LabCode,WBS_Short,SubProject_Code,Parent,GrandParent
+144,1,Spallation Neutron Source Project,OR,1,SN,,
+145,1.01,Research and Development,OR,1.1,SN,,
+146,1.01.01,Front End R and D,LB,1.1.1,FE,,1.01
+147,1.01.01.01,Ion Source Development,LB,1.1.1.1,FE,1.01.01,1.01
+148,1.01.01.02,Beam Dynamics Transport,LB,1.1.1.2,FE,1.01.01,1.01
+149,1.01.01.03,Chopper Development,LB,1.1.1.3,FE,1.01.01,1.01
+150,1.01.01.04,RF Quadrupole Development,LB,1.1.1.4,FE,1.01.01,1.01
+151,1.01.01.05,Integrated testing,LB,1.1.1.5,FE,1.01.01,1.01
+152,1.01.02,Linac R&D,LA,1.1.2,LI,,1.01
+153,1.01.02.01,Accelerator Physics,LA,1.1.2.1,LI,1.01.02,1.01
+154,1.01.02.02,R&D Accelerator Engineering,LA,1.1.2.2,LI,1.01.02,1.01
+155,1.01.02.04,Diagnostics,LA,1.1.2.4,LI,1.01.02,1.01
+156,1.01.02.05,Beam Diagnostics,LA,1.1.2.5,LI,1.01.02,1.01
+157,1.01.02.06,RF Systems,LA,1.1.2.6,LI,1.01.02,1.01
+158,1.01.02.07,R&D RF Amplifier,LA,1.1.2.7,LI,1.01.02,1.01
+159,1.01.02.08,R&D MEBT Chopper,LA,1.1.2.8,LI,1.01.02,1.01
+160,1.01.02.09,Management & Operations,LA,1.1.2.9,LI,1.01.02,1.01
+161,1.01.03,Ring Systems Development,BN,1.1.3,RI,,1.01
+162,1.01.03.01,Lattice & Accelerator Physics,BN,1.1.3.1,RI,1.01.03,1.01
+163,1.01.03.02,Injection & Extraction,BN,1.1.3.2,RI,1.01.03,1.01
+164,1.01.03.03,RF & Diagnostics,BN,1.1.3.3,RI,1.01.03,1.01
+165,1.01.03.04,Beam Collimation,BN,1.1.3.4,RI,1.01.03,1.01
+166,1.01.03.05,Beam Scraping and Collimation,BN,1.1.3.5,RI,1.01.03,1.01
+167,1.01.03.06,Injection and Extraction Kicker Devel,BN,1.1.3.6,RI,1.01.03,1.01
+168,1.01.03.07,Ring RF Systems Development,BN,1.1.3.7,RI,1.01.03,1.01
+169,1.01.03.08,Beam Diagnostics System,BN,1.1.3.8,RI,1.01.03,1.01
+170,1.01.03.09,Extraction Septum Magnet Development,BN,1.1.3.9,RI,1.01.03,1.01
+171,1.01.03.10,Component Impedance Study,BN,1.1.3.10,RI,1.01.03,1.01
+172,1.01.03.11,Study of Coherent Instabilities,BN,1.1.3.11,RI,1.01.03,1.01
+173,1.01.03.12,Controls research and Development,BN,1.1.3.12,RI,1.01.03,1.01
+174,1.01.04,Neutron Source Systems Development,OR,1.1.4,TG,,1.01
+175,1.01.04.01,Nuclear Data,OR,1.1.4.1,TG,1.01.04,1.01
+176,1.01.04.02,Method Integration,OR,1.1.4.2,TG,1.01.04,1.01
+177,1.01.04.03,Basic Physics Models,OR,1.1.4.3,TG,1.01.04,1.01
+178,1.01.04.04,Technical Support,OR,1.1.4.4,TG,1.01.04,1.01
+179,1.01.05,Target Systems Development,OR,1.1.5,TG,,1.01
+180,1.01.05.01,Thermal-Hydraulics Tests and Analysis,OR,1.1.5.1,TG,1.01.05,1.01
+181,1.01.05.02,Thermal-shock Tests and Analysis,OR,1.1.5.2,TG,1.01.05,1.01
+182,1.01.05.03,Erosion/Corrosion Tests and Analysis,OR,1.1.5.3,TG,1.01.05,1.01
+183,1.01.05.04,Instrument and Controls R&D,OR,1.1.5.4,TG,1.01.05,1.01
+184,1.01.05.05,Technical Support,OR,1.1.5.5,TG,1.01.05,1.01
+703,1.01.05.06,Solid Target Development,OR,1.1.5.6,TG,1.01.05,1.01
+185,1.01.06,Materials Qualification,OR,1.1.6,TG,,1.01
+186,1.01.06.01,Radiation Effects,OR,1.1.6.1,TG,1.01.06,1.01
+187,1.01.06.02,Material Compatibility,OR,1.1.6.2,TG,1.01.06,1.01
+188,1.01.06.03,In-service Surveillance Program,OR,1.1.6.3,TG,1.01.06,1.01
+189,1.01.06.04,Technical Support,OR,1.1.6.4,TG,1.01.06,1.01
+190,1.01.07,Cold Moderator Systems Development,OR,1.1.7,TG,,1.01
+191,1.01.07.01,Analytical Modeling,OR,1.1.7.1,TG,1.01.07,1.01
+192,1.01.07.02,Material Evaluation,OR,1.1.7.2,TG,1.01.07,1.01
+193,1.01.07.03,I&C System Development,OR,1.1.7.3,TG,1.01.07,1.01
+194,1.01.07.04,Alternative Concepts,OR,1.1.7.4,TG,1.01.07,1.01
+195,1.01.07.05,Design Support,OR,1.1.7.5,TG,1.01.07,1.01
+196,1.01.08,"Beam Tube, Guide, and Instrument R&D",AN,1.1.8,IS,,1.01
+197,1.01.08.01,Management,AN,1.1.8.1,IS,1.01.08,1.01
+198,1.01.08.02,Instrument Specifications,AN,1.1.8.2,IS,1.01.08,1.01
+199,1.01.08.03,Design Tools,AN,1.1.8.3,IS,1.01.08,1.01
+200,1.01.08.04,Instrument Selection,AN,1.1.8.4,IS,1.01.08,1.01
+201,1.01.08.05,Data Acquisition,AN,1.1.8.5,IS,1.01.08,1.01
+202,1.01.08.06,Detectors,AN,1.1.8.6,IS,1.01.08,1.01
+203,1.01.08.07,Choppers,AN,1.1.8.7,IS,1.01.08,1.01
+204,1.01.08.08,Sample Environment,AN,1.1.8.8,IS,1.01.08,1.01
+205,1.01.08.09,Optical Components,AN,1.1.8.9,IS,1.01.08,1.01
+206,1.01.08.10,Data Analysis,AN,1.1.8.10,IS,1.01.08,1.01
+207,1.01.09,Global Controls R&D,LA,1.1.9,CO,,1.01
+208,1.01.09.01,Support System Implementation,LA,1.1.9.1,CO,1.01.09,1.01
+209,1.01.09.02,Standards & Tools,LA,1.1.9.2,CO,1.01.09,1.01
+210,1.01.09.03,System Requirements,LA,1.1.9.3,CO,1.01.09,1.01
+211,1.01.09.04,Integration & Support,LA,1.1.9.4,CO,1.01.09,1.01
+212,1.01.10,Robotics and Remote Handling Development,OR,1.1.10,TG,,1.01
+213,1.01.10.01,End Effector Tools Development,OR,1.1.10.1,TG,1.01.10,1.01
+214,1.01.10.02,Mock-up Facility,OR,1.1.10.2,TG,1.01.10,1.01
+728,1.01.11,Superconducting Linac R&D,JL,1.1.11,LI,,1.01
+790,1.01.11.01,Medium Beta Cryomodule R&D,JL,1.1.11.1,LI,1.01.11,1.01
+791,1.01.11.02,High Beta Cryomodule R&D,JL,1.1.11.2,LI,1.01.11,1.01
+837,1.01.11.03,RF Skid R&D,JL,1.1.11.3,LI,1.01.11,1.01
+838,1.01.11.04,HOM Coupler Development,JL,1.1.11.4,LI,1.01.11,1.01
+839,1.01.11.05,Misc. Materials for R&D Effort,JL,1.1.11.5,LI,1.01.11,1.01
+840,1.01.11.06,Input Coupler Development R&D,JL,1.1.11.6,LI,1.01.11,1.01
+720,1.01.12,ASD Direct R&D,OR,1.1.12,OP,,1.01
+721,1.01.12.01,PSR Instability R&D,OR,1.1.12.1,OP,1.01.12,1.01
+963,1.01.12.02,Electropolishing Machine,OR,1.1.12.2,OP,1.01.12,1.01
+215,1.02,Project Support,OR,1.2,PS,,
+216,1.02.01,Project Administration,OR,1.2.1,PS,,1.02
+217,1.02.01.01,Project Administration,OR,1.2.1.1,PS,1.02.01,1.02
+218,1.02.01.02,Project Controls,OR,1.2.1.2,PS,1.02.01,1.02
+219,1.02.01.03,Information Management,OR,1.2.1.3,PS,1.02.01,1.02
+220,1.02.02,Design Integration & Systems Engineering,OR,1.2.2,PS,,1.02
+221,1.02.02.01,Design Engineering & Systems Engineering,OR,1.2.2.1,PS,1.02.02,1.02
+706,1.02.02.02,Document Control Center and Records Management,OR,1.2.2.2,PS,1.02.02,1.02
+841,1.02.02.03,Electronic File Management,OR,1.2.2.3,PS,1.02.02,1.02
+222,1.02.03,Environmental Safety & Health,OR,1.2.3,PS,,1.02
+223,1.02.03.01,Safety Evaluation & Documentation,OR,1.2.3.1,PS,1.02.03,1.02
+224,1.02.03.02,Plans & Permits,OR,1.2.3.2,PS,1.02.03,1.02
+225,1.02.04,Quality Assurance,OR,1.2.4,PS,,1.02
+226,1.02.04.01,Quality Assurance,OR,1.2.4.1,PS,1.02.04,1.02
+227,1.03,Front End Facilities,LB,1.3,FE,,
+228,1.03.01,Ion Source and LEBT,LB,1.3.1,FE,,1.03
+229,1.03.01.01,Mechanical Systems,LB,1.3.1.1,FE,1.03.01,1.03
+230,1.03.01.02,Electronic Systems,LB,1.3.1.2,FE,1.03.01,1.03
+231,1.03.01.03,Systems Integration,LB,1.3.1.3,FE,1.03.01,1.03
+232,1.03.02,RFQ,LB,1.3.2,FE,,1.03
+233,1.03.02.01,Mechanical Systems,LB,1.3.2.1,FE,1.03.02,1.03
+234,1.03.02.02,Electronic Systems,LB,1.3.2.2,FE,1.03.02,1.03
+235,1.03.02.03,Systems Integration,LB,1.3.2.3,FE,1.03.02,1.03
+236,1.03.03,MEBT,LB,1.3.3,FE,,1.03
+237,1.03.03.01,Mechanical Systems,LB,1.3.3.1,FE,1.03.03,1.03
+238,1.03.03.02,Electronic Systems,LB,1.3.3.2,FE,1.03.03,1.03
+239,1.03.03.03,Systems Integration,LB,1.3.3.3,FE,1.03.03,1.03
+240,1.03.04,Technical Support,LB,1.3.4,FE,,1.03
+241,1.03.04.01,Management,LB,1.3.4.1,FE,1.03.04,1.03
+242,1.03.04.02,Engineering,LB,1.3.4.2,FE,1.03.04,1.03
+243,1.03.04.03,Physics,LB,1.3.4.3,FE,1.03.04,1.03
+244,1.03.04.04,Administrative,LB,1.3.4.4,FE,1.03.04,1.03
+245,1.03.04.05,Travel and S&E Support,LB,1.3.4.5,FE,1.03.04,1.03
+702,1.03.05,ORNL Field Coordination,OR,1.3.5,FE,,1.03
+959,1.03.05.01,ORNL Field Coordination,OR,1.3.5.1,FE,1.03.05,1.03
+246,1.04,Linac Systems,LA,1.4,LI,,
+247,1.04.01,RF Power Systems,LA,1.4.1,LI,,1.04
+248,1.04.01.01,RF Power Systems,LA,1.4.1.1,LI,1.04.01,1.04
+249,1.04.01.02,High Voltage Power Conditioning,LA,1.4.1.2,LI,1.04.01,1.04
+250,1.04.01.03,RF Controls,LA,1.4.1.3,LI,1.04.01,1.04
+251,1.04.01.04,System Design & Interface,LA,1.4.1.4,LI,1.04.01,1.04
+252,1.04.01.05,Bunch Rotator RF Power,LA,1.4.1.5,LI,1.04.01,1.04
+253,1.04.02,DTL Systems,LA,1.4.2,LI,,1.04
+254,1.04.02.01,DTL Subsystem Integration,LA,1.4.2.1,LI,1.04.02,1.04
+255,1.04.02.02,DTL RF Structure,LA,1.4.2.2,LI,1.04.02,1.04
+256,1.04.02.03,DTL Drift Tube Assemblies,LA,1.4.2.3,LI,1.04.02,1.04
+257,1.04.02.04,DTL Vacuum System,LA,1.4.2.4,LI,1.04.02,1.04
+258,1.04.02.05,DTL Water System,LA,1.4.2.5,LI,1.04.02,1.04
+259,1.04.02.06,DTL Mechanical Support & Alignment,LA,1.4.2.6,LI,1.04.02,1.04
+722,1.04.02.07,DTL System Assembly,LA,1.4.2.7,LI,1.04.02,1.04
+723,1.04.02.08,DTL Installation,LA,1.4.2.8,LI,1.04.02,1.04
+260,1.04.03,CCDTL Systems,LA,1.4.3,LI,,1.04
+261,1.04.03.01,CCDTL Systems Integration,LA,1.4.3.1,LI,1.04.03,1.04
+262,1.04.03.02,CCDTL Linac Structure,LA,1.4.3.2,LI,1.04.03,1.04
+263,1.04.03.03,CCDTL Magnet System,LA,1.4.3.3,LI,1.04.03,1.04
+264,1.04.03.04,CCDTL Vacuum System,LA,1.4.3.4,LI,1.04.03,1.04
+265,1.04.03.05,CCDTL Water System,LA,1.4.3.5,LI,1.04.03,1.04
+266,1.04.03.06,CCDTL Mech. Support & Alignment System,LA,1.4.3.6,LI,1.04.03,1.04
+267,1.04.04,CCL Systems,LA,1.4.4,LI,,1.04
+268,1.04.04.01,CCL Subsystem Integration,LA,1.4.4.1,LI,1.04.04,1.04
+269,1.04.04.02,CCL Linac Structure,LA,1.4.4.2,LI,1.04.04,1.04
+270,1.04.04.03,CCL Magnet System,LA,1.4.4.3,LI,1.04.04,1.04
+271,1.04.04.04,CCL Vacuum System,LA,1.4.4.4,LI,1.04.04,1.04
+272,1.04.04.05,CCL Water System,LA,1.4.4.5,LI,1.04.04,1.04
+273,1.04.04.06,CCL Mechanical Support & Alignment,LA,1.4.4.6,LI,1.04.04,1.04
+274,1.04.04.07,CCL System Assembly,LA,1.4.4.7,LI,1.04.04,1.04
+724,1.04.04.08,CCL Installation,LA,1.4.4.8,LI,1.04.04,1.04
+725,1.04.04.09,HEBT System,LA,1.4.4.9,LI,1.04.04,1.04
+275,1.04.05,"Physics, Diagnostics & Commissioning",LA,1.4.5,LI,,1.04
+276,1.04.05.01,Chopper Systems,LA,1.4.5.1,LI,1.04.05,1.04
+277,1.04.05.02,Diagnostics,LA,1.4.5.2,LI,1.04.05,1.04
+278,1.04.05.03,Physics Support,LA,1.4.5.3,LI,1.04.05,1.04
+726,1.04.05.04,Commissioning,LA,1.4.5.4,LI,1.04.05,1.04
+279,1.04.06,Technical Support,LA,1.4.6,LI,,1.04
+280,1.04.06.01,Project Management,LA,1.4.6.1,LI,1.04.06,1.04
+281,1.04.06.02,Project Office,LA,1.4.6.2,LI,1.04.06,1.04
+282,1.04.06.03,Physics Support,LA,1.4.6.3,LI,1.04.06,1.04
+283,1.04.06.04,System Engineering,LA,1.4.6.4,LI,1.04.06,1.04
+284,1.04.06.05,QA/QC Support,LA,1.4.6.5,LI,1.04.06,1.04
+285,1.04.06.06,Physics/Engineering Management,LA,1.4.6.6,LI,1.04.06,1.04
+727,1.04.06.07,SNS Division Management,LA,1.4.6.7,LI,1.04.06,1.04
+688,1.04.06.09,Replanning Effort,LA,1.4.6.9,LI,1.04.06,1.04
+701,1.04.07,ORNL Field Coordination,OR,1.4.7,LI,,1.04
+960,1.04.07.00,ORNL Field Coordination,OR,1.4.7.0,LI,1.04.07,1.04
+835,1.04.07.01,Niobium Purchase,OR,1.4.7.1,LI,1.04.07,1.04
+842,1.04.07.02,Accelerator Design Confirmation Studies,OR,1.4.7.2,LI,1.04.07,1.04
+843,1.04.07.03,Accelerator Design Confirmation Studies,JL,1.4.7.3,LI,1.04.07,1.04
+729,1.04.08,Project Services,JL,1.4.8,LI,,1.04
+730,1.04.08.01,Project Management,JL,1.4.8.1,LI,1.04.08,1.04
+731,1.04.08.02,Project Controls/Business/Office Support,JL,1.4.8.2,LI,1.04.08,1.04
+732,1.04.08.03,System Engineering,JL,1.4.8.3,LI,1.04.08,1.04
+733,1.04.08.04,ES&H & QA/QC Support,JL,1.4.8.4,LI,1.04.08,1.04
+734,1.04.08.05,Physics & Engineering Management,JL,1.4.8.5,LI,1.04.08,1.04
+793,1.04.09,Quadrupole Magnet System,LA,1.4.9,LI,,1.04
+797,1.04.09.02,Magnet Hardware,LA,1.4.9.2,LI,1.04.09,1.04
+796,1.04.09.03,Quadrupole Magnet Systems,LA,1.4.9.3,LI,1.04.09,1.04
+743,1.04.10,Medium Beta Cryomodule,JL,1.4.10,LI,,1.04
+744,1.04.10.01,Cavity String Assembly Procurements,JL,1.4.10.1,LI,1.04.10,1.04
+745,1.04.10.02,Space Frame Assembly Procurements,JL,1.4.10.2,LI,1.04.10,1.04
+746,1.04.10.03,Cryomodule Assembly Procurements,JL,1.4.10.3,LI,1.04.10,1.04
+747,1.04.10.04,Cavity/Cryomodule Assembly Labor,JL,1.4.10.4,LI,1.04.10,1.04
+748,1.04.10.05,Cavity Test,JL,1.4.10.5,LI,1.04.10,1.04
+749,1.04.10.06,Cryomodule Installation,JL,1.4.10.6,LI,1.04.10,1.04
+750,1.04.10.07,Electrical,JL,1.4.10.7,LI,1.04.10,1.04
+751,1.04.11,High Beta Cryomodule,JL,1.4.11,LI,,1.04
+759,1.04.11.01,Cavity String Assembly Procurements,JL,1.4.11.1,LI,1.04.11,1.04
+760,1.04.11.02,Space Frame Assembly Procurements,JL,1.4.11.2,LI,1.04.11,1.04
+761,1.04.11.03,Cryomodule Assembly Procurements,JL,1.4.11.3,LI,1.04.11,1.04
+762,1.04.11.04,Cavity/Cryomodule Assembly Labor,JL,1.4.11.4,LI,1.04.11,1.04
+763,1.04.11.05,Cavity Test,JL,1.4.11.5,LI,1.04.11,1.04
+764,1.04.11.06,Cryomodule Installation,JL,1.4.11.6,LI,1.04.11,1.04
+765,1.04.11.07,Electrical,JL,1.4.11.7,LI,1.04.11,1.04
+766,1.04.12,Cryogenics System,JL,1.4.12,LI,,1.04
+767,1.04.12.01,"CHL Labor, Design, Checkout, Commissioning",JL,1.4.12.1,LI,1.04.12,1.04
+768,1.04.12.02,Refrigeration System,JL,1.4.12.2,LI,1.04.12,1.04
+769,1.04.12.03,"Controls, Refrigerator & Cryomodule",JL,1.4.12.3,LI,1.04.12,1.04
+770,1.04.12.04,Ancillary Equipment,JL,1.4.12.4,LI,1.04.12,1.04
+771,1.04.12.05,"Transfer Lines, Linac/Distribution",JL,1.4.12.5,LI,1.04.12,1.04
+772,1.04.13,Five CM Production/Repair Assembly Facility,JL,1.4.13,LI,,1.04
+773,1.04.13.01,ORNL 1500W Refrigerator (Move),JL,1.4.13.1,LI,1.04.13,1.04
+774,1.04.13.02,Transfer Lines,JL,1.4.13.2,LI,1.04.13,1.04
+775,1.04.13.03,Vertical Dewars,JL,1.4.13.3,LI,1.04.13,1.04
+776,1.04.13.04,RF Systems/Equipment,JL,1.4.13.4,LI,1.04.13,1.04
+777,1.04.13.05,Chemistry,JL,1.4.13.5,LI,1.04.13,1.04
+778,1.04.13.06,DI Water,JL,1.4.13.6,LI,1.04.13,1.04
+779,1.04.13.07,Waste Water Neutralization,JL,1.4.13.7,LI,1.04.13,1.04
+780,1.04.13.08,Tooling,JL,1.4.13.8,LI,1.04.13,1.04
+781,1.04.13.09,"Shielding, Vertical Test Area",JL,1.4.13.9,LI,1.04.13,1.04
+782,1.04.13.10,EDIA,JL,1.4.13.10,LI,1.04.13,1.04
+783,1.04.13.11,SRF Building,JL,1.4.13.11,LI,1.04.13,1.04
+735,1.04.14,Warm Beam Pipe Vacuum,JL,1.4.14,LI,,1.04
+736,1.04.14.01,Manifolds/Pumpdrops,JL,1.4.14.1,LI,1.04.14,1.04
+737,1.04.14.02,Valves,JL,1.4.14.2,LI,1.04.14,1.04
+738,1.04.14.03,Ion Pumps w/o Power Supply,JL,1.4.14.3,LI,1.04.14,1.04
+739,1.04.14.04,Vacuum Fittings,JL,1.4.14.4,LI,1.04.14,1.04
+740,1.04.14.05,Roughing Pump Cart,JL,1.4.14.5,LI,1.04.14,1.04
+741,1.04.14.06,Vacuum System Installation,JL,1.4.14.6,LI,1.04.14,1.04
+742,1.04.14.07,Beamline Assembly Components,JL,1.4.14.7,LI,1.04.14,1.04
+289,1.05,Ring and Transfer System,BN,1.5,RI,,
+290,1.05.01,HEBT Sytems,BN,1.5.1,RI,,1.05
+291,1.05.01.01,HEBT Magnets and Support,BN,1.5.1.1,RI,1.05.01,1.05
+292,1.05.01.02,HEBT High Power - Power Supplies,BN,1.5.1.2,RI,1.05.01,1.05
+293,1.05.01.03,HEBT Vacuum System,BN,1.5.1.3,RI,1.05.01,1.05
+294,1.05.01.04,HEBT Instrumentation,BN,1.5.1.4,RI,1.05.01,1.05
+295,1.05.01.05,"HEBT Scraper, Collimator, Shielding",BN,1.5.1.5,RI,1.05.01,1.05
+296,1.05.01.06,HEBT Debuncher and Compressor  RF Sys,BN,1.5.1.6,RI,1.05.01,1.05
+297,1.05.02,Injection Systems,BN,1.5.2,RI,,1.05
+298,1.05.02.01,Pulsed Magnets,BN,1.5.2.1,RI,1.05.02,1.05
+299,1.05.02.02,Injection Kicker Power Supply,BN,1.5.2.2,RI,1.05.02,1.05
+300,1.05.02.03,D.C. Magnets,BN,1.5.2.3,RI,1.05.02,1.05
+301,1.05.02.04,Injection DC Power Supplies,BN,1.5.2.4,RI,1.05.02,1.05
+302,1.05.02.05,Stripped Foil,BN,1.5.2.5,RI,1.05.02,1.05
+303,1.05.03,Magnet Systems,BN,1.5.3,RI,,1.05
+304,1.05.03.01,High Field Magnets,BN,1.5.3.1,RI,1.05.03,1.05
+305,1.05.03.02,Low Field Magnets,BN,1.5.3.2,RI,1.05.03,1.05
+306,1.05.03.03,Magnet Transport Trailor,BN,1.5.3.3,RI,1.05.03,1.05
+307,1.05.03.04,Magnet Measurements,BN,1.5.3.4,RI,1.05.03,1.05
+308,1.05.04,Power Supply System,BN,1.5.4,RI,,1.05
+309,1.05.04.01,High Power PS System,BN,1.5.4.1,RI,1.05.04,1.05
+310,1.05.04.02,"Main Ring 600, 1200, 1500 Watt Power Supplies",BN,1.5.4.2,RI,1.05.04,1.05
+311,1.05.05,Ring Vacuum System,BN,1.5.5,RI,,1.05
+312,1.05.05.01,Ring Vacuum Chambers,BN,1.5.5.1,RI,1.05.05,1.05
+313,1.05.05.02,Ring Vacuum Pumps,BN,1.5.5.2,RI,1.05.05,1.05
+314,1.05.05.03,Ring Gate Valves,BN,1.5.5.3,RI,1.05.05,1.05
+315,1.05.05.04,Ring Vacuum Instrumentation,BN,1.5.5.4,RI,1.05.05,1.05
+316,1.05.05.05,Vacuum Facility and Support,BN,1.5.5.5,RI,1.05.05,1.05
+318,1.05.06,RF System,BN,1.5.6,RI,,1.05
+319,1.05.06.01,High Level RF System,BN,1.5.6.1,RI,1.05.06,1.05
+320,1.05.06.02,Low Level RF System,BN,1.5.6.2,RI,1.05.06,1.05
+321,1.05.07,Ring System Diagnostic Instrumentation,BN,1.5.7,RI,,1.05
+322,1.05.07.01,Ring Beam Position Monitor System,BN,1.5.7.1,RI,1.05.07,1.05
+323,1.05.07.02,Ring Profile Monitors,BN,1.5.7.2,RI,1.05.07,1.05
+324,1.05.07.03,Beam Loss Monitors,BN,1.5.7.3,RI,1.05.07,1.05
+325,1.05.07.04,Ring Beam Current Monitors (BCM),BN,1.5.7.4,RI,1.05.07,1.05
+326,1.05.07.05,Ring Tune Monitor,BN,1.5.7.5,RI,1.05.07,1.05
+327,1.05.07.06,Bunch Signal Acquisition System,BN,1.5.7.6,RI,1.05.07,1.05
+663,1.05.07.07,Ring Beam-in-Gap Monitor/Cleaner,BN,1.5.7.7,RI,1.05.07,1.05
+328,1.05.08,Collimation and Shielding,BN,1.5.8,RI,,1.05
+329,1.05.08.01,Ring Collimator and Shielding,BN,1.5.8.1,RI,1.05.08,1.05
+330,1.05.08.02,Movable Shielding,BN,1.5.8.2,RI,1.05.08,1.05
+331,1.05.08.03,Monitor Instrumentation,BN,1.5.8.3,RI,1.05.08,1.05
+332,1.05.09,Extraction System,BN,1.5.9,RI,,1.05
+333,1.05.09.01,Ring Extraction Pulsed Dipole Magnets,BN,1.5.9.1,RI,1.05.09,1.05
+334,1.05.09.02,Extraction Kicker Power Supply,BN,1.5.9.2,RI,1.05.09,1.05
+335,1.05.09.03,Lambertson Septum Magnet,BN,1.5.9.3,RI,1.05.09,1.05
+336,1.05.09.04,Extraction Lambertson Power Supply,BN,1.5.9.4,RI,1.05.09,1.05
+337,1.05.10,RTBT System,BN,1.5.10,RI,,1.05
+338,1.05.10.01,RTBT Magnet and Support,BN,1.5.10.1,RI,1.05.10,1.05
+339,1.05.10.02,RTBT High Power - Power Supplies,BN,1.5.10.2,RI,1.05.10,1.05
+340,1.05.10.03,RTBT Vacuum System,BN,1.5.10.3,RI,1.05.10,1.05
+341,1.05.10.04,RTBT Instrumention,BN,1.5.10.4,RI,1.05.10,1.05
+342,1.05.10.05,RTBT Collimator and Shielding,BN,1.5.10.5,RI,1.05.10,1.05
+343,1.05.11,Cabling,BN,1.5.11,RI,,1.05
+344,1.05.11.01,High Power Cable,BN,1.5.11.1,RI,1.05.11,1.05
+664,1.05.11.02,Low Power Control Cable,BN,1.5.11.2,RI,1.05.11,1.05
+345,1.05.11.03,Signal Cable,BN,1.5.11.3,RI,1.05.11,1.05
+665,1.05.11.04,Tray,BN,1.5.11.4,RI,1.05.11,1.05
+346,1.05.12,Technical Support,BN,1.5.12,RI,,1.05
+347,1.05.12.01,Project Management,BN,1.5.12.1,RI,1.05.12,1.05
+348,1.05.12.02,Accelerator Physics,BN,1.5.12.2,RI,1.05.12,1.05
+349,1.05.12.03,Application Software Support,BN,1.5.12.3,RI,1.05.12,1.05
+350,1.05.12.04,Survey & Alignment,BN,1.5.12.4,RI,1.05.12,1.05
+836,1.05.12.05,Collimation Geometry Optimization,BN,1.5.12.5,RI,1.05.12,1.05
+700,1.05.13,ORNL Field Coordination,OR,1.5.13,RI,,1.05
+716,1.05.13.01,ORNL Field Coordination,OR,1.5.13.1,RI,1.05.13,1.05
+717,1.05.13.02,Spares,OR,1.5.13.2,RI,1.05.13,1.05
+352,1.06,Target Systems,OR,1.6,TG,,
+353,1.06.01,Target Assemblies,OR,1.6.1,TG,,1.06
+354,1.06.01.01,Target Module,OR,1.6.1.1,TG,1.06.01,1.06
+355,1.06.01.02,Target Process System,OR,1.6.1.2,TG,1.06.01,1.06
+356,1.06.01.03,Target Transport System,OR,1.6.1.3,TG,1.06.01,1.06
+357,1.06.01.04,Assembly and Testing,OR,1.6.1.4,TG,1.06.01,1.06
+358,1.06.02,Moderator Systems,OR,1.6.2,TG,,1.06
+961,1.06.02.00,Moderator Systems,OR,1.6.2.0,TG,1.06.02,1.06
+359,1.06.02.01,Ambient Moderator Systems,OR,1.6.2.1,TG,1.06.02,1.06
+360,1.06.02.02,Cryogenic Moderator Systems,OR,1.6.2.2,TG,1.06.02,1.06
+361,1.06.02.03,Assembly and Testing,OR,1.6.2.3,TG,1.06.02,1.06
+362,1.06.03,Reflector Assemblies,OR,1.6.3,TG,,1.06
+363,1.06.03.01,Plug Assembly,OR,1.6.3.1,TG,1.06.03,1.06
+364,1.06.03.02,Assembly and Testing,OR,1.6.3.2,TG,1.06.03,1.06
+365,1.06.04,Vessel Systems,OR,1.6.4,TG,,1.06
+366,1.06.04.01,Core Vessel,OR,1.6.4.1,TG,1.06.04,1.06
+367,1.06.04.02,Proton Beam Window Assembly,OR,1.6.4.2,TG,1.06.04,1.06
+368,1.06.04.03,Upper Vessel assembly,OR,1.6.4.3,TG,1.06.04,1.06
+369,1.06.04.04,Assembly and Testing,OR,1.6.4.4,TG,1.06.04,1.06
+370,1.06.05,Target Station Shielding,OR,1.6.5,TG,,1.06
+371,1.06.05.01,Bulk Shielding,OR,1.6.5.1,TG,1.06.05,1.06
+372,1.06.05.02,External Shell and Liners,OR,1.6.5.2,TG,1.06.05,1.06
+373,1.06.05.03,Shutter Systems,OR,1.6.5.3,TG,1.06.05,1.06
+374,1.06.05.04,Neutron Beamline Systems,OR,1.6.5.4,TG,1.06.05,1.06
+375,1.06.05.05,Roof Structure,OR,1.6.5.5,TG,1.06.05,1.06
+376,1.06.05.06,Assembly and Testing,OR,1.6.5.6,TG,1.06.05,1.06
+377,1.06.06,Target Utility Systems,OR,1.6.6,TG,,1.06
+378,1.06.06.01,Cooling Water Systems,OR,1.6.6.1,TG,1.06.06,1.06
+379,1.06.06.02,Vacuum Systems,OR,1.6.6.2,TG,1.06.06,1.06
+380,1.06.06.03,Helium Gas Systems,OR,1.6.6.3,TG,1.06.06,1.06
+381,1.06.06.04,Assembly and Testing,OR,1.6.6.4,TG,1.06.06,1.06
+382,1.06.07,Remote Handling Systems,OR,1.6.7,TG,,1.06
+383,1.06.07.01,Maintenance Cell Systems,OR,1.6.7.1,TG,1.06.07,1.06
+384,1.06.07.02,High Bay Maintenance Systems,OR,1.6.7.2,TG,1.06.07,1.06
+385,1.06.07.03,Beamline Maintenance Systems,OR,1.6.7.3,TG,1.06.07,1.06
+386,1.06.07.04,Utility Vault Maintenance Systems,OR,1.6.7.4,TG,1.06.07,1.06
+387,1.06.07.05,Beam Dump Maintenance Systems,OR,1.6.7.5,TG,1.06.07,1.06
+388,1.06.07.06,Remote Handling Control Room,OR,1.6.7.6,TG,1.06.07,1.06
+389,1.06.07.07,Assembly and Testing,OR,1.6.7.7,TG,1.06.07,1.06
+390,1.06.08,Controls,OR,1.6.8,TG,,1.06
+391,1.06.08.01,Controls Integration,OR,1.6.8.1,TG,1.06.08,1.06
+392,1.06.08.02,Target Systems,OR,1.6.8.2,TG,1.06.08,1.06
+393,1.06.08.03,Moderator Systems,OR,1.6.8.3,TG,1.06.08,1.06
+394,1.06.08.04,Reflector Systems,OR,1.6.8.4,TG,1.06.08,1.06
+395,1.06.08.05,Vessel Systems,OR,1.6.8.5,TG,1.06.08,1.06
+396,1.06.08.06,Shielding Systems,OR,1.6.8.6,TG,1.06.08,1.06
+397,1.06.08.07,Target Utility Systems,OR,1.6.8.7,TG,1.06.08,1.06
+398,1.06.08.08,Remote Handling System,OR,1.6.8.8,TG,1.06.08,1.06
+399,1.06.08.09,Beam Dump Systems,OR,1.6.8.9,TG,1.06.08,1.06
+400,1.06.08.10,Cabling,OR,1.6.8.10,TG,1.06.08,1.06
+401,1.06.08.11,Personnel Safety Systems,OR,1.6.8.11,TG,1.06.08,1.06
+402,1.06.09,Beam Dumps,OR,1.6.9,TG,,1.06
+403,1.06.09.01,Linac Beam Dump,OR,1.6.9.1,TG,1.06.09,1.06
+404,1.06.09.02,Ring Injection Dump,OR,1.6.9.2,TG,1.06.09,1.06
+405,1.06.09.03,Ring Extraction Dump,OR,1.6.9.3,TG,1.06.09,1.06
+406,1.06.09.04,Assembly and Testing,OR,1.6.9.4,TG,1.06.09,1.06
+407,1.06.10,Technical Support,OR,1.6.10,TG,,1.06
+408,1.06.10.01,Management and Physics Support,OR,1.6.10.1,TG,1.06.10,1.06
+409,1.06.10.02,Accel/Targt Sta Neut and Shldg Analysis,OR,1.6.10.2,TG,1.06.10,1.06
+410,1.06.10.03,Systems Analysis,OR,1.6.10.3,TG,1.06.10,1.06
+411,1.06.10.04,Integrated Systems Startup and Testing,OR,1.6.10.4,TG,1.06.10,1.06
+699,1.06.11,ORNL Field Coordination,OR,1.6.11,TG,,1.06
+412,1.07,Instrument Systems,AN,1.7,IS,,
+413,1.07.01,Instrument Support Facilities,AN,1.7.1,IS,,1.07
+414,1.07.01.01,Laboratories,AN,1.7.1.1,IS,1.07.01,1.07
+415,1.07.01.02,Machine Shops,AN,1.7.1.2,IS,1.07.01,1.07
+416,1.07.01.03,Equipment,AN,1.7.1.3,IS,1.07.01,1.07
+417,1.07.02,Technical Support,AN,1.7.2,IS,,1.07
+418,1.07.02.01,Management Support,AN,1.7.2.1,IS,1.07.02,1.07
+817,1.07.02.02,Integrated Systems Testing,AN,1.7.2.2,IS,1.07.02,1.07
+705,1.07.03,Shared Design/Construction,AN,1.7.3,IS,,1.07
+901,1.07.03.01,Other SNS Project Interface,AN,1.7.3.1,IS,1.07.03,1.07
+818,1.07.03.02,Data Acquisition,AN,1.7.3.2,IS,1.07.03,1.07
+819,1.07.03.03,Detectors,AN,1.7.3.3,IS,1.07.03,1.07
+820,1.07.03.04,Choppers,AN,1.7.3.4,IS,1.07.03,1.07
+902,1.07.03.05,Sample Environment,AN,1.7.3.5,IS,1.07.03,1.07
+821,1.07.03.06,Optical Elements,AN,1.7.3.6,IS,1.07.03,1.07
+822,1.07.03.07,Shielding,AN,1.7.3.7,IS,1.07.03,1.07
+420,1.07.04,High Resolution Backscattering Spectrometer,AN,1.7.4,IS,,1.07
+903,1.07.04.01,System Integration - High Resolution Backscattering Spectrometer,AN,1.7.4.1,IS,1.07.04,1.07
+904,1.07.04.02,Data Acquisition - High Resolution Backscattering Spectrometer,AN,1.7.4.2,IS,1.07.04,1.07
+905,1.07.04.03,Detectors - High Resolution Backscattering Spectrometer,AN,1.7.4.3,IS,1.07.04,1.07
+823,1.07.04.04,Choppers - High Resolution Backscattering Spectrometer,AN,1.7.4.4,IS,1.07.04,1.07
+906,1.07.04.05,Sample Environment - High Resolution Backscattering Spectrometer,AN,1.7.4.5,IS,1.07.04,1.07
+907,1.07.04.06,Optical Elements - High Resolution Backscattering Spectrometer,AN,1.7.4.6,IS,1.07.04,1.07
+824,1.07.04.07,Shielding - High Resolution Backscattering Spectrometer,AN,1.7.4.7,IS,1.07.04,1.07
+908,1.07.04.08,Instrument Specific - High Resolution Backscattering Spectrometer,AN,1.7.4.8,IS,1.07.04,1.07
+429,1.07.05,Magnetism Reflectometer,AN,1.7.5,IS,,1.07
+909,1.07.05.01,System Integration - Magnetism Reflectometer,AN,1.7.5.1,IS,1.07.05,1.07
+910,1.07.05.02,Data Acquisition - Magnetism Reflectometer,AN,1.7.5.2,IS,1.07.05,1.07
+911,1.07.05.03,Detectors - Magnetism Reflectometer,AN,1.7.5.3,IS,1.07.05,1.07
+825,1.07.05.04,Choppers - Magnetism Reflectometer,AN,1.7.5.4,IS,1.07.05,1.07
+912,1.07.05.05,Sample Environment - Magnetism Reflectometer,AN,1.7.5.5,IS,1.07.05,1.07
+913,1.07.05.06,Optical Elements - Magnetism Reflectometer,AN,1.7.5.6,IS,1.07.05,1.07
+826,1.07.05.07,Shielding - Magnetism Reflectometer,AN,1.7.5.7,IS,1.07.05,1.07
+914,1.07.05.08,Instrument Specific - Magnetism Reflectometer,AN,1.7.5.8,IS,1.07.05,1.07
+438,1.07.06,Liquids Reflectometer,AN,1.7.6,IS,,1.07
+915,1.07.06.01,System Integration - Liquids Reflectometer,AN,1.7.6.1,IS,1.07.06,1.07
+916,1.07.06.02,Data Acquisition - Liquids Reflectometer,AN,1.7.6.2,IS,1.07.06,1.07
+917,1.07.06.03,Detectors - Liquids Reflectometer,AN,1.7.6.3,IS,1.07.06,1.07
+827,1.07.06.04,Choppers - Liquids Reflectometer,AN,1.7.6.4,IS,1.07.06,1.07
+918,1.07.06.05,Sample Environment - Liquids Reflectometer,AN,1.7.6.5,IS,1.07.06,1.07
+919,1.07.06.06,Optical Elements - Liquids Reflectometer,AN,1.7.6.6,IS,1.07.06,1.07
+828,1.07.06.07,Shielding - Liquids Reflectometer,AN,1.7.6.7,IS,1.07.06,1.07
+920,1.07.06.08,Instrument Specific - Liquids Reflectometer,AN,1.7.6.8,IS,1.07.06,1.07
+447,1.07.07,Instrument #4 Set #2,AN,1.7.7,IS,,1.07
+921,1.07.07.01,System Integration - Instrument #4,AN,1.7.7.1,IS,1.07.07,1.07
+922,1.07.07.02,Data Acquisition - Instrument #4,AN,1.7.7.2,IS,1.07.07,1.07
+923,1.07.07.03,Detectors - Instrument #4,AN,1.7.7.3,IS,1.07.07,1.07
+829,1.07.07.04,IS-POW7 Choppers,AN,1.7.7.4,IS,1.07.07,1.07
+924,1.07.07.05,Sample Environment - Instrument #4,AN,1.7.7.5,IS,1.07.07,1.07
+925,1.07.07.06,Optical Elements - Instrument #4,AN,1.7.7.6,IS,1.07.07,1.07
+830,1.07.07.07,IS-POW7 Shielding,AN,1.7.7.7,IS,1.07.07,1.07
+926,1.07.07.08,Instrument Specific - Instrument #4,AN,1.7.7.8,IS,1.07.07,1.07
+456,1.07.08,Instrument #5 Set #2,AN,1.7.8,IS,,1.07
+927,1.07.08.01,System Integration - Instrument #5,AN,1.7.8.1,IS,1.07.08,1.07
+928,1.07.08.02,Data Acquisition - Instrument #5,AN,1.7.8.2,IS,1.07.08,1.07
+929,1.07.08.03,Detectors - Instrument #5,AN,1.7.8.3,IS,1.07.08,1.07
+831,1.07.08.04,IS-INEL4 Choppers,AN,1.7.8.4,IS,1.07.08,1.07
+930,1.07.08.05,Sample Environment - Instrument #5,AN,1.7.8.5,IS,1.07.08,1.07
+931,1.07.08.06,Optical Elements - Instrument #5,AN,1.7.8.6,IS,1.07.08,1.07
+832,1.07.08.07,IS-INEL4 Shielding,AN,1.7.8.7,IS,1.07.08,1.07
+932,1.07.08.08,Instrument Specific - Instrument #5,AN,1.7.8.8,IS,1.07.08,1.07
+933,1.07.08.13,Instrument Specific - Instrument #,AN,1.7.8.13,IS,1.07.08,1.07
+934,1.07.08.14,Instrument Specific - Instrument #,AN,1.7.8.14,IS,1.07.08,1.07
+465,1.07.09,Instrument #6 Set #2,AN,1.7.9,IS,,1.07
+935,1.07.09.01,System Integration - Instrument #6,AN,1.7.9.1,IS,1.07.09,1.07
+936,1.07.09.02,Data Acquisition - Instrument #6,AN,1.7.9.2,IS,1.07.09,1.07
+937,1.07.09.03,Detectors - Instrument #6,AN,1.7.9.3,IS,1.07.09,1.07
+833,1.07.09.04,IS-INEL1 Choppers,AN,1.7.9.4,IS,1.07.09,1.07
+938,1.07.09.05,Sample Environment - Instrument #6,AN,1.7.9.5,IS,1.07.09,1.07
+939,1.07.09.06,Optical Elements - Instrument #6,AN,1.7.9.6,IS,1.07.09,1.07
+834,1.07.09.07,IS-INEL1 Shielding,AN,1.7.9.7,IS,1.07.09,1.07
+940,1.07.09.08,Instrument Specific - Instrument #6,AN,1.7.9.8,IS,1.07.09,1.07
+474,1.07.10,Instrument #7 Set #3,AN,1.7.10,IS,,1.07
+941,1.07.10.01,System Integration - Instrument #7,AN,1.7.10.1,IS,1.07.10,1.07
+806,1.07.10.02,Instrument #7 Set #3,AN,1.7.10.2,IS,1.07.10,1.07
+942,1.07.10.03,Detectors - Instrument #7,AN,1.7.10.3,IS,1.07.10,1.07
+807,1.07.10.04,IS-SANS2 Choppers,AN,1.7.10.4,IS,1.07.10,1.07
+943,1.07.10.05,Sample Environment - Instrument #7,AN,1.7.10.5,IS,1.07.10,1.07
+944,1.07.10.06,Optical Elements - Instrument #7,AN,1.7.10.6,IS,1.07.10,1.07
+808,1.07.10.07,IS-SANS2 Shielding,AN,1.7.10.7,IS,1.07.10,1.07
+945,1.07.10.08,Instrument Specific - Instrument #7,AN,1.7.10.8,IS,1.07.10,1.07
+483,1.07.11,Instrument #8 Set #3,AN,1.7.11,IS,,1.07
+946,1.07.11.01,System Integration - Instrument #8,AN,1.7.11.1,IS,1.07.11,1.07
+947,1.07.11.02,Data Acquisition - Instrument #8,AN,1.7.11.2,IS,1.07.11,1.07
+948,1.07.11.03,Detectors - Instrument #8,AN,1.7.11.3,IS,1.07.11,1.07
+809,1.07.11.04,IS-REF1 Choppers,AN,1.7.11.4,IS,1.07.11,1.07
+949,1.07.11.05,Sample Environment - Instrument #8,AN,1.7.11.5,IS,1.07.11,1.07
+950,1.07.11.06,Optical Elements - Instrument #8,AN,1.7.11.6,IS,1.07.11,1.07
+810,1.07.11.07,IS-REF1 Shielding,AN,1.7.11.7,IS,1.07.11,1.07
+951,1.07.11.08,Instrument Specific - Instrument #6,AN,1.7.11.8,IS,1.07.11,1.07
+492,1.07.12,Instrument #9 Set #4,AN,1.7.12,IS,,1.07
+952,1.07.12.01,System Integration - Instrument #9,AN,1.7.12.1,IS,1.07.12,1.07
+953,1.07.12.02,Data Acquisition - Instrument #9,AN,1.7.12.2,IS,1.07.12,1.07
+954,1.07.12.03,Detectors - Instrument #9,AN,1.7.12.3,IS,1.07.12,1.07
+813,1.07.12.04,IS-POW6 Choppers,AN,1.7.12.4,IS,1.07.12,1.07
+955,1.07.12.05,Sample Environment - Instrument #9,AN,1.7.12.5,IS,1.07.12,1.07
+956,1.07.12.06,Optical Elements - Instrument #9,AN,1.7.12.6,IS,1.07.12,1.07
+814,1.07.12.07,IS-POW6 Shielding,AN,1.7.12.7,IS,1.07.12,1.07
+957,1.07.12.08,Instrument Specific - Instrument #9,AN,1.7.12.8,IS,1.07.12,1.07
+501,1.07.13,Instrument #10 Set #4,AN,1.7.13,IS,,1.07
+815,1.07.13.04,IS-INEL5 Chopper,AN,1.7.13.4,IS,1.07.13,1.07
+816,1.07.13.07,IS-INEL5 Shielding,AN,1.7.13.7,IS,1.07.13,1.07
+689,1.07.14,TBD - Future Instruments,AN,1.7.14,IS,,1.07
+690,1.07.15,TBD - Future Instruments,AN,1.7.15,IS,,1.07
+691,1.07.16,TBD - Future Instruments,AN,1.7.16,IS,,1.07
+510,1.08,Conventional Facilities,CM,1.8,CF,,
+511,1.08.01,Technical Support,CM,1.8.1,CF,,1.08
+512,1.08.01.01,AE Coordination (ORNL),CM,1.8.1.1,CF,1.08.01,1.08
+513,1.08.01.02,ORNL Project Management,CM,1.8.1.2,CF,1.08.01,1.08
+514,1.08.01.03,AE/CM Project Management,CM,1.8.1.3,CF,1.08.01,1.08
+515,1.08.01.04,Construction Management,CM,1.8.1.4,CF,1.08.01,1.08
+516,1.08.02,Land Improvements and Constr Support,CM,1.8.2,CF,,1.08
+517,1.08.02.01,"Roadwork, walks, plazas, paved areas",CM,1.8.2.1,CF,1.08.02,1.08
+518,1.08.02.02,Site Characterization,CM,1.8.2.2,CF,1.08.02,1.08
+519,1.08.02.03,Site Work,CM,1.8.2.3,CF,1.08.02,1.08
+520,1.08.02.04,Stormwater Management,CM,1.8.2.4,CF,1.08.02,1.08
+521,1.08.02.05,Groundwater Interceptor Sys,CM,1.8.2.5,CF,1.08.02,1.08
+522,1.08.02.06,Retaining Walls,CM,1.8.2.6,CF,1.08.02,1.08
+523,1.08.02.07,Landscaping,CM,1.8.2.7,CF,1.08.02,1.08
+524,1.08.02.08,Fencing,CM,1.8.2.8,CF,1.08.02,1.08
+525,1.08.02.09,Security Inspector Post,CM,1.8.2.9,CF,1.08.02,1.08
+526,1.08.02.10,Borrow areas,CM,1.8.2.10,CF,1.08.02,1.08
+527,1.08.02.11,Excavation Disposal Areas,CM,1.8.2.11,CF,1.08.02,1.08
+528,1.08.02.12,Construction Support,CM,1.8.2.12,CF,1.08.02,1.08
+529,1.08.03,Buildings,CM,1.8.3,CF,,1.08
+530,1.08.03.01,Front End Buildings,CM,1.8.3.1,CF,1.08.03,1.08
+531,1.08.03.02,Linac Tunnel,CM,1.8.3.2,CF,1.08.03,1.08
+532,1.08.03.03,Klystron Hall and HEBT Service Building,CM,1.8.3.3,CF,1.08.03,1.08
+533,1.08.03.04,HEBT Tunnel,CM,1.8.3.4,CF,1.08.03,1.08
+534,1.08.03.05,Storage Ring Tunnel,CM,1.8.3.5,CF,1.08.03,1.08
+535,1.08.03.06,RTBT Tunnel,CM,1.8.3.6,CF,1.08.03,1.08
+536,1.08.03.07,Target Building and Experiment Hall,CM,1.8.3.7,CF,1.08.03,1.08
+537,1.08.03.08,Ring Service Building,CM,1.8.3.8,CF,1.08.03,1.08
+538,1.08.03.09,RTBT Service Building,CM,1.8.3.9,CF,1.08.03,1.08
+539,1.08.03.10,Dump Buildings,CM,1.8.3.10,CF,1.08.03,1.08
+540,1.08.03.11,Utility Buildings,CM,1.8.3.11,CF,1.08.03,1.08
+541,1.08.03.12,Technical Service Buildings,CM,1.8.3.12,CF,1.08.03,1.08
+542,1.08.03.13,Central Control Building,CM,1.8.3.13,CF,1.08.03,1.08
+543,1.08.03.14,Central Lab & Office Building,CM,1.8.3.14,CF,1.08.03,1.08
+544,1.08.03.15,Site Buildings and Structures,CM,1.8.3.15,CF,1.08.03,1.08
+787,1.08.03.16,Central Helium Liquifier Building,CM,1.8.3.16,CF,1.08.03,1.08
+788,1.08.03.17,Superconducting Radio Frequency Building,CM,1.8.3.17,CF,1.08.03,1.08
+545,1.08.04,Utility Systems,CM,1.8.4,CF,,1.08
+546,1.08.04.01,Electrical Site Services,CM,1.8.4.1,CF,1.08.04,1.08
+547,1.08.04.02,HVAC Site Services,CM,1.8.4.2,CF,1.08.04,1.08
+548,1.08.04.03,Mechanical/Piping Utility Systems,CM,1.8.4.3,CF,1.08.04,1.08
+549,1.08.04.04,Waste Systems,CM,1.8.4.4,CF,1.08.04,1.08
+550,1.08.04.05,Maintenance and General Purpose Equipment,CM,1.8.4.5,CF,1.08.04,1.08
+551,1.08.04.06,Fire Protection,CM,1.8.4.6,CF,1.08.04,1.08
+552,1.08.05,Conventional Facilites Local Controls,CM,1.8.5,CF,,1.08
+553,1.08.05.01,Conventional Facilites Local Controls,CM,1.8.5.1,CF,1.08.05,1.08
+554,1.08.05.02,Electrical Power and Communications Svcs,CM,1.8.5.2,CF,1.08.05,1.08
+555,1.08.05.03,HVAC Services,CM,1.8.5.3,CF,1.08.05,1.08
+556,1.08.05.04,Mechanical & Piping Services,CM,1.8.5.4,CF,1.08.05,1.08
+557,1.08.05.05,Waste Systems,CM,1.8.5.5,CF,1.08.05,1.08
+558,1.08.05.06,Predictive Maintenance System,CM,1.8.5.6,CF,1.08.05,1.08
+559,1.08.05.07,Plant Security System,CM,1.8.5.7,CF,1.08.05,1.08
+560,1.08.06,Safety and Computing Systems,CM,1.8.6,CF,,1.08
+561,1.08.06.01,Personal Protection System,CM,1.8.6.1,CF,1.08.06,1.08
+562,1.08.06.02,Business Computing Systems,CM,1.8.6.2,CF,1.08.06,1.08
+563,1.08.06.03,Emergency Response Facilities Systems,CM,1.8.6.3,CF,1.08.06,1.08
+564,1.09,Integrated Control Systems,OR,1.9,CO,,
+565,1.09.01,ICS Integration,LA,1.9.1,CO,,1.09
+566,1.09.01.01,Project Management,LA,1.9.1.1,CO,1.09.01,1.09
+789,1.09.01.02,Cable Coordination,LA,1.9.1.2,CO,1.09.01,1.09
+568,1.09.02,Global Systems,LA,1.9.2,CO,,1.09
+569,1.09.02.01,ICS Network,LA,1.9.2.1,CO,1.09.02,1.09
+570,1.09.02.02,Timing System,LA,1.9.2.2,CO,1.09.02,1.09
+571,1.09.02.03,Equipment Protection Systems,LA,1.9.2.3,CO,1.09.02,1.09
+572,1.09.02.04,"Computing Equipment (C.R. Servers,etc.)",LA,1.9.2.4,CO,1.09.02,1.09
+573,1.09.02.05,Software (System & Application),LA,1.9.2.5,CO,1.09.02,1.09
+574,1.09.02.06,Software Development System,LA,1.9.2.6,CO,1.09.02,1.09
+577,1.09.03,Front End Systems,LB,1.9.3,CO,,1.09
+578,1.09.03.01,Front End Control System Integration,LB,1.9.3.1,CO,1.09.03,1.09
+579,1.09.03.02,Ion Source Controls,LB,1.9.3.2,CO,1.09.03,1.09
+580,1.09.03.03,LEBT Controls,LB,1.9.3.3,CO,1.09.03,1.09
+581,1.09.03.04,RFQ Controls,LB,1.9.3.4,CO,1.09.03,1.09
+582,1.09.03.05,MEBT Controls,LB,1.9.3.5,CO,1.09.03,1.09
+583,1.09.03.06,Cooling and Vacuum Controls,LB,1.9.3.6,CO,1.09.03,1.09
+584,1.09.04,Linac Control Systems,LA,1.9.4,CO,,1.09
+585,1.09.04.01,Linac Control Systems Integration,LA,1.9.4.1,CO,1.09.04,1.09
+586,1.09.04.02,DTL Control Systems,LA,1.9.4.2,CO,1.09.04,1.09
+587,1.09.04.03,CCDTL Control Systems,LA,1.9.4.3,CO,1.09.04,1.09
+588,1.09.04.04,CCL Control Systems,LA,1.9.4.4,CO,1.09.04,1.09
+589,1.09.04.05,Other Systems,LA,1.9.4.5,CO,1.09.04,1.09
+592,1.09.04.06,RF Power,LA,1.9.4.6,CO,1.09.04,1.09
+704,1.09.04.07,Standard System Design,LA,1.9.4.7,CO,1.09.04,1.09
+802,1.09.04.09,"Recurring Design for Cold Linac Vacuum, Cooling and Power Supply Subsystems",OR,1.9.4.9,CO,1.09.04,1.09
+803,1.09.04.11,Controls Systems for the Cold Linac RF Subsystem,OR,1.9.4.11,CO,1.09.04,1.09
+593,1.09.05,Ring Controls,BN,1.9.5,CO,,1.09
+594,1.09.05.01,Ring ICS Integration Activities,BN,1.9.5.1,CO,1.09.05,1.09
+595,1.09.05.02,Power Supply Controls,BN,1.9.5.2,CO,1.09.05,1.09
+596,1.09.05.03,Diagnostics,BN,1.9.5.3,CO,1.09.05,1.09
+597,1.09.05.04,Vacuum Controls,BN,1.9.5.4,CO,1.09.05,1.09
+598,1.09.05.05,Application Programming,BN,1.9.5.5,CO,1.09.05,1.09
+962,1.09.05.06,RF Controls,BN,1.9.5.6,CO,1.09.05,1.09
+599,1.09.06,Target Global Controls,OR,1.9.6,CO,,1.09
+600,1.09.06.01,Target Controls Integration,OR,1.9.6.1,CO,1.09.06,1.09
+601,1.09.06.02,Target Systems Controls,OR,1.9.6.2,CO,1.09.06,1.09
+602,1.09.06.03,Target Utilities Controls,OR,1.9.6.3,CO,1.09.06,1.09
+603,1.09.06.04,Reflector Systems,OR,1.9.6.4,CO,1.09.06,1.09
+604,1.09.06.05,Vessel Systems,OR,1.9.6.5,CO,1.09.06,1.09
+605,1.09.06.06,Shielding Systems,OR,1.9.6.6,CO,1.09.06,1.09
+606,1.09.06.07,Target Utilty Systems,OR,1.9.6.7,CO,1.09.06,1.09
+607,1.09.06.08,Remote Handling System Interface,OR,1.9.6.8,CO,1.09.06,1.09
+608,1.09.06.09,Beam Dump Systems,OR,1.9.6.9,CO,1.09.06,1.09
+609,1.09.07,Control Systems,AN,1.9.7,CO,,1.09
+610,1.09.07.01,Instrument Support Facilities Controls,AN,1.9.7.1,CO,1.09.07,1.09
+611,1.09.07.02,System Integration,AN,1.9.7.2,CO,1.09.07,1.09
+612,1.09.07.03,POW3 Controls,AN,1.9.7.3,CO,1.09.07,1.09
+613,1.09.07.04,INEL2 Controls,AN,1.9.7.4,CO,1.09.07,1.09
+614,1.09.07.05,SCD1 Controls,AN,1.9.7.5,CO,1.09.07,1.09
+615,1.09.07.06,POW7 Controls,AN,1.9.7.6,CO,1.09.07,1.09
+616,1.09.07.07,INEL4 Controls,AN,1.9.7.7,CO,1.09.07,1.09
+617,1.09.07.08,INEL1 Controls,AN,1.9.7.8,CO,1.09.07,1.09
+618,1.09.07.09,SANS2 Cotrols,AN,1.9.7.9,CO,1.09.07,1.09
+619,1.09.07.10,REF1 Controls,AN,1.9.7.10,CO,1.09.07,1.09
+620,1.09.07.11,POW6 Controls,AN,1.9.7.11,CO,1.09.07,1.09
+621,1.09.07.12,INEL5 Controls,AN,1.9.7.12,CO,1.09.07,1.09
+622,1.09.08,Conventional Facilities ICS Interface,CM,1.9.8,CO,,1.09
+623,1.09.08.01,Integration Activities,CM,1.9.8.1,CO,1.09.08,1.09
+624,1.09.08.02,Systems and Equipment,CM,1.9.8.2,CO,1.09.08,1.09
+625,1.09.08.03,HVAC System Interface,CM,1.9.8.3,CO,1.09.08,1.09
+626,1.09.08.04,Mechanical & Piping Systems Interface,CM,1.9.8.4,CO,1.09.08,1.09
+627,1.09.08.05,Waste Processing Systems Interface,CM,1.9.8.5,CO,1.09.08,1.09
+629,1.09.08.06,ORNL Emergency Response Facility Interface,CM,1.9.8.6,CO,1.09.08,1.09
+659,1.09.09,Personnel Protection,OR,1.9.9,CO,,1.09
+660,1.09.09.01,Accelerator Personnel Protection,OR,1.9.9.1,CO,1.09.09,1.09
+661,1.09.09.02,Target Facility Personnel Protection,OR,1.9.9.2,CO,1.09.09,1.09
+662,1.09.09.03,Health Physics Instruments and Stack Mont.,OR,1.9.9.3,CO,1.09.09,1.09
+798,1.09.09.04,ODH Alarm System,OR,1.9.9.4,CO,1.09.09,1.09
+715,1.09.10,CHL & Cryomodule Supervisory Controls,OR,1.9.10,CO,,1.09
+799,1.09.10.01,Integration Activities,OR,1.9.10.1,CO,1.09.10,1.09
+800,1.09.10.02,CHL Controls,OR,1.9.10.2,CO,1.09.10,1.09
+801,1.09.10.03,Cryomodule Controls,OR,1.9.10.3,CO,1.09.10,1.09
+633,1.10,Pre-Operations,OR,1.10,OP,,
+634,1.10.01,Administration,OR,1.10.1,OP,,1.10
+635,1.10.01.01,Directorate,OR,1.10.1.1,OP,1.10.01,1.10
+636,1.10.02,Accelerator Division,OR,1.10.2,OP,,1.10
+637,1.10.02.01,Accelerator Division Management,OR,1.10.2.1,OP,1.10.02,1.10
+667,1.10.02.02,Operations Section,OR,1.10.2.2,OP,1.10.02,1.10
+668,1.10.02.03,Accelerator Physics Section,OR,1.10.2.3,OP,1.10.02,1.10
+669,1.10.02.04,Accelerator Technology Section,OR,1.10.2.4,OP,1.10.02,1.10
+670,1.10.02.05,Controls Section,OR,1.10.2.5,OP,1.10.02,1.10
+677,1.10.02.06,Accelerator Systems Operations Support,OR,1.10.2.6,OP,1.10.02,1.10
+638,1.10.03,Site Operations Division,OR,1.10.3,OP,,1.10
+639,1.10.03.01,Site Operations Management,OR,1.10.3.1,OP,1.10.03,1.10
+671,1.10.03.02,Facilities Operation,OR,1.10.3.2,OP,1.10.03,1.10
+672,1.10.03.03,ES&H Operations,OR,1.10.3.3,OP,1.10.03,1.10
+678,1.10.03.04,"Business, Finance",OR,1.10.3.4,OP,1.10.03,1.10
+679,1.10.03.05,Procurement,OR,1.10.3.5,OP,1.10.03,1.10
+680,1.10.03.06,Human Resources,OR,1.10.3.6,OP,1.10.03,1.10
+681,1.10.03.07,Information Management,OR,1.10.3.7,OP,1.10.03,1.10
+682,1.10.03.08,Configuration Management,OR,1.10.3.8,OP,1.10.03,1.10
+683,1.10.03.09,Quality Assurance,OR,1.10.3.9,OP,1.10.03,1.10
+640,1.10.04,Experimental Facilities Division,OR,1.10.4,OP,,1.10
+641,1.10.04.01,Experimental Facilities Management,OR,1.10.4.1,OP,1.10.04,1.10
+673,1.10.04.02,Instrument Systems Section,OR,1.10.4.2,OP,1.10.04,1.10
+674,1.10.04.03,Target Systems Section,OR,1.10.4.3,OP,1.10.04,1.10
+675,1.10.04.04,User Coordination,OR,1.10.4.4,OP,1.10.04,1.10
+676,1.10.04.05,Experimental Facilities Operations,OR,1.10.4.5,OP,1.10.04,1.10
+684,1.10.04.06,Experimental Facilities Personnel Protection,OR,1.10.4.6,OP,1.10.04,1.10
+642,1.10.05,Utilities,OR,1.10.5,OP,,1.10
+643,1.10.05.01,Electrical Power,OR,1.10.5.1,OP,1.10.05,1.10
+644,1.10.05.02,Water,OR,1.10.5.2,OP,1.10.05,1.10
+645,1.10.05.03,Natural Gas,OR,1.10.5.3,OP,1.10.05,1.10
+685,1.10.05.04,Waste Disposal,OR,1.10.5.4,OP,1.10.05,1.10
+686,1.10.05.05,"Other Utilities, consumables",OR,1.10.5.5,OP,1.10.05,1.10
+687,1.10.06,Inventory,OR,1.10.6,OP,,1.10
